@@ -1,5 +1,7 @@
 import React from "react";
-
+import {} from 'react-icons'
+import { FaBlog, FaFacebook, FaFlickr, FaInstagram, FaLinkedin, FaPinterest, FaSnapchat, FaTwitter, FaYoutube } from "react-icons/fa";
+import { FaThreads } from "react-icons/fa6";
 function ContactOffice() {
   return (
     <div className="hero min-h-screen">
@@ -49,7 +51,7 @@ function ContactOffice() {
               Head Office
             </div>
           </div>
-          <div className="h-auto lg:h-96 w-full lg:w-[29rem] text-white bg-teal-500 rounded-lg flex flex-col p-3">
+          <div className="h-auto w-full lg:w-[29rem] text-white bg-teal-500 rounded-lg flex flex-col p-3">
             <div className="mt-6">
               <h3 className="text-xl font-bold">
                 KSA TOURS & TRAVELS Pvt. Ltd.
@@ -104,7 +106,7 @@ function ContactOffice() {
                   +914844047771
                 </a>
               </div>
-            </div>
+            </div>  
             {/* email and timing */}
             <div className="flex justify-between mt-4 p-2">
               {/* email */}
@@ -122,6 +124,49 @@ function ContactOffice() {
                   Monday - Saturday
                 </h4>
                 <span className="font-normal">09:00 AM - 6:30 PM</span>
+              </div>
+            </div>
+            {/* SOCAIL MEDIAS  */}
+            <div className=" my-4 p-2">
+                <h4 className="font-bold underline underline-offset-2">
+                  Social Medias
+                </h4>
+              <div className="flex mt-2">
+                <a href="https://www.instagram.com/ksatours/">
+                  <FaInstagram className=" text-3xl mx-2" />
+                </a>
+                <a href="https://x.com/ksatourstravels">
+                  <FaTwitter className=" text-3xl mx-2" />
+                </a>
+                <a href="https://www.facebook.com/ksatoursandtravelspvtltd/">
+                  <FaFacebook className=" text-3xl mx-2" />
+                </a>
+                <a href="https://www.threads.net/@ksatours">
+                  <FaThreads className=" text-3xl mx-2" />
+                </a>
+                <a href="https://www.linkedin.com/company/ksa-tours-and-travels-pvt-ltd">
+                  <FaLinkedin className=" text-3xl mx-2" />
+                </a>
+                <a href="https://pin.it/6sF5oWAIk">
+                  <FaPinterest className=" text-3xl mx-2" />
+                </a>
+                <a href="https://www.snapchat.com/add/travelvloggerr">
+                  <FaSnapchat className=" text-3xl mx-2" />
+                </a>
+                <a href="https://flic.kr/ps/2z6MK9">
+                  <FaFlickr className=" text-3xl mx-2" />
+                </a>
+                <a href="https://ksatoursntravels.blogspot.com/">
+                  <FaBlog className=" text-3xl mx-2" />
+                </a>
+              </div>
+              <div className="flex flex-col mt-2">
+                <a href="http://www.youtube.com/@KSAToursandTravelsPvtLtd">
+                  <span> <FaYoutube className=" text-3xl mx-2 inline" /> Official channel </span>
+                </a>
+                <a href="http://youtube.com/c/SAFARIDAYS/videos">
+                  <span> <FaYoutube className=" text-3xl mx-2 inline" /> Vlogs channel </span>
+                </a>
               </div>
             </div>
           </div>
