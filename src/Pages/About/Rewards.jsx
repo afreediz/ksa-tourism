@@ -22,11 +22,11 @@ const Rewards = () => {
             </div>
             <div data-aos="fade-right" className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-6 gap-2 place-items-center justify-items-center m-3">
               <Circle text={"IATO"}/>
-              <Circle text={"ITO"}/>
-              <Circle text={"ATTOIC"}/>
-              <Circle text={"TOAK"}/>
-              <Circle text={"KTDC"}/>
               <Circle text={"KTM"}/>
+              <Circle text={"IATA"}/>
+              <Circle text={"OTOAI"}/>
+              <Circle text={"KTDC"}/>
+              <Circle text={"TAAI"}/>
             </div>
         </div>
     );
