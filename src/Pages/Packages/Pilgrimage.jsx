@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import pilgrimageData from './pilgrimage'; // Assuming pilgrimageData is the name of your data file
+import {pilgrimage} from './packagesdata'; // Assuming pilgrimageData is the name of your data file
 
 export default function Pilgrimage() {
   const [expandIndex, setExpandIndex] = useState(-1)
     return (
         <div className="container mx-auto px-4 py-8">
-            {pilgrimageData && pilgrimageData.map((tourPackage, index) => (
+            {pilgrimage && pilgrimage.map((tourPackage, index) => (
                 <div 
                   key={index} 
                   className={`collapse ${expandIndex == index ? "collapse-open" : "collapse-close"}  border rounded-lg shadow-sm cursor-pointer bg-gray-100 hover:bg-gray-200 transition-colors duration-300 mb-8`}
