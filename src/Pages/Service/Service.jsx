@@ -1,9 +1,11 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import Navbar from '../../Components/Navbar'
 import Footer from '../../Components/Footer'
 import WhatsappButton from '../../Components/WhatsappButton'
 
 function Service() {
+  useEffect(() => window.scrollTo(0, 0), []);
+
   return (
     <div>
       <WhatsappButton/>

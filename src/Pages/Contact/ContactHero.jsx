@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 function ContactHero() {
   return (
     <div className="hero min-h-screen">
@@ -15,7 +15,18 @@ function ContactHero() {
             here to tailor-make your dream vacation. Contact us now and let the
             journey begin
           </p>
-          <button className="btn bg-teal-500 border-none text-white">Get Started</button>
+          <a to="#contactform">
+            <button 
+            className="btn bg-teal-500 border-none text-white"
+            // scroll to form section
+            onClick={()=>{
+              window.scrollTo({
+                top: (55 * document.documentElement.scrollHeight) / 100,
+                behavior: 'smooth'
+              });
+            }}
+            >Get Started</button>
+          </a>
         </div>
       </div>
     </div>

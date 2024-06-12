@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactForm() {
   return (
-    <div className="hero min-h-screen">
+    <div className="hero min-h-screen" id="contactform">
       <div className="hero-content grid lg:flex items-start w-full">
         <div data-aos="fade-right" className="w-full lg:w-2/5">
             <span className="font-bold text-teal-500 uppercase">get in touch with us</span>

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Navbar from '../../Components/Navbar';
 import Footer from '../../Components/Footer';
 import WhatsappButton from '../../Components/WhatsappButton';
@@ -14,6 +14,8 @@ function Packages() {
   const page =[<Pilgrimage/>,<Domestic/>,<International/>,<Education/>]
   const btnLabel = ["Pilgrimage","Domestic","International","Educational"]
   const [currentView, setCurrentView] = useState(packages ? btnLabel.indexOf(packages) : 0);
+  useEffect(() => window.scrollTo(0, 0), []);
+
   return (
     <main>
       <WhatsappButton />
