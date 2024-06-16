@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Poppins:ital,wght@1,500&family=Varela+Round&display=swap');
+html {
+  --cursor-color: #000;
+  ::-webkit-scrollbar {display:none;}
+  scroll-behavior: smooth;
+
+}
+
+.card .image-card::before{
+    position: relative;
+    content: "";
+    z-index: 10;
+    border-radius: var(--rounded-box, 1rem/* 16px */);
+
+} 
+.App {
+  font-family: "Prompt", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.heading{
+  
+  @apply  text-3xl  text-center font-semibold text-gray-900;
+}
