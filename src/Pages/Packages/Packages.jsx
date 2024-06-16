@@ -6,11 +6,14 @@ import Education from './Education';
 import Domestic from './Domestic';
 import International from './International';
 import Pilgrimage from './Pilgrimage';
+import { useNavigate, useParams } from 'react-router-dom';
 
 function Packages() {
-  const [currentView,setCurrentView] = useState(0)
+  const { packages } = useParams()
+  const naviage = useNavigate()
   const page =[<Pilgrimage/>,<Domestic/>,<International/>,<Education/>]
   const btnLabel = ["Pilgrimage","Domestic","International","Educational"]
+  const [currentView, setCurrentView] = useState(packages ? btnLabel.indexOf(packages) : 0);
   return (
     <main>
       <WhatsappButton />
@@ -19,7 +22,10 @@ function Packages() {
         <h3 className="text-2xl font-bold mb-6 text-black">Packages</h3>
         <div className="flex flex-wrap gap-4">
           {btnLabel.map((_,index) => (
-              <button className={`btn border-none text-white hover:bg-teal-700 ${index === currentView ? "bg-teal-500" : "bg-gray-800"}`} onClick={() => setCurrentView(index)}>{btnLabel[index]}</button>
+              <button className={`btn border-none text-white hover:bg-teal-700 ${index === currentView ? "bg-teal-500" : "bg-gray-800"}`} onClick={() =>{
+                  naviage(`/packages/${btnLabel[index]}`)
+                  setCurrentView(index)
+                }}>{btnLabel[index]}</button>
           ))}
         </div>
         {/* ? page  */}

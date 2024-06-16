@@ -56,7 +56,7 @@ function App() {
         <Route path="/about" element={<About/>}/>
         <Route path="/blog" element={<Blog/>}/>
         <Route path="/kerala-tourism" element={<KeralaTourism/>}/>
-        <Route path="/packages" element={<Packages/>}/>
+        <Route path="/packages/:packages?" element={<Packages/>}/>
         <Route path="/service" element={<Service/>}/>
         <Route path="/contact" element={<Contact/>}/>
       </Routes>
