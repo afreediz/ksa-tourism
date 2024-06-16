@@ -17,6 +17,7 @@ const images = [
   "/Images/org/org-13.png",
   "/Images/org/org-14.png",
   "/Images/org/org-15.png",
+  "/Images/org/org-16.png",
 ]
 
 function Organizations() {
@@ -26,7 +27,7 @@ function Organizations() {
       <div className="flex flex-wrap items-center justify-center gap-2">
       {images.map((_,index) => (
         <div className=' '>
-        <img src={images[index]} className='h-44 w-44 object-contain' alt="" />
+        <img src={images[index]} className='h-40 w-40 object-contain' alt="" />
       </div>
       ))}
       </div>
