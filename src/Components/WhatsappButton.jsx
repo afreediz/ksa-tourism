@@ -1,6 +1,7 @@
 import React from 'react'
 import { MdOutlineWhatsapp} from "react-icons/md"
 import "./WhatsappButton.css"
+import { Link } from 'react-router-dom'
 
 function WhatsappButton() {
   return (
@@ -14,7 +15,7 @@ function WhatsappButton() {
 
 const WhatsappIcon = () => {
   return(
-   <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+   <Link to={"https://wa.me/+919497192849"} target="_blank" rel="noopener noreferrer">
      <button  className="cta flex items-center justify-center text-white bg-teal-500 border-2 border-teal-500">
         <i className="text-2xl">
         <MdOutlineWhatsapp/>
@@ -23,7 +24,7 @@ const WhatsappIcon = () => {
           Contact Us
           </span>
       </button>
-   </a>
+   </Link>
   )
 }
 
