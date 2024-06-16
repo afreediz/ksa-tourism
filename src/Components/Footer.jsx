@@ -1,21 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Footer() {
   return (
-    <footer className="footer p-10 bg-base-300 text-base-content ">
-  <nav>
-    <h6 className="footer-title">Services</h6> 
-    <a className="link link-hover">Branding</a>
-    <a className="link link-hover">Design</a>
-    <a className="link link-hover">Marketing</a>
-    <a className="link link-hover">Advertisement</a>
-  </nav> 
+    <footer className="footer p-10 bg-base-300 text-base-content flex justify-around">
   <nav>
     <h6 className="footer-title">Company</h6> 
-    <a className="link link-hover">About us</a>
-    <a className="link link-hover">Contact</a>
-    <a className="link link-hover">Jobs</a>
-    <a className="link link-hover">Press kit</a>
+    <Link to={"/"} className="link link-hover">Home</Link>
+    <Link to={"/about"} className="link link-hover">About us</Link>
+    <Link to={"/blog"} className="link link-hover">Blog</Link>
+    <Link to={"/kerala-tourism"} className="link link-hover">kerala tourism</Link>
+    <Link to={"/packages"} className="link link-hover">Packages</Link>
+    <Link to={"/service"} className="link link-hover">Services</Link>
+    <Link to={"/contact"} className="link link-hover">Contact</Link>
   </nav> 
   <nav>
     <h6 className="footer-title">Social</h6> 
