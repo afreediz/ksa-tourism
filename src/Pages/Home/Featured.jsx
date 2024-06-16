@@ -35,7 +35,6 @@ function Featured() {
           alt="London"
         />
       </div>
-      <button className="mt-6 px-5 py-1.5 mx-auto btn border-none bg-teal-400 font-bold text-white transition ease-in-out delay-200 duration-300">View More ...</button>
     </div>
   );
 }
