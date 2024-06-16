@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const data = [
   {
     id: 1,
@@ -38,7 +40,9 @@ const Card = ({ image, title, caption }) => (
       <h2 className="text-xl font-bold text-black ">{title}</h2>
       <p>{caption}</p>
       <div className="card-actions justify-end">
-        <div className="badge badge-outline bg-teal-400 text-white hover:bg-teal-700 cursor-pointer">Read More</div>
+        <Link to="/packages">
+          <div className="badge badge-outline bg-teal-400 text-white hover:bg-teal-700 cursor-pointer px-6 py-4 font-bold">Read More</div>
+        </Link>
       </div>
     </div>
   </div>
