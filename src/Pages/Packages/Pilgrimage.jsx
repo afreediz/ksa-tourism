@@ -1,14 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import pilgrimageData from './pilgrimage'; // Assuming pilgrimageData is the name of your data file
 
 export default function Pilgrimage() {
+  const [expandIndex, setExpandIndex] = useState(-1)
     return (
         <div className="container mx-auto px-4 py-8">
             {pilgrimageData && pilgrimageData.map((tourPackage, index) => (
-                <div key={index} className="collapse collapse-plus  border rounded-lg shadow-sm cursor-pointer bg-gray-100 hover:bg-gray-200 transition-colors duration-300 mb-8">
+                <div 
+                  key={index} 
+                  className={`collapse ${expandIndex == index ? "collapse-open" : "collapse-close"}  border rounded-lg shadow-sm cursor-pointer bg-gray-100 hover:bg-gray-200 transition-colors duration-300 mb-8`}
+                  onClick={() => setExpandIndex((index === expandIndex) ? -1 : index)}
+                  >
                     <input type="radio" name="my-accordion-3" />
-                    <div className="collapse-title text-xl font-medium text-black text-left uppercase">
-                      {tourPackage.package_name}  {tourPackage.duration}
+                    <div className="collapse-title text-xl font-medium text-black text-left uppercase flex justify-between">
+                      <div className="">
+                        {tourPackage.package_name}  {tourPackage.duration}
+                      </div>
+                      <div className="">{expandIndex == index ? "-" : "+"}</div>
                     </div>
                     <div className="collapse-content text-left text-black">
                         {tourPackage.itinerary && tourPackage.itinerary.map((day, dayIndex) => (
