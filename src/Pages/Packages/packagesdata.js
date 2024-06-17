@@ -1115,4 +1115,229 @@ const domestic = [
         description: "After breakfast, check out from the Hotel and free time till departure to connect onwards to Amritsar Airport / Railways Station. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for a lifetime."
       }
     ]
+  },{
+    package_name: "KERALA HILLSR",
+    duration: "03N/04D",
+    itinerary: [
+      {
+        day: "Day 01: Cochin",
+        description: "On arrival at Cochin Airport/Station, transfer to Hotel. After freshening up, proceed for local Cochin sightseeing - Visit Chinese Fishing Net, Portuguese Synagogue, Mattancherry Spice Market, Bolgatti Palace. Evening by the serene Marine drive, and shopping at Jewel Street. Overnight stay at Cochin."
+      },
+      {
+        day: "Day 02: Cochin - Munnar Sightseeing",
+        description: "After breakfast, proceed for the full day sightseeing of Munnar - Rajamalai (Eravikulam National Park), Cheyapara & Vallara waterfalls, Mattupatty Dam, Boating in Dam, Shooting point, Eco Point, Kundale Lake, etc. Overnight at Hotel in Munnar."
+      },
+      {
+        day: "Day 03: Munnar Sightseeing",
+        description: "After breakfast, proceed for the sightseeing of Munnar Town, Tea Museum, Hydel Park, Rose Garden, Blossom Park, Potanmedu View Point, Old Munnar Town for shopping. A stroll on the Munnar Lake. Back to hotel & overnight stay at Munnar."
+      },
+      {
+        day: "Day 04: Cochin",
+        description: "After breakfast, check out from the hotel and proceed on time to board your flight/train with sweet memories of your holiday."
+      }
+    ]
+  },
+  {
+    package_name: "GLIMPSE OF KERALA",
+    duration: "05N/06D",
+    itinerary: [
+      {
+        day: "Day 01: Cochin",
+        description: "On arrival at Cochin Airport/Station, transfer to Hotel. After freshening up, proceed for local Cochin sightseeing - Visit Chinese Fishing Net, Portuguese Synagogue, Mattancherry Spice Market, Bolgatti Palace. Evening by the serene Marine drive, and shopping at Jewel Street. Overnight stay at Cochin."
+      },
+      {
+        day: "Day 02: Cochin - Munnar Sightseeing",
+        description: "After breakfast, proceed for the full day sightseeing of Munnar - Rajamalai (Eravikulam National Park), Cheyapara & Vallara waterfalls, Mattupatty Dam, Boating in Dam, Shooting point, Eco Point, Kundale Lake, etc. Overnight at Hotel in Munnar."
+      },
+      {
+        day: "Day 03: Munnar Sightseeing",
+        description: "After breakfast, proceed for the sightseeing of Munnar Town, Tea Museum, Hydel Park, Rose Garden, Blossom Park, Potanmedu View Point, Old Munnar Town for shopping. A stroll on the Munnar Lake. Back to hotel & overnight stay at Munnar."
+      },
+      {
+        day: "Day 04: Munnar - Thekkady",
+        description: "After breakfast, proceed to Thekkady. Check into Hotel. Later visit Periyar Wild Life Sanctuary, Boating in Periyar Lake, Spice Plantation visit, and extra activities like Elephant Ride, Martial Arts, Kathakali, etc. Overnight at Thekkady."
+      },
+      {
+        day: "Day 05: Thekkady to Alleppey Houseboat",
+        description: "After breakfast, proceed to Alleppey. On the way, visit the famous Kuttanad Paddy Fields, Coconut plantations, etc. Check into House Boat in Alleppey. Enjoy the backwaters and Kerala cuisine on board. Overnight stay at House Boat."
+      },
+      {
+        day: "Day 06: Alleppey to Cochin Airport/Railway Station",
+        description: "After breakfast, proceed to Cochin for your flight/Train. Reach home with pleasant memories of your experience with KSA Tours."
+      }
+    ]
+  },
+  {
+    package_name: "LEISURE KERALA",
+    duration: "06N/07D",
+    itinerary: [
+      {
+        day: "Day 01: Cochin",
+        description: "On arrival at Cochin Airport/Station, transfer to Hotel. After freshening up, proceed for local Cochin sightseeing - Visit Chinese Fishing Net, Portuguese Synagogue, Mattancherry Spice Market, Bolgatti Palace. Evening by the serene Marine drive, and shopping at Jewel Street. Overnight stay at Cochin."
+      },
+      {
+        day: "Day 02: Cochin - Munnar Sightseeing",
+        description: "After breakfast, proceed for the full day sightseeing of Munnar - Rajamalai (Eravikulam National Park), Cheyapara & Vallara waterfalls, Mattupatty Dam, Boating in Dam, Shooting point, Eco Point, Kundale Lake, etc. Overnight at Hotel in Munnar."
+      },
+      {
+        day: "Day 03: Munnar Sightseeing",
+        description: "After breakfast, proceed for the sightseeing of Munnar Town, Tea Museum, Hydel Park, Rose Garden, Blossom Park, Potanmedu View Point, Old Munnar Town for shopping. A stroll on the Munnar Lake. Back to hotel & overnight stay at Munnar."
+      },
+      {
+        day: "Day 04: Munnar - Thekkady",
+        description: "After breakfast, proceed to Thekkady. Check into Hotel. Later visit Mallikarjuna Swamy temple and overnight stay at Srisailam."
+      },
+      {
+        day: "Day 05: Thekkady Sightseeing",
+        description: "After breakfast, proceed to Periyar Wildlife Sanctuary for wildlife viewing. Optional activities include spice plantation tour, bamboo rafting, trekking, and elephant ride. Overnight stay at Thekkady."
+      },
+      {
+        day: "Day 06: Thekkady - Houseboat",
+        description: "After breakfast, proceed to the boat Jetty to board the houseboat for backwater cruising. Overnight stay in the Houseboat (Alleppey)."
+      },
+      {
+        day: "Day 07: Alleppey to Cochin Airport/Railway Station",
+        description: "After breakfast, proceed to Cochin for your flight/Train. Reach home with pleasant memories of your experience with KSA Tours."
+      }
+    ]
+  },
+  {
+    package_name: "LUXURY KERALA",
+    duration: "07N/08D",
+    itinerary: [
+      {
+        day: "Day 01: Cochin - Alleppey",
+        description: "On arrival at Cochin Airport, drive to Alleppey. Enjoy a backwater cruise on Vembanad Lake. Overnight stay at Resort Alleppey."
+      },
+      {
+        day: "Day 02: Alleppey - Varkala",
+        description: "After breakfast, check out from the houseboat and drive to Varkala. Visit Varkala Beach. Overnight stay in Varkala."
+      },
+      {
+        day: "Day 03: Varkala Sightseeing",
+        description: "After breakfast, proceed for sightseeing in Varkala including Papanasam Beach and Janardhanaswamy Temple. Overnight stay in Varkala."
+      },
+      {
+        day: "Day 04: Varkala - Poovar Island",
+        description: "After breakfast, proceed to Poovar Island. Enjoy village walk, backwater cruise, and farm visit. Overnight stay at Poovar Island."
+      },
+      {
+        day: "Day 05: Poovar Island",
+        description: "Relax and enjoy activities at Poovar Island. Overnight stay at Poovar Island."
+      },
+      {
+        day: "Day 06: Poovar - Kovalam",
+        description: "After breakfast, transfer to Kovalam. Spend the day at leisure. Overnight stay in Kovalam."
+      },
+      {
+        day: "Day 07: Kovalam - Trivandrum",
+        description: "After breakfast, proceed for sightseeing tour of Kovalam and Trivandrum including Padmanabhaswami Temple, Napier Museum, Zoo, etc. Overnight stay in Kovalam."
+      },
+      {
+        day: "Day 08: Kovalam to Trivandrum",
+        description: "After breakfast, proceed to Trivandrum Airport/Railway Station for your onward journey. Reach home with pleasant memories of your experience with KSA Tours."
+      }
+    ]
+  },{
+    package_name: "SOUTH KERALA - COCHIN-MUNNAR–THEKKADY–ALLEPPEY-KOVALAM-KANYAKUMARI",
+    duration: "09N/10D",
+    itinerary: [
+      {
+        day: "Day 01: Cochin",
+        description: "On arrival at Cochin Airport/Station, transfer to Hotel, after fresh N up proceed for local Cochin sightseeing -Visit Chinese Fishing Net, Portuguese Synagogue, Mattancherry Spice Market, Bolgatti Palace. Evening by the serene Marine drive, and shop at Jewel Street. Once you are done touring, get back to the hotel for the night. Overnight stay at Cochin."
+      },
+      {
+        day: "Day 02: Cochin - Munnar Sightseeing (127kms/4Hrs)",
+        description: "After breakfast proceed for the full day sightseeing of Munnar - Rajamalai (Eravikulam National Park), Visit Cheyapara & Vallara waterfalls, Mattupatty Dam, Boating in Dam, Shooting point, Eco Point, Kundale Lake, View point & Green Carpet of Tea Gardern Etc. Overnight at Hotel In Munnar."
+      },
+      {
+        day: "Day 03: Munnar Sightseeing",
+        description: "After Breakfast Proceed for the Sightseeing of Munnar Town, Tea Museum, Hydel Park, Rose Garden, Blossom Park, Potanmedu View Point, Old Munnar Town for shopping. A stroll on the Munnar lake. Back to hotel & Overnight stay at Munnar."
+      },
+      {
+        day: "Day 04: Munnar – Thekkady (92Km/3Hrs)",
+        description: "After enjoying the breakfast proceed to Thekkady which offers diverse attractions like Wildlife Sanctuary, Hill Station and Spice Plantation. Reach & check-in at the hotel and relax for a while amidst the comforts of your room. Visit the local spice market for some garden fresh spices and handicrafts. Overnight stay at the Hotel/Resort, Thekkady."
+      },
+      {
+        day: "Day 05: Thekkady Sightseeing",
+        description: "After having the delicious breakfast, proceed to the most attractive feature of Thekkady i.e. Periyar Wildlife Sanctuary. Enjoy a Wildlife cruise to view a large variety of wildlife like Wild Elephants, Nilgiri Langur, Sambar Deer, Wild Bison, Wild Boar etc. Overnight stay at the Hotel/Resort, Thekkady."
+      },
+      {
+        day: "Day 06: Thekkady – Houseboat (140Hrs 4 ½ Hrs)",
+        description: "After enjoying the breakfast proceed to the boat Jetty to board the beautifully decorated houseboats and begin the enchanting backwater cruising. Overnight stay in the Houseboat. (Alleppey)"
+      },
+      {
+        day: "Day 07: Alleppey – Kovalam (160Kms/5Hrs)",
+        description: "After having the breakfast, proceed to Kovalam beach. Kovalam is known as the 'Paradise of the South'. Reach & check-in at the hotel and relax for a while amidst the comforts of your room. Explore on your own to see how the everlasting sea touches the everlasting sky. Overnight stay at the Hotel/Resort, Kovalam."
+      },
+      {
+        day: "Day 08: Kovalam – Trivandrum – Kovalam",
+        description: "After the sumptuous breakfast proceed for the sightseeing of Trivandrum. Visit Padmanabhaswamy temple, Kuthiramalika Palace Museum, Veli Tourist Village, Shangumugham Beach. Overnight stay at the Hotel/Resort, Kovalam."
+      },
+      {
+        day: "Day 09: Kovalam - Kanyakumari (87Kms/3Hrs)",
+        description: "Enjoy the delicious breakfast and proceed to Kanyakumari, the land of virgin goddess. Visit Amman Temples, Mahatma Gandhi Memorial, Thiruvalluvar Statue. End your day by watching the spectacular sunset there. Overnight stay at the Hotel/Resort, Kanyakumari."
+      },
+      {
+        day: "Day 10: Kanyakumari – Trivandrum",
+        description: "After having the breakfast, pack your baggages and proceed to board your flight/train with sweet memories of your holiday. Reach home with pleasant memories of your experience with KSA Tours."
+      }
+    ]
+  },{
+    package_name: "NORTH KERALA FIRST",
+    duration: "04D/03N",
+    itinerary: [
+      {
+        day: "Day 1: Calicut",
+        description: "The tour executive will take you from railway station/Airport to the hotel. After a short rest, you can go for the sightseeing of Calicut, the traditional capital of Samuthiri rule. Enjoy the beauty of Calicut beach, Kappad beach, Thali temple, Beypore beach, Pazhassiraja Museum. Overnight stay in Calicut."
+      },
+      {
+        day: "Day 2: Wayanad",
+        description: "Start the day with breakfast at the hotel. Proceed to Wayanad and after arrival, rest briefly before local sightseeing. Explore attractions like Pookode Lake, Kuruva Island, Lakkadi, Edakkal Cave, etc. Overnight stay in Wayanad."
+      },
+      {
+        day: "Day 3: Wayanad",
+        description: "After breakfast, continue exploring Wayanad's natural beauty. Visit Mananthavady, Kabini, Panamaram rivers and other scenic spots. Overnight stay in Wayanad."
+      },
+      {
+        day: "Day 4: Calicut",
+        description: "Enjoy breakfast at the hotel. Drive to Airport or railway station for departure, carrying the memories of your holiday with KSA tours and travels."
+      }
+    ]
+  },
+  {
+    package_name: "NORTH KERALA SECOND",
+    duration: "03D/02N",
+    itinerary: [
+      {
+        day: "Day 1: Kannur Arrival",
+        description: "Arrive at Kannur Bus/Railway Station. Our representative will assist in transferring you to your accommodation. Check-in and if time permits, go for sightseeing. Overnight stay at homestay/resort in Kannur."
+      },
+      {
+        day: "Day 2: Kannur Sightseeing",
+        description: "After breakfast, full day sightseeing in Kannur. Explore village life, Theyyam festival (seasonal Nov-May), Ezhimala Hanuman Statue, Chemballikundu Floating Park, Madaipara Hill Rock, Parassini Muthappan Temple, and more. Overnight stay at homestay/resort in Kannur."
+      },
+      {
+        day: "Day 3: Departure from Kannur",
+        description: "After breakfast, check out from homestay/resort and proceed to the departure point in Kannur."
+      }
+    ]
+  },
+  {
+    package_name: "NORTH KERALA THIRD",
+    duration: "03D/02N",
+    itinerary: [
+      {
+        day: "Day 1: Arrival at Kannur Airport, Transfer to Wayanad",
+        description: "Upon arrival at Kannur Airport, our representative will transfer you to Wayanad. Check-in at the resort/homestay near Thirunelli/Tholpetty. After refreshments, visit Thirunelli Mahavishnu Temple and enjoy trekking in Thirunelli Forest. Overnight stay at Thirunelli/Tholpetty."
+      },
+      {
+        day: "Day 2: Wayanad Sightseeing",
+        description: "After breakfast, check out from the resort and proceed for Wayanad sightseeing. Enjoy safari at Tholpetty Wildlife Sanctuary, visit Kuruvadweep, Banasura Sagar Dam, Uravu Bamboo Grove, Karapuzha Dam & Adventure Park, Phantom Rock, Jain Temple, Edakkal Caves, Soochipara or Chooralmala Waterfalls, Pookode Lake, and Lakkadi viewpoint. Overnight stay in Kalpetta."
+      },
+      {
+        day: "Day 3: Wayanad Sightseeing and Departure from Kannur",
+        description: "After breakfast, continue Wayanad sightseeing. Visit more attractions like Edakkal caves, Soochipara or Chooralmala waterfalls, Pookode Lake, and Lakkadi viewpoint. Later, drive back to Kannur Airport for departure."
+      }
+    ]
   }]
