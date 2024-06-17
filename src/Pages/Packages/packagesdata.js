@@ -271,8 +271,390 @@ export const educational = {
         { destinations: ["OOTY-WAYANAD-WONDERLA"] },
         { destinations: ["KODAIKANAL-MARAYUR-MUNNAR-WONDERLA"] },
         { destinations: ["VAGAMON-RAMAKALMEDU-IDUKKI-MUNNAR-MARAYUR-WONDERLA"] },
-        { destinations: ["BANGLORE-MYSORE-OOTY-WAYANAD-WONDERLA"] }
+        { destinations: ["BANGLORE-MYSORE-OOTY-WAYANAD-WONDERLA"] },
+        { destinations: ["COORG-CHICKMANGLORE-BELUR-MYSORE-WONDERLA"] },
+        { destinations: ["HYDERABAD"] },
+        { destinations: ["DANDELI-UDUPI-COORG-CHICKKMANGLORE"] },
+        { destinations: ["HAMPI-BANGLORE-MYSORE-BADAMI-AILHOLE PATADAKAL-BANGLORE/WONDERLA"] },
+        { destinations: ["MYSORE-SARAVANABALAGOLA-HALIBEED-CHICKMANGLORE-COORG"] },
       ]
-    }
+    },
+    {
+      name: "5DAYS 6NIGHTS PACKAGE",
+      packages: [
+        { destinations: ["GOA-COORG-CHICKMANGLORE-UDUPI"] },
+        { destinations: ["HYDERABAD"] },
+        { destinations: ["BANGLORE-MYSORE-COORG-CHICKMANGLORE-BELUR-WONDERLA"] },
+        { destinations: ["HAMPI-BANGLORE-MYSORE-CHICKMANGLORE-UDUPI-WONDERLA"] },
+        { destinations: ["COORG=BELUR-CHICKMANGLORE-DENDELI-UDUPI"] },
+        { destinations: ["WAYANAD-OOTY-MYSORE-CHICKMANGLORE-KUDUK-WONDERLA"] },
+        { destinations: ["MYSORE-SRAVANBALAGOLA-HALIBEED-BELUR-CHICKMANGLORE-COORG-WONDERLA"] },
+        { destinations: ["MYSORE-SRAVANABALAGOLA-HALIBEED-HAMPI-BADAMI AILHOLIE PATADAKAL-UDUPI-STMARY’S ISLAND/WONDERLA"] },
+      ]
+    },
   ]
 };
+
+const domestic = [
+  {
+    package_name: "GOA TOUR PACKAGE 1",
+    duration: "03N/04D",
+    itinerary: [
+      {
+        day: "Day 01: On Arrival Goa",
+        description: "Pickup from Airport/Thivim/Madgoan/Vasco Railway stations in Private Vehicle Ac. Check in to Hotel. Overnight stay at Hotel."
+      },
+      {
+        day: "Day 02: North Goa Sight Seeing",
+        description: "After breakfast we proceed to North Goa Sightseeing (Fort Aguada, Saligao church, Calangute or Baga beach, Anjuna beach, Vagator beach) & Return back to the Hotel. Overnight stay at Hotel."
+      },
+      {
+        day: "Day 03: South Goa Sight Seeing",
+        description: "After breakfast we proceed to South Goa Sightseeing (Panjim city, Miramar beach, Dona Paula, Old Goa churches & museum, Mangeshi temple, River cruise on Mandovi river) & Return back to the Hotel. Overnight stay at Hotel."
+      },
+      {
+        day: "Day 04: Leisure time & Drop",
+        description: "Drop to Airport/Thivim/Madgoan/Vasco Railway stations."
+      }
+    ]
+  },
+  {
+    package_name: "GOA TOUR PACKAGE 2",
+    duration: "03N/04D",
+    itinerary: [
+      {
+        day: "Day 01: Welcome to Goa",
+        description: "Pick up from Goa Airport / Railway Station. Check in Hotel. Free Leisure. Overnight at Hotel. (Dinner)"
+      },
+      {
+        day: "Day 02: South Goa",
+        description: "Visit Shantadurga Temple, Mangeshi Temple, Old Goa Church, Dona Paula, Miramar Beach, Evening Boat cruise on Mandavi River. (Breakfast, Lunch & Dinner)"
+      },
+      {
+        day: "Day 03: North Goa",
+        description: "Visit Aguada Fort, Dolphin Show (Own Cost), Calangute Beach, Baga Beach, Anjuna Beach, Later Leave For Mapusa Market. (Breakfast, Lunch & Dinner)"
+      },
+      {
+        day: "Day 04: Departure From Goa",
+        description: "Check out from Hotel. Drop to Airport / Railway Station."
+      }
+    ]
+  },
+  {
+    package_name: "GUJARAT TOUR PACKAGE 1: KUTCH TOUR WITH WHITE RANN",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Bhuj",
+        description: "Arrive at Bhuj. Visit Aina Mahal Museum, Pragmahal Museum, Bhartiya Sanskriti Darsan Exhibition & Cenotaphs of Royal Family. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 02: Bhuj – Excursion to Banni & Pachcham region",
+        description: "Explore Banni and Pachcham regions and the edge of the Great Rann of Kutch. Visit Dhordo village, Bhirandiyara village, Ludiya village and Khavda village. Visit Kalo Dungar (Black Hill) and Dattatray Temple. Return to Bhuj. Overnight stay at the resort."
+      },
+      {
+        day: "Day 03: Bhuj – Excursion to Mata No Madh – Lakhpat – Narayan Sarovar – Koteshwar",
+        description: "Visit Mata no Madh – the famous temple of Ashapura Mata. At Lakhpat visit Lakhpat Fort, unique Gurudwara and a beautiful tomb of Gosh Muhammad. Visit Narayan Sarovar and Koteshwar Shiva Temple. Overnight stay at Bhuj."
+      },
+      {
+        day: "Day 04: Bhuj – Mandvi",
+        description: "Visit Vijay Villas Palace, Organic Farm, 72 Jain Temple Complex, Shipping Yard at Mandvi. Enjoy balance day at the private beach. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 05: Mandvi – Bhuj",
+        description: "Proceed to Rajkot. Drop at Railway station or Airport for your flight/Train."
+      }
+    ]
+  },
+  {
+    package_name: "GUJARAT TOUR PACKAGE 2: DWARKA – SOMNATH",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Ahmedabad – Jamnagar",
+        description: "Arrival at Ahmedabad, proceed to Jamnagar. Visit Lakhota Lake & Lakhota Museum. In the evening, visit Bala Hanuman Temple. Evening is free for Shopping. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 02: Jamnagar – Dwarka",
+        description: "Proceed to the sacred town of Dwarka. Visit Dwarkadeesh Temple, Gomti river, Nageshwar Jyotirling, Gopi Talav, Bet Dwarka, Rukmani Temple. Attend evening aarti at Dwarkadish temple. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 03: Dwarka – Porbandar – Somnath",
+        description: "Visit Kirti Mandir, Sudama Temple at Porbandar. Proceed to Somnath. Visit Bhalka Tirth, Triveni Sangam, Geeta Mandir, Somnath Temple. Attend evening aarti and light and sound show. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 04: Somnath – Junagadh – Virpur – Gondal – Rajkot",
+        description: "Proceed to Rajkot. Visit Jungadh fort, Jalaram Temple, Swaminarayan temple, Navlakha Palace, Vintage Car museum at Gondal. Arrive at Rajkot. Overnight stay at hotel."
+      },
+      {
+        day: "Day 05: Rajkot – Akshardham – Ahmedabad",
+        description: "Proceed to Ahmedabad. Visit Adalaj Step well, Akshardham Temple, Gandhi Ashram. Drop at Railway station or Airport for your flight/Train."
+      }
+    ]
+  },
+  {
+    package_name: "GUJARAT TOUR PACKAGE 3: KUTCH-BALARAM-MOUNTABU-AMBAJI",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Ahmedabad – Little Rann of Kutch",
+        description: "Arrival at Ahmedabad, proceed to Little Rann of Kutch. Explore the desert by open jeep. Visit home of Rabari and Banjara tribes. Overnight stay at Little Rann of Kutch."
+      },
+      {
+        day: "Day 02: Little Rann of Kutch – Modhera – Patan – Balaram",
+        description: "Proceed to Balaram Palace Resort. Visit Sun Temple at Modhera and Patan. Overnight stay at Resort."
+      },
+      {
+        day: "Day 03: Balaram – Mount Abu",
+        description: "Proceed to Mount Abu. Visit Nakki Lake, enjoy boating, visit Sunset Point. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 04: Mount Abu",
+        description: "Visit Dilwara Jain Temple, Gurushikhar, Achalgarh Fort, Market for Rajasthani handicraft shopping. Overnight stay at hotel."
+      },
+      {
+        day: "Day 05: Mount Abu – Ambaji – Ahmedabad",
+        description: "Proceed to Ahmedabad. Visit and Darshan at Ambaji Temple. Drop at Railway station or Airport for your flight/Train."
+      }
+    ]
+  },{
+    package_name: "GUJARAT TOUR PACKAGE 4",
+    duration: "05N/06D",
+    itinerary: [
+      {
+        day: "Day 01: Ahmedabad – Jamnagar (315km/6hrs)",
+        description: "Today, proceed to Jamnagar. On arrival visit Lakhota Lake & Lakhota Museum. In the evening, visit Bala Hanuman Temple known for its nonstop Ramdhun since 1956 and it is mentioned in Guinness Book of World Records. Evening is free for Shopping. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 02: Jamnagar – Dwarka (150km/3hrs)",
+        description: "Today, proceed to the sacred town of Dwarka. Visit Dwarkadeesh Temple. Take a holy dip in Gomti river, later leave to visit Nageshwar Jyotirling, Gopi Talav, Bet Dwarka, and on way back do visit Rukmani Temple, evening visit other temples on coastal area, attend evening aarti at Dwarkadish temple. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 03: Dwarka – Porbandar – Somnath (200km/4hrs)",
+        description: "In the morning depart to Porbandar (75km/1.5hrs). At Porbandar visit Kirti Mandir – the place where Gandhiji was born and Sudama Temple – The only Sudama Temple in the world. Later proceed to Somnath (130km/2.5hrs) on arrival visit Bhalka Tirth, Triveni Sagam, Geeta Mandir Chopati & Somnath Temple. In the evening attend Aarti and later watch light and Sound show run by Gujarat Tourism. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 04: Somnath – Diu (100km/2hrs)",
+        description: "Today, after breakfast proceed to beach town Diu. Later, visit St. Paul’s Church, Diu Museum, and Diu Fort. Evening is at leisure to laze and relax on the beach. Overnight stay at the hotel."
+      },
+      {
+        day: "Day 05: Diu – Sasangir – Junagadh (150km/3hrs)",
+        description: "Today, proceed to Ahmedabad. On arrival at Ahmedabad visit Adalaj Stepwell, Akshardham Temple & Gandhi Ashram. Evening Drop at Railway station or Airport."
+      },
+      {
+        day: "Day 06: Junagadh – Virpur – Gondal – Ahmedabad (320km/7hrs)",
+        description: "Today, proceed to Ahmedabad. On arrival at Ahmedabad visit Adalaj Stepwell, Akshardham Temple & Gandhi Ashram. Evening Drop at Railway station or Airport for your flight/Train. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be valuable for a lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "HIMACHAL TOUR PACKAGE - FIRST",
+    duration: "03N/04D",
+    itinerary: [
+      {
+        day: "Day 01: Jaipur Airport / Station – Hotel",
+        description: "Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 02: Jaipur Local Sightseeing",
+        description: "After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, 'Gaitore' Cenotaphs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 03: Excursion to Ajmer / Pushkar",
+        description: "After breakfast start for full day excursion to Ajmer & Pushkar. Arrive & Visit Ajmer-e-Sharief Dargah, Adhai-Din-Ka Jhonpara, Ana Sagar Lake & drive to Pushkar, visit various temples and Ghats and holy Pushkar Lake. There are more than 400 temples in Pushkar but the main attraction being the temple of Lord Brahma, the only temple in India dedicated to Brahma. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 04: Hotel – Jaipur Airport / Railway Station",
+        description: "After breakfast check out from hotel and proceed on time to board your flight/train with sweet memories of your holiday. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be valuable for a lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "HIMACHAL TOUR PACKAGE - SECOND",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Jaipur Airport / Railway Station – Hotel",
+        description: "Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 02: Jaipur Local Sightseeing",
+        description: "After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, 'Gaitore' Cenotaphs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 03: Jaipur – Ranthambore National Park (155 Km / 3 hrs)",
+        description: "After breakfast transfer to Ranthambore. On arrival check-in to your hotel. Afternoon visit Ranthambore Fort built in 994 A.D. atop high creek 200 meters above sea level. Overnight stay at Ranthambore."
+      },
+      {
+        day: "Day 04: Ranthambore National Park (Jeep Safari / Canter Safari)",
+        description: "Morning and afternoon jungle safari in Ranthambore National Park by Jeep / Canter (at your own cost). Overnight stay at Ranthambore."
+      },
+      {
+        day: "Day 05: Ranthambore National Park – Jaipur Airport / Railway Station (155 Km / 3 hrs)",
+        description: "After breakfast check out from hotel and proceed on time to board your flight/train with sweet memories of your holiday. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be valuable for a lifetime."
+      }
+    ]
+  },{
+    package_name: "HIMACHAL TOUR PACKAGE: THIRD",
+    duration: "09N/10D",
+    itinerary: [
+      {
+        day: "Day 01: Jaipur Airport / Railway Station – Hotel",
+        description: "Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 02: Jaipur Local Sightseeing",
+        description: "After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, 'Gaitore' Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 03: Jaipur – Bikaner (330 Km / 6 hrs)",
+        description: "After breakfast transfer to Bikaner. Enroute Asia's biggest camel breeding farm to watch different breeds of Camels. On arrival check-in to your hotel. Overnight stay at Bikaner."
+      },
+      {
+        day: "Day 04: Bikaner Halfday Sightseeing – Jaisalmer (333 Km / 6 hrs)",
+        description: "After breakfast check out from hotel & visit Junagarh Fort which includes Anup Mahal, Gaj Mandir, Sheesh Mahal and Prachina Museum, Lalgarh Palace. After that transfer to Jaisalmer. Overnight stay at Jaisalmer."
+      },
+      {
+        day: "Day 05: Jaisalmer Local Sightseeing",
+        description: "After breakfast visit the Jaisalmer Fort which is made by unique Golden Lime stone, that’s why its known as Golden Fort or Sonar Kella. After that visit Patwon-ki-haveli, Nathmal-ki-haveli. Salim singh-ki-Haveli. In evening proceed for camel ride on Sam Sand Dunes & you can experience the spectacular view of Sun set in Thar desert. Overnight stay at Jaisalmer."
+      },
+      {
+        day: "Day 06: Jaisalmer – Jodhpur (285 Km / 5 hrs)",
+        description: "After breakfast transfer to Jodhpur. On arrival check-in to your hotel. Overnight stay at Jodhpur."
+      },
+      {
+        day: "Day 07: Jodhpur Halfday Sightseeing – Udaipur (260 Km / 5 hrs)",
+        description: "After breakfast start for halfday sightseeing covering Umaid Bhawan Palace, Mehrangarh Fort and Jaswant Thada. After that transfer to Udaipur. On arrival check-in to your hotel. In the evening take a breathtaking boat tour over the picturesque Lake Pichola (at your own cost) to admire the royal buildings around the Lake and enjoy the scenic sunset view. Overnight stay at Udaipur."
+      },
+      {
+        day: "Day 08: Udaipur Local Sightseeing",
+        description: "After breakfast start for Udaipur city tour. Visiting Fateh Sagar, Maharana Pratap Memorial, take a photo stop at Nehru Garden, Sehelion-KI-Bari - Queen’s resort for their friends, Sukhadia Circle (Drive Pass), Bhartiya Lok kala Museum - a museum of folk and art, it displays a rich collection of folk dresses, ornaments, puppets, masks, dolls. After that visit City Palace – The largest palace complex of Rajasthan, Jagdish Temple – built by Maharana Jagat Singh and is dedicated to Lord Vishnu & Gulab Bagh. Overnight stay at Udaipur."
+      },
+      {
+        day: "Day 09: Udaipur – Ajmer / Pushkar Sightseeing (274 Km / 5 hrs)",
+        description: "After breakfast check out from hotel and drive to Ajmer. Arrive & Visit Ajmer-e-Sharief Dargah, Adhai-Din-Ka Jhonpara, Ana Sagar Lake & drive to Pushkar, visit various temples and Ghats and holy Pushkar Lake. Overnight stay at Ajmer / Pushkar."
+      },
+      {
+        day: "Day 10: Ajmer / Pushkar – Jaipur Airport / Railway Station (145 Km / 3 ½ hrs)",
+        description: "After breakfast check out from hotel and Proceed on time to board your flight/train with sweet memories of your holiday."
+      }
+    ]
+  },{
+    package_name: "HIMACHAL TOUR PACKAGE: FOURTH",
+    duration: "11N/12D",
+    itinerary: [
+      {
+        day: "Day 01: Jaipur Airport / Station – Hotel",
+        description: "Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 02: Jaipur Local Sightseeing",
+        description: "After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, 'Gaitore' Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 03: Jaipur – Bikaner (330 Km / 6 hrs)",
+        description: "After breakfast transfer to Bikaner. Enroute Asia's biggest camel breeding farm to watch different breeds of Camels. On arrival check-in to your hotel. Overnight stay at Bikaner."
+      },
+      {
+        day: "Day 04: Bikaner Local Sightseeing – Jaisalmer (333 Km / 6 hrs)",
+        description: "After breakfast check out from hotel & visit Junagarh Fort which includes Anup Mahal, Gaj Mandir, Sheesh Mahal and Prachina Museum, Lalgarh Palace. After that transfer to Jaisalmer. Overnight stay at Jaisalmer."
+      },
+      {
+        day: "Day 05: Jaisalmer Local Sightseeing",
+        description: "After breakfast visit the Jaisalmer Fort which is made by unique Golden Lime stone, that’s why its known as Golden Fort or Sonar Kella. After that visit Patwon-ki-haveli, Nathmal-ki-haveli. Salim singh-ki-Haveli. In evening proceed for camel ride on Sam Sand Dunes & you can experience the spectacular view of Sun set in Thar desert. Overnight stay at Jaisalmer."
+      },
+      {
+        day: "Day 06: Jaisalmer – Jodhpur (285 Km / 6 hrs)",
+        description: "After breakfast transfer to Jodhpur. On arrival check-in to your hotel. Overnight stay at Jodhpur."
+      },
+      {
+        day: "Day 07: Jodhpur Halfday Sightseeing – Mount Abu (326 Km / 7 hrs)",
+        description: "After breakfast start for halfday sightseeing covering Umaid Bhawan Palace, Mehrangarh Fort and Jaswant Thada. After that transfer to Mount Abu. On arrival check-in to your hotel. In the evening enjoy the sunset from Sunset View Point in Mt. Abu. Overnight stay at Mount Abu."
+      },
+      {
+        day: "Day 08: Mount Abu Local Sightseeing",
+        description: "After breakfast start for Mt. Abu city tour. Visiting Prajapita Brahmakumari, Adhar Devi Temple, Achalgarh, Guru Sikhar, Dilwara Jain Temple, Honeymoon Point, Art Gallery & Nakki Lake where you can enjoy boat ride in at your own cost. Overnight stay at Mt. Abu."
+      },
+      {
+        day: "Day 09: Mount Abu – Udaipur (186 Km / 4 ½ hrs)",
+        description: "After breakfast check-out from hotel and drive for Udaipur (Beautiful Lake City of Rajasthan). On arrival at Udaipur check-in at your hotel. In the evening take a breathtaking boat tour over the picturesque Lake Pichola (at your own cost) to admire the royal buildings around the Lake and enjoy the scenic sunset view. Overnight stay at Udaipur."
+      },
+      {
+        day: "Day 10: Udaipur Local Sightseeing",
+        description: "After breakfast start for Udaipur city tour. Visiting Fateh Sagar, Maharana Pratap Memorial, take a photo stop at Nehru Garden, Sehelion-KI-Bari - Queen’s resort for their friends, Sukhadia Circle (Drive Pass), Bhartiya Lok kala Museum - a museum of folk and art, it displays a rich collection of folk dresses, ornaments, puppets, masks, dolls. After that visit City Palace – The largest palace complex of Rajasthan, Jagdish Temple – built by Maharana Jagat Singh and is dedicated to Lord Vishnu & Gulab Bagh. Overnight stay at Udaipur."
+      },
+      {
+        day: "Day 11: Udaipur – Ajmer / Pushkar Sightseeing (287 Km / 5 hrs)",
+        description: "After breakfast check out from hotel and drive to Ajmer. Arrive & Visit Ajmer-e-Sharief Dargah, Adhai-Din-Ka Jhonpara, Ana Sagar Lake & drive to Pushkar, visit various temples and Ghats and holy Pushkar Lake. There are more than 400 hundred temples in Pushkar but the main attraction being the temple of Lord Brahma, the only temple in India dedicated to Brahma. Overnight stay at Ajmer / Pushkar."
+      },
+      {
+       day: "Day 12: Ajmer / Pushkar – Jaipur Airport / Railway Station (145 Km / 3 hrs)",
+        description: "After breakfast check out from hotel and Proceed on time to board your flight/train with sweet memories of your holiday. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },{
+    package_name: "HIMACHAL PACKAGE FIFTH",
+    duration: "14N/15D",
+    itinerary: [
+      {
+        day: "Day 01: Delhi Railway Station / Airport – Hotel",
+        description: "Meet & Greet on arrival at Delhi Railway Station/Airport & transfer to Hotel. On arrival check-in to hotel. Overnight stay at Delhi."
+      },
+      {
+        day: "Day 02: Delhi Local Sightseeing",
+        description: "After breakfast proceed for full-day sightseeing tour of Delhi. Covering Jama Masjid*, Red Fort*, Raj Ghat, Humayun’s Tomb, Lotus Temple (Bahai), Qutub Minar, Rastrapati Bhawan*, Parliament House*, Jantar Mantar & India Gate. Overnight stay at Delhi. (*Drive Pass)"
+      },
+      {
+        day: "Day 03: Delhi – Mandawa Halfday Sightseeing (257 Km / 5 hrs)",
+        description: "After breakfast check out from hotel and drive to Mandawa. On arrival at Mandawa check-in to hotel. Afternoon sightseeing tour of Mandawa, dominated by an imposing mirage-like fort. This region is famous for its havelis and Shekhawati paintings. Overnight stay in Mandawa."
+      },
+      {
+        day: "Day 04: Mandawa – Bikaner Halfday Sightseeing (190 Km / 4 hrs)",
+        description: "After breakfast transfer to Bikaner. On arrival check-in to your hotel. Afternoon visit Junagarh Fort which includes Anup Mahal, Gaj Mandir, Sheesh Mahal and Prachina Museum, Lalgarh Palace. Overnight stay at Bikaner."
+      },
+      {
+        day: "Day 05: Bikaner – Jaisalmer (333 Km / 6 hrs)",
+        description: "After breakfast check out from hotel & transfer to Jaisalmer. On arrival check-in to your hotel. Overnight stay at Jaisalmer."
+      },
+      {
+        day: "Day 06: Jaisalmer Local Sightseeing",
+        description: "After breakfast visit the Jaisalmer Fort which is made by unique Golden Limestone, that’s why it's known as Golden Fort or Sonar Kella. After that visit Patwon-ki-haveli, Nathmal-ki-haveli, Salim Singh-ki-Haveli. People still live in these ancient buildings dating from the 12th to 15th century. Every house has exquisite carvings and filigreed work. After that also visit Gadishar Lake. In the evening proceed for camel ride on Sam Sand Dunes & experience the spectacular view of sunset in Thar desert. Overnight stay at Jaisalmer."
+      },
+      {
+        day: "Day 07: Jaisalmer – Jodhpur (285 Km / 5 hrs)",
+        description: "After breakfast transfer to Jodhpur. On arrival check-in to your hotel. Overnight stay at Jodhpur."
+      },
+      {
+        day: "Day 08: Jodhpur Halfday Sightseeing – Mount Abu (326 Km / 7 hrs)",
+        description: "After breakfast start for halfday sightseeing covering Umaid Bhawan Palace, Mehrangarh Fort and Jaswant Thada. After that transfer to Mt. Abu. On arrival check-in to your hotel. In the evening enjoy the sunset from Sunset View Point in Mt. Abu. Overnight stay at Mount Abu."
+      },
+      {
+        day: "Day 09: Mount Abu Sightseeing",
+        description: "After breakfast start for Mt. Abu city tour. Visiting Prajapita Brahmakumari, Adhar Devi Temple, Achalgarh, Guru Sikhar, Dilwara Jain Temple, Honeymoon Point, Art Gallery & Nakki Lake where you can enjoy a boat ride at your own cost. Overnight stay at Mt. Abu."
+      },
+      {
+        day: "Day 10: Mount Abu – Udaipur (186 Km / 4 ½ hrs)",
+        description: "After breakfast check-out from hotel and drive to Udaipur (Beautiful Lake City of Rajasthan). On arrival at Udaipur check-in at your hotel. In the evening take a breathtaking boat tour over the picturesque Lake Pichola (at your own cost) to admire the royal buildings around the Lake and enjoy the scenic sunset view. From the lake, you have a wonderful view of the City Palace stretching along the east bank, while the south bank has pleasant gardens running down to the waterside. Overnight stay at Udaipur."
+      },
+      {
+        day: "Day 11: Udaipur Local Sightseeing",
+        description: "After breakfast start for Udaipur city tour. Visiting Fateh Sagar, Maharana Pratap Memorial, take a photo stop at Nehru Garden, Sehelion-KI-Bari - Queen’s resort for their friends, Sukhadia Circle (Drive Pass), Bhartiya Lok kala Museum - a museum of folk and art, it displays a rich collection of folk dresses, ornaments, puppets, masks, dolls. After that visit City Palace – The largest palace complex of Rajasthan, Jagdish Temple – built by Maharana Jagat Singh and is dedicated to Lord Vishnu & Gulab Bagh. Overnight stay at Udaipur."
+      },
+      {
+        day: "Day 12: Udaipur – Jaipur (405 Km / 7 hrs)",
+        description: "After breakfast proceed to the Pink City - Jaipur. On arrival at Jaipur, check into your hotel. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 13: Jaipur Local Sightseeing",
+        description: "After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, 'Gaitore' Cenotaphs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur."
+      },
+      {
+        day: "Day 14: Jaipur – Agra via Fatehpur Sikri + Halfday Sightseeing (245 Km / 4 ½ hrs)",
+        description: "After Breakfast drive to another historical and romantic city - Agra. Enroute visit Fatehpur Sikri - once the capital of Mughal Emperor Akbar. Also visit the Buland Darwaza, the largest gateway in the world. Afternoon visit The world-famous Taj Mahal - the most precious gift of love built by Emperor Shah Jahan for his loving wife Mumtaz and Also visit the Marble inlay making factories to see traditional workers making amazing marble crafts. Overnight stay at Agra."
+      },
+      {
+        day: "Day 15: Hotel-Drop at Airport/Railway",
+        description: "After breakfast check out from hotel. Proceed on time to board your flight/train with sweet memories of your holiday. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for a lifetime."
+      }
+    ]
+  }]
