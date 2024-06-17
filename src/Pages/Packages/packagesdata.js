@@ -657,4 +657,462 @@ const domestic = [
         description: "After breakfast check out from hotel. Proceed on time to board your flight/train with sweet memories of your holiday. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for a lifetime."
       }
     ]
+  },{
+    package_name: "HYDERABAD TOUR PACKAGE FIRST",
+    duration: "03N/04D",
+    itinerary: [
+      {
+        day: "Day 1: Hyderabad",
+        description: "Arrival at Hyderabad Railway/Airport, Report to our Diver. Check in to Hotel. Leisure for fresh up & later depart for local sightseeing visit to Snow World & evening Golconda Fort Sound & Light show – back to hotel & night halt at Hyderabad."
+      },
+      {
+        day: "Day 2: Ramoji Film City",
+        description: "Morning after breakfast, depart for full day sightseeing of Ramoji Film City & evening back to hotel & night halt Hyderabad."
+      },
+      {
+        day: "Day 3: Hyderabad",
+        description: "Morning after breakfast depart for local visits: Visit Birla Mandir, Salarjung Museum, Charminar & evening visit to Lumbini park – boating to Buddha statue, Laser show and back to hotel & night halt Hyderabad."
+      },
+      {
+        day: "Day 4: Hyderabad",
+        description: "Morning checkout hotel, leisure time for shopping or option to visit: NTR Garden, IMAX, Necklace road, Buddha Statue. Evening Drop at Railway station or Airport for your flight/Train. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "HYDERABAD TOUR PACKAGE SECOND",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 1: Hyderabad",
+        description: "Morning Pick up from Hyderabad Railway Station / Airport, transfer to Hotel. Visits Qutub Shahi tombs, Golconda Fort sound & light show and night halt at Hyderabad."
+      },
+      {
+        day: "Day 2: Hyderabad",
+        description: "Morning after breakfast, depart for full day sightseeing to Ramoji Film City. Evening back to hotel and night halt Hyderabad."
+      },
+      {
+        day: "Day 3: Hyderabad",
+        description: "Early morning depart for Srisailam, darshan at Srisailam & visit local temples and late evening back to Hyderabad & night halt Hyderabad."
+      },
+      {
+        day: "Day 4: Hyderabad",
+        description: "Morning after breakfast Hyderabad local visits: Birla Mandir, Salarjung Museum, Charminar, Lumbini park boating to Buddha statue, laser show and night halt at Hyderabad."
+      },
+      {
+        day: "Day 5: Hyderabad",
+        description: "Morning after breakfast checkout hotel and leisure time for shopping or visit to Snow World. Evening Drop at Railway station or Airport for your flight/Train. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "HYDERABAD TOUR PACKAGE THIRD",
+    duration: "05N/06D",
+    itinerary: [
+      {
+        day: "Day 1: Hyderabad",
+        description: "Morning Pick up from Hyderabad Railway Station / Airport, transfer to Hotel. After lunch depart for local visits Qutub Shahi tombs, Golconda Fort sound & light show and night halt at Hyderabad."
+      },
+      {
+        day: "Day 2: Hyderabad",
+        description: "Morning after breakfast, depart for full day sightseeing to Ramoji Film City. Evening back to hotel and night halt Hyderabad."
+      },
+      {
+        day: "Day 3: Hyderabad",
+        description: "Morning after breakfast Hyderabad local visits: Birla Mandir, Salarjung Museum, Charminar, Lumbini park boating to Buddha statue, laser show and night halt at Hyderabad."
+      },
+      {
+        day: "Day 4: Hyderabad",
+        description: "Morning after breakfast checkout hotel and depart for Srisailam, afternoon arrival & transfer to hotel – later visit: Mallikarjuna Swamy temple & Night halt at Srisailam."
+      },
+      {
+        day: "Day 5: Nagarjunasagar",
+        description: "Morning after breakfast checkout hotel, visit other local temples Paladara / Panchadara, Sakshi Ganapati, Sikharam, Dam and depart for Nagarjunasagar, evening arrival transfer to hotel, Night halt Nagarjunasagar."
+      },
+      {
+        day: "Day 6: Drop at Hyderabad",
+        description: "Morning after breakfast visit Nagarjunakonda island museum, Anupu, Ettipotala waterfalls & depart for Hyderabad. Evening Drop at Railway station or Airport for your flight/Train. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },{
+    package_name: "KARNATAKA TOUR PACKAGE FIRST",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Bangalore – Coorg [270 Kms/7 Hrs]",
+        description: "Morning Pick up from Bangalore Railway Station/Airport, Fresh N up & later proceed towards Coorg, En route visit Golden Temple at Byalekupe (Tibetan Monastery) and Nisargadhama. Arrive Madikeri and Check into Hotel. Evening visit Raja’s Seat - Night halt at Coorg."
+      },
+      {
+        day: "Day 02: Coorg Sightseeing",
+        description: "After Breakfast Start for Local Coorg Sightseeing Visit Omkareshwar temple, Raja’s Tomb, Abbey Falls, Bagmandala, Tala Cauvery, Night halt at Coorg."
+      },
+      {
+        day: "Day 03: Coorg – Wayanad [107 Kms/4 Hrs]",
+        description: "After Breakfast Check out from Hotel and proceed towards Wayanad, En route visit Dubare Elephant Camp and later proceed towards Wayanad Visit Pookat Lake, Lakkidi View Point, Chain tree – Overnight stay at Wayanad."
+      },
+      {
+        day: "Day 04: Wayanad Sightseeing",
+        description: "After breakfast, explore Muthanga Wildlife Sanctuary, Edakkal caves, Soochipara waterfalls, Meenmutty waterfalls - Overnight stay at Wayanad."
+      },
+      {
+        day: "Day 05: Wayanad – Bangalore/Calicut [290 Kms/7 Hrs]",
+        description: "After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "KARNATAKA TOUR PACKAGE SECOND",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Bangalore – Coorg [270 Kms/7 Hrs]",
+        description: "Morning Pick up from Bangalore Railway Station/Airport, Fresh N up & later proceed towards Coorg, En route visit Golden Temple at Byalekupe (Tibetan Monastery) and Nisargadhama. Arrive Madikeri and Check into Hotel. Evening visit Raja’s Seat – Overnight stay at Coorg."
+      },
+      {
+        day: "Day 02: Coorg Sightseeing",
+        description: "After Breakfast Start for Local Coorg Sightseeing Visit Omkareshwar temple, Raja’s Tomb, Abbey Falls, Bagmandala, Tala Cauvery, Overnight halt at Coorg."
+      },
+      {
+        day: "Day 03: Coorg – Mysore [110 Kms/3 Hrs]",
+        description: "After Breakfast visit Dubare Elephant Camp and proceed towards Mysore. Visit St. Philomena’s Church, Chamundi Hills, Mysore Palace, Zoo, Rail Museum, Karanji Lake, Jaganmohan Palace, KRS Dam, Brindavan Garden - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 04: Mysore – Bandipur [80 Kms/2 Hrs]",
+        description: "After breakfast depart from Mysore and proceed towards Kabini/ Bandipur. Explore the forest by Govt open jeep safari. Overnight stay at Kabini/ Bandipur."
+      },
+      {
+        day: "Day 05: Bandipur – Bangalore [230 Kms/5 Hrs]",
+        description: "After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "KARNATAKA TOUR PACKAGE THIRD",
+    duration: "04N/05D",
+    itinerary: [
+      {
+        day: "Day 01: Bangalore – Coorg [270 Kms/7 Hrs]",
+        description: "Morning Pick up from Bangalore Railway Station/Airport, Fresh N up & later proceed towards Coorg, En route visit Golden Temple at Byalekupe (Tibetan Monastery) and Nisargadhama. Arrive Madikeri and Check into Hotel. Evening visit Raja’s Seat – Overnight stay at Coorg."
+      },
+      {
+        day: "Day 02: Coorg Sightseeing",
+        description: "After Breakfast Start for Local Coorg Sightseeing Visit Omkareshwar temple, Raja’s Tomb, Abbey Falls, Bagmandala, Tala Cauvery, Overnight halt at Coorg."
+      },
+      {
+        day: "Day 03: Coorg – Mysore [110 Kms/3 Hrs]",
+        description: "After Breakfast visit Dubare Elephant Camp and proceed towards Mysore. Visit St. Philomena’s Church, Chamundi Hills, Mysore Palace, Zoo, Rail Museum, Karanji Lake, Jaganmohan Palace, KRS Dam, Brindavan Garden - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 04: Mysore – Kabini [80 Kms/2 Hrs]",
+        description: "After Breakfast visit Dubare Elephant Camp and proceed towards Mysore. Visit St. Philomena’s Church, Chamundi Hills, Mysore Palace, Zoo, Rail Museum, Karanji Lake, Jaganmohan Palace, KRS Dam, Brindavan Garden - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 05: Kabini – Bangalore [230 Kms/5 Hrs]",
+        description: "After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable"
+      }
+    ]
+  },
+  {
+    package_name: "KARNATAKA TOUR PACKAGE FOURTH",
+    duration: "05N/06D",
+    itinerary: [
+      {
+        day: "Day 1: Bangalore – Mysore [145 Kms/3 Hrs]",
+        description: "Pick up from Bangalore and proceed towards Mysore. Visit Srirangapattanam - Ranganathaswamy Temple, Dariya Daulat, Gumbuz, Sangam, Nimishabha Temple, Tipu’s Death Place, Captain Bailey’s Dungeon, St. Philomena’s Church, Chamundi Hills, Mysore Palace, Zoo, Rail Museum, Karanji Lake, Jaganmohan Palace, KRS Dam, Brindavan Garden - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 2: Mysore – Ooty [126 Kms/4 Hrs]",
+        description: "Depart from Mysore and proceed towards Ooty. En route visit Cine shooting place, Pyakara falls, Pyakara lake, Kalhatty waterfalls at Ooty – Overnight stay at Ooty."
+      },
+      {
+        day: "Day 3: Ooty – Coonoor – Ooty",
+        description: "After breakfast proceed towards Coonoor by Toy train on day tour. Visit Lamb’s rock, Sim’s park, Dolphin nose and in the evening visit Dodabetta Peak, Ooty lake, Botanical Garden – Overnight stay at Ooty."
+      },
+      {
+        day: "Day 4: Ooty – Kodaikanal [255 Kms/8 Hrs]",
+        description: "After breakfast depart from Ooty and proceed towards Kodai – In the evening visit Silent Valley, Byrant park, Kodai lake – Overnight stay at Kodaikanal."
+      },
+      {
+        day: "Day 5: Kodaikanal",
+        description: "After breakfast visit Coaker’s walk, Pillar Rock, Bear Shola falls, Green Valley View, Dolphin nose – Overnight stay at Kodaikanal."
+      },
+      {
+        day: "Day 6: Kodaikanal – Bangalore/Coimbatore [455 Kms/9 Hrs]",
+        description: "After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },{
+    package_name: "KARNATAKA TOUR PACKAGE FIFTH",
+    duration: "07N/08N",
+    itinerary: [
+      {
+        day: "Day 1: Bangalore",
+        description: "On arrival, pick up from Bangalore Railway Station/Airport, later transfer to Hotel. Visit Cubbon Park, Sri Visvesvaraya Science Museum, Sri Venkatapa Art Gallery, ISKCON Temple, Vidhana Soudha, Tipu Sultan’s Summer Palace, Bull Temple, Lalbagh, Bangalore Palace, Indira Gandhi Musical Fountain - Overnight stay at Bangalore."
+      },
+      {
+        day: "Day 2: Bangalore – Mysore [145 Kms/3 Hrs]",
+        description: "Pick up from Bangalore and proceed towards Mysore. Visit Srirangapattanam - Ranganathaswamy Temple, Dariya Daulat, Gumbuz, Sangam, Nimishabha Temple, Tipu’s Death Place, Captain Bailey’s Dungeon, KRS Dam, Brindavan Garden - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 3: Mysore Sightseeing",
+        description: "After breakfast proceed for Mysore Sightseeing – Visit St. Philomena’s Church, Chamundi Hills, Mysore Palace, Zoo, Rail Museum, Karanji Lake, Jaganmohan Palace - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 4: Mysore – Ooty [126 Kms/4 Hrs]",
+        description: "Depart from Mysore and proceed towards Ooty. En route visit Cine shooting place, Pyakara falls, Pyakara lake, Kalhatty waterfalls at Ooty – Overnight stay at Ooty."
+      },
+      {
+        day: "Day 5: Ooty – Coonoor – Ooty",
+        description: "After breakfast proceed towards Coonoor by Toy train on day tour. Visit Lamb’s rock, Sim’s park, Dolphin nose and in the evening visit Dodabetta Peak, Ooty lake, Botanical Garden – Overnight stay at Ooty."
+      },
+      {
+        day: "Day 6: Ooty – Kodaikanal [255 Kms/8 Hrs]",
+        description: "After breakfast depart from Ooty and proceed towards Kodai – In the evening visit Silent Valley, Byrant park, Kodai lake – Overnight stay at Kodaikanal."
+      },
+      {
+        day: "Day 7: Kodaikanal",
+        description: "After breakfast visit Coaker’s walk, Pillar Rock, Bear Shola falls, Green Valley View, Dolphin nose – Overnight stay at Kodaikanal."
+      },
+      {
+        day: "Day 8: Kodaikanal – Bangalore/Coimbatore [455 Kms/9 Hrs]",
+        description: "After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },
+  {
+    package_name: "KARNATAKA TOUR PACKAGE SIXTH",
+    duration: "09N/10D",
+    itinerary: [
+      {
+        day: "Day 01: Bangalore",
+        description: "On arrival, pick up from Bangalore Railway Station/Airport, later transfer to Hotel. Visit Cubbon Park, Sri Visvesvaraya Science Museum, Sri Venkatapa Art Gallery, ISKCON Temple, Vidhana Soudha, Tipu Sultan’s Summer Palace, Bull Temple, Lalbagh, Bangalore Palace, Indira Gandhi Musical Fountain - Overnight stay at Bangalore."
+      },
+      {
+        day: "Day 02: Bangalore – Coorg [270 Kms/7 Hrs]",
+        description: "Morning Pick up from Bangalore and proceed towards Coorg, En route visit Golden Temple at Byalekupe (Tibetan Monastery) and Nisargadhama. Arrive Madikeri and Check into Hotel. Evening visit Raja’s Seat - Night halt at Coorg."
+      },
+      {
+        day: "Day 03: Coorg",
+        description: "After Breakfast Start for Local Coorg Sightseeing Visit Omkareshwar temple, Raja’s Tomb, Abbey Falls, Bagmandala, Tala Cauvery, Night halt at Coorg."
+      },
+      {
+        day: "Day 04: Coorg – Mysore [110 Kms/3 Hrs]",
+        description: "After Breakfast Check out from Hotel and proceed towards Mysore. En route Visit Dubare Elephant Camp, KRS Dam, Brindavan Garden - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 05: Mysore Sightseeing",
+        description: "After breakfast proceed for Mysore Sightseeing – Visit St. Philomena’s Church, Chamundi Hills, Mysore Palace, Zoo, Rail Museum, Karanji Lake, Jaganmohan Palace, Srirangapattanam - Ranganathaswamy Temple, Dariya Daulat, Gumbuz, Sangam, Nimishabha Temple, Tipu’s Death Place, Captain Bailey’s Dungeon, - Overnight stay at Mysore."
+      },
+      {
+        day: "Day 06: Mysore – Ooty [126 Kms/4 Hrs]",
+        description: "Depart from Mysore and proceed towards Ooty. En route visit Cine shooting place, Pyakara falls, Pyakara lake, Kalhatty waterfalls at Ooty – Overnight stay at Ooty."
+      },
+      {
+        day: "Day 07: Ooty – Coonoor – Ooty",
+        description: "After breakfast proceed towards Coonoor by Toy train on day tour. Visit Lamb’s rock, Sim’s park, Dolphin nose and in the evening visit Dodabetta Peak, Ooty lake, Botanical Garden – Overnight stay at Ooty."
+      },
+      {
+        day: "Day 08: Ooty – Kodaikanal [255 Kms/8 Hrs]",
+        description: "After breakfast depart from Ooty and proceed towards Kodai – In the evening visit Silent Valley, Byrant park, Kodai lake – Overnight stay at Kodaikanal."
+      },
+      {
+        day: "Day 09: Kodaikanal",
+        description: "After breakfast visit Coaker’s walk, Pillar Rock, Bear Shola falls, Green Valley View, Dolphin nose – Overnight stay at Kodaikanal."
+      },
+      {
+        day: "Day 10: Kodaikanal – Bangalore [455 Kms/9 Hrs]",
+        description: "After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },  {
+    package_name: "EXCLUSIVE KASHMIR HIMALAYA",
+    duration: "05N/06D",
+    itinerary: [
+      {
+        day: "Day 01: Arrive Srinagar",
+        description: "Arrival at Srinagar Airport, transfer to hotel. Visit Shankaracharya temple, Nehru Park, Mughal gardens including Chashmashahi, Parimahal, Botanical Garden, Makki Point, Nishat garden, Shalimar garden, Hazratbal Shrine, and a round of old city. Return to hotel for overnight stay."
+      },
+      {
+        day: "Day 02: Srinagar to Sonmarg",
+        description: "After breakfast, drive from Srinagar to Sonmarg. En-route visit the Sind River and Kangan. Enjoy sightseeing and optional horse ride. Overnight stay in Sonmarg."
+      },
+      {
+        day: "Day 03: Sonmarg to Gulmarg",
+        description: "Check out from Sonmarg hotel and drive to Gulmarg. Enjoy scenic beauty and visit Tangmarg town. Check in to hotel, sightseeing, and overnight stay in Gulmarg."
+      },
+      {
+        day: "Day 04: In Gulmarg",
+        description: "Explore Gulmarg after breakfast. Take a Gondola ride and enjoy optional activities like horse riding. Evening return to hotel for overnight stay."
+      },
+      {
+        day: "Day 05: Gulmarg to Srinagar",
+        description: "After breakfast, check out and drive to Srinagar. Check in to a houseboat, then visit local sights including a Shikara ride in Dal Lake and shopping. Overnight stay in Srinagar houseboat."
+      },
+      {
+        day: "Day 06: Departure Srinagar Airport",
+        description: "Check out from houseboat after breakfast. Free time until departure for Srinagar Airport. Depart with fond memories of Kashmir."
+      }
+    ]
+  },
+  {
+    package_name: "KASHMIR PKG BY AIR",
+    duration: "06N/07D",
+    itinerary: [
+      {
+        day: "Day 01: Arrive Srinagar",
+        description: "Arrival at Srinagar Airport, transfer to hotel. Visit Shankaracharya temple, Nehru Park, Mughal gardens including Chashmashahi, Parimahal, Botanical Garden, Makki Point, Nishat garden, Shalimar garden, Hazratbal Shrine, and a round of old city. Return to hotel for overnight stay."
+      },
+      {
+        day: "Day 02: Srinagar to Gulmarg (65Kms/1½Hr)",
+        description: "After breakfast, drive to Gulmarg via Tangmarg town. Check in to hotel, enjoy sightseeing, Gondola ride, and optional horse riding. Overnight stay in Gulmarg."
+      },
+      {
+        day: "Day 03: Gulmarg to Sonmarg",
+        description: "After breakfast, drive from Gulmarg to Sonmarg. En-route visit the Sind River and Kangan. Enjoy sightseeing and optional horse ride. Overnight stay in Sonmarg."
+      },
+      {
+        day: "Day 04: Sonmarg to Srinagar (80Kms/2Hrs)",
+        description: "After breakfast, drive from Sonmarg to Srinagar. Check in to hotel, then visit local market and sightseeing. Return to hotel for overnight stay in Srinagar."
+      },
+      {
+        day: "Day 05: Srinagar to Pahalgam (150Kms/3Hrs)",
+        description: "After breakfast, drive from Srinagar to Pahalgam via saffron fields and Anantnag Town. Check in to hotel, visit Betaab Valley, Chandanwari, and enjoy optional horse riding to Baisaran meadows. Overnight stay in Pahalgam."
+      },
+      {
+        day: "Day 06: Pahalgam to Srinagar",
+        description: "After breakfast, drive from Pahalgam to Srinagar. Check in to houseboat, then visit local sights including a Shikara ride in Dal Lake and shopping. Overnight stay in Srinagar houseboat."
+      },
+      {
+        day: "Day 07: Departure Srinagar Airport",
+        description: "Check out from houseboat after breakfast. Free time until departure for Srinagar Airport. Depart with fond memories of Kashmir."
+      }
+    ]
+  },
+  {
+    package_name: "KASHMIR PKG BY RAIL",
+    duration: "07N/08D",
+    itinerary: [
+      {
+        day: "Day 01: Arrive Udhampur_ Patnitop",
+        description: "Arrival at Udhampur, transfer to Patnitop, check in to hotel and overnight stay."
+      },
+      {
+        day: "Day 02: Patnitop _ Srinagar",
+        description: "After breakfast, check out from Patnitop and proceed to Srinagar. Check in to hotel and overnight stay."
+      },
+      {
+        day: "Day 03: Srinagar Local",
+        description: "After breakfast, visit Shankaracharya temple, Nehru Park, Mughal gardens including Chashmashahi, Parimahal, Botanical Garden, Makki Point, Nishat garden, Shalimar garden, Hazratbal Shrine, and take a Shikara ride in Dal Lake. Return to hotel for overnight stay in Srinagar."
+      },
+      {
+        day: "Day 04: Srinagar to Gulmarg",
+        description: "After breakfast, drive from Srinagar to Gulmarg. Enjoy scenic beauty, Gondola ride, and optional activities. Return to hotel for overnight stay in Gulmarg."
+      },
+      {
+        day: "Day 05: Sonmarg Day Trip",
+        description: "After early breakfast, drive to Sonmarg. Visit the Sind River, Kangan, and enjoy sightseeing with optional horse ride. Return to Srinagar for overnight stay in houseboat."
+      },
+      {
+        day: "Day 06: Srinagar To Pahalgam",
+        description: "After breakfast, drive from Srinagar to Pahalgam via saffron fields and Anantnag Town. Visit Betaab Valley, Chandanwari, and enjoy optional horse riding to Baisaran meadows. Overnight stay in Pahalgam."
+      },
+      {
+        day: "Day 07: Pahalgam to Jammu",
+        description: "After breakfast, check out from Pahalgam and drive to Jammu. Check in to hotel and overnight stay."
+      },
+      {
+        day: "Day 08: Departure Jammu",
+        description: "After breakfast, check out from hotel and free time until departure to Jammu Railway Station. Depart with fond memories of Kashmir."
+      }
+    ]
+  },{
+    package_name: "KASHMIR TOUR PACKAGE FOURTH",
+    duration: "08N/09D",
+    itinerary: [
+      {
+        day: "Day 01: Arrive Udhampur - Patnitop",
+        description: "On Arrival Udhampur Meet our representative and transfer you to Patnitop check in Hotel and overnight stay at Patnitop Hotel."
+      },
+      {
+        day: "Day 02: Patnitop - Srinagar",
+        description: "After Breakfast Check out From Patnitop Hotel and Proceed towards Srinagar. Check in Hotel and Overnight stay at Srinagar Hotel."
+      },
+      {
+        day: "Day 03: Srinagar Local",
+        description: "After Breakfast visit to Shankaracharya temple, Nehru Park across the dal lake stop over the famous coffee shop & ancient books stall, Mughal gardens of Chashmashahi, Parimahal, Botanical Garden, Makki Point for authentic Barbecues station visit char chinar, Nishat garden, Shalimar garden, Hazratbal Shrine, take a round old city. Take 01 Hour Shikara Ride In dal lake. After local sightseeing back to hotel and Overnight stay at Srinagar Hotel."
+      },
+      {
+        day: "Day 04: Srinagar to Gulmarg",
+        description: "After breakfast check out from Srinagar Hotel proceed towards Gulmarg. Enjoy-route you get to see the beautiful Tangmarg town and drive ahead on a scenic drive of 14 kilometres to Gulmarg. Arrive in Gulmarg Take a Gondola Ride and Horse riding On Direct Basis Payment After sightseeing of Gulmarg evening back to Hotel and Overnight stay at Hotel in Gulmarg."
+      },
+      {
+        day: "Day 05: Sonmarg Day Trip",
+        description: "After Early breakfast check out from Gulmarg Hotel and drive to the majestic mountains to Sonmarg on the way visit to sindh River and Kangan and Reach Sonmarg Go for Sightseeing Horse Ride On DIRECT BASIS PAYMENT and Evening back to Srinagar and overnight stay in Srinagar Houseboat."
+      },
+      {
+        day: "Day 06: Srinagar To Pahalgam (150Kms/3Hrs)",
+        description: "After breakfast check out from Srinagar Houseboat and drive to Pahalgam on the way to the saffron field and Anantnag Town check In hotel and After Refresh visit Betaab Valley and Chandanwari (on direct payment basis). As well as take a horse riding trip to Baisaran meadows. (On direct payment basis). After sightseeing in Pahalgam Back to Hotel and Overnight stay In Pahalgam Hotel."
+      },
+      {
+        day: "Day 07: Pahalgam to Katra",
+        description: "After breakfast checkout from Pahalgam Hotel And drive towards Katra. Check In Katra Hotel and overnight stay in Katra Hotel."
+      },
+      {
+        day: "Day 08: Maa Vaishno Devi Darshan",
+        description: "After breakfast proceed for Maa Vaishno Devi Darshan & return by late evening. Overnight Stay at Katra Hotel."
+      },
+      {
+        day: "Day 09: Departure Katra",
+        description: "After breakfast check out from the Hotel and free time till departure to connect onwards to the destination Katra Railways Station with Sweet memories. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      }
+    ]
+  },{
+    package_name: "KASHMIR & VAISHNODEVI & AMRITSAR PKG BY RAIL/AIR",
+    duration: "10N/11N",
+    itinerary: [
+      {
+        day: "Day 01: Arrive Udhampur / Patnitop",
+        description: "On Arrival Jammu Airport / Udhampur Railway Station, meet our representative and transfer to Patnitop. Check in Hotel and overnight stay at Patnitop Hotel."
+      },
+      {
+        day: "Day 02: Patnitop - Srinagar",
+        description: "After Breakfast, check out from Patnitop Hotel and proceed towards Srinagar. Check in Hotel and Overnight stay at Srinagar Hotel."
+      },
+      {
+        day: "Day 03: Srinagar Local",
+        description: "After Breakfast, visit Shankaracharya temple, Nehru Park across the Dal Lake, Mughal gardens (Chashmashahi, Parimahal, Botanical Garden), Makki Point, Char Chinar, Nishat Garden, Shalimar Garden, Hazratbal Shrine. Take a 01 Hour Shikara Ride in Dal Lake. After local sightseeing, back to hotel and Overnight stay at Srinagar Hotel."
+      },
+      {
+        day: "Day 04: Srinagar to Gulmarg",
+        description: "After breakfast, check out from Srinagar Hotel and proceed towards Gulmarg. Enjoy a Gondola Ride and Horse riding on direct payment basis. Evening back to Hotel and Overnight stay at Hotel in Gulmarg."
+      },
+      {
+        day: "Day 05: Sonmarg Day Trip",
+        description: "After Early breakfast, check out from Gulmarg Hotel and drive to Sonmarg. On the way, visit Sindh River and Kangan. Go for Sightseeing and Horse Ride on direct payment basis. Evening back to Srinagar and overnight stay in Srinagar Houseboat."
+      },
+      {
+        day: "Day 06: Srinagar to Pahalgam",
+        description: "After breakfast, check out from Srinagar Houseboat and drive to Pahalgam. Visit saffron fields and Anantnag Town on the way. Check in hotel and after refresh, visit Betaab Valley, Chandanwari (on direct payment basis), and take a horse riding trip to Baisaran meadows (on direct payment basis). After sightseeing, back to Hotel and Overnight stay in Pahalgam Hotel."
+      },
+      {
+        day: "Day 07: Pahalgam to Katra",
+        description: "After breakfast, check out from Pahalgam Hotel and drive towards Katra. Check In Katra Hotel and overnight stay in Katra Hotel."
+      },
+      {
+        day: "Day 08: Maa Vaishno Devi Darshan",
+        description: "After breakfast, proceed for Maa Vaishno Devi Darshan and return by late evening. Overnight Stay at Katra Hotel."
+      },
+      {
+        day: "Day 09: Jammu/Katra to Amritsar (By Rail)",
+        description: "After breakfast, check out from the Hotel and connect onwards to Amritsar by Train Journey. Upon reaching Amritsar Station, our Driver will pick up and transfer directly to Amritsar Hotel. Overnight stay at Amritsar Hotel."
+      },
+      {
+        day: "Day 10: Amritsar Local Sightseeing",
+        description: "After breakfast, proceed for visiting Golden Temple, Jallian Wala Baug, and nearby market for shopping. After lunch, visit Wagah Border for enjoying the parade. Return back to hotel at Dinner time and overnight stay at Amritsar."
+      },
+      {
+        day: "Day 11: Amritsar Departure",
+        description: "After breakfast, check out from the Hotel and free time till departure to connect onwards to Amritsar Airport / Railways Station. Reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for a lifetime."
+      }
+    ]
   }]
