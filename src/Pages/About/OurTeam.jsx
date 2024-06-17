@@ -14,7 +14,7 @@ function OurTeam() {
         <div data-aos="zoom-in" className="max-w-xs bg-white rounded-lg  overflow-hidden group">
           <img
             src="/Images/about/photo-1.jpg"
-            alt="Sulfikar M.S"
+            alt="Shamsudeen"
             className="w-full h-64 object-cover group-hover:-translate-y-3 group-hover:scale-150 transition-all transform duration-1000 "
           />
           <div className="p-6">
@@ -27,17 +27,32 @@ function OurTeam() {
         {/* Card 2 */}
         <div data-aos="zoom-in" className="max-w-xs bg-white rounded-lg  overflow-hidden group">
           <img
-            src="/Images/about/photo-2.jpg"
-            alt="Sulfikar M.S"
+            src="/Images/about/photo2.jpg"
+            alt="Merlyn"
             className="w-full h-64 object-cover group-hover:-translate-y-3 group-hover:scale-150 transition-all transform duration-1000 "
           />
-          <div className="p-6 ">
-            <h2 className="text-xl text-center font-semibold text-gray-800 ">
-              Sulfikar M.S
+          <div className="p-6">
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">
+              Merlyn H
             </h2>
-            <p className="text-gray-700 text-center">HR</p>
+            <p className="text-gray-700">Operation Head</p>
           </div>
         </div>
+        {/* Card 3 */}
+        <div data-aos="zoom-in" className="max-w-xs bg-white rounded-lg  overflow-hidden group">
+          <img
+            src="/Images/about/photo3.jpg"
+            alt="Sheeba"
+            className="w-full h-64 object-cover group-hover:-translate-y-3 group-hover:scale-150 transition-all transform duration-1000 "
+          />
+          <div className="p-6">
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">
+              Sheeba Jacob
+            </h2>
+            <p className="text-gray-700">Buisness Development Head</p>
+          </div>
+        </div>
+
       </div>
     </div>
   );
