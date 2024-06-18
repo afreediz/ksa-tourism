@@ -26,8 +26,8 @@ function ExploreKerala() {
       </p>
       <div className="p-4 grid place-items-center justify-items-center grid-cols-1 lg:grid-cols-4 gap-4">
         {/* card */}
-        {kerala.map((value) => (
-          <div  className="card w-80 shadow-xl image-full">
+        {kerala.map((value, index) => (
+          <div key={index} className="card w-80 shadow-xl image-full">
           <figure><img src={value.image} alt="Image" /></figure>
           <div className="card-body">
             <h2 className="card-title text-white">

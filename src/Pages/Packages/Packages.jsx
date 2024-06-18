@@ -24,7 +24,7 @@ function Packages() {
         <h3 className="text-2xl font-bold mb-6 text-black">Packages</h3>
         <div className="flex flex-wrap gap-4">
           {btnLabel.map((_,index) => (
-              <button className={`btn border-none text-white hover:bg-teal-700 ${index === currentView ? "bg-teal-500" : "bg-gray-800"}`} onClick={() =>{
+              <button key={index} className={`btn border-none text-white hover:bg-teal-700 ${index === currentView ? "bg-teal-500" : "bg-gray-800"}`} onClick={() =>{
                   naviage(`/packages/${btnLabel[index]}`)
                   setCurrentView(index)
                 }}>{btnLabel[index]}</button>

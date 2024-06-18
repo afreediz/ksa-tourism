@@ -26,9 +26,9 @@ function Organizations() {
       <h2 className="text-3xl font-semibold mb-8 text-center text-gray-800">Our Organizations</h2>
       <div className="flex flex-wrap items-center justify-center gap-2">
       {images.map((_,index) => (
-        <div className=' '>
-        <img src={images[index]} className='h-40 w-40 object-contain' alt="" />
-      </div>
+        <div key={index} className=' '>
+          <img src={images[index]} className='h-40 w-40 object-contain' alt="" />
+        </div>
       ))}
       </div>
     </div>
