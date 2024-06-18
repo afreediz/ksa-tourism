@@ -64,7 +64,7 @@ function Service() {
             </h3>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-4 max-w-7xl mx-auto">
               {services.map((service, index) => (
-                <div key={index} className="card bg-white shadow-xl hover:shadow-2xl transition-shadow duration-300 rounded-lg overflow-hidden">
+                <div key={index} data-aos={index % 2 === 0 ? "fade-right" : "fade-left"} className="card bg-white shadow-xl hover:shadow-2xl transition-shadow duration-300 rounded-lg overflow-hidden">
                   <figure className='w-full'>
                     <img className='w-full h-48 object-cover' src={`/Images/service/${service.image}`} alt={service.title} />
                   </figure>
