@@ -29,7 +29,7 @@ function Service() {
     <div>
       <h1 className="heading m-4">Service</h1>
       <div className="container mx-auto py-4">
-        <Link to="/service">
+        <Link to="/services">
           <div className="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-8 gap-2 p-2">
             {services.map((service, index) => (
               <ServiceCard key={index} title={service.title} icon={service.icon} />

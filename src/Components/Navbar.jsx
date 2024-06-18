@@ -21,7 +21,7 @@ const navList = [
   { title: "Blog", path: "/blog" },
   {title: "Kerala Tourism",path: "/kerala-tourism"},
   { title: "Packages", path: "/packages" },
-  { title: "Service", path: "/service" },
+  { title: "Services", path: "/services" },
   { title: "Contact", path: "/contact" },
 ];
 function Navbar() {

@@ -13,7 +13,7 @@ function Footer() {
     <Link to={"/blog"} className="link link-hover">Blog</Link>
     <Link to={"/kerala-tourism"} className="link link-hover">kerala tourism</Link>
     <Link to={"/packages"} className="link link-hover">Packages</Link>
-    <Link to={"/service"} className="link link-hover">Services</Link>
+    <Link to={"/services"} className="link link-hover">Services</Link>
     <Link to={"/contact"} className="link link-hover">Contact</Link>
   </nav> 
   <nav>
