@@ -297,12 +297,240 @@ export const educational = {
 
 export const domestic = [
   {
-    package_name: "",
-    duration: "",
+    package_name: "GOA TOUR PACKAGE FIRST",
+    duration: "3 NIGHTS 4 DAYS",
     itinerary: [
       {
-        day: "",
-        description: ""
+        day: "Day 01: On Arrival Goa",
+        description: "Pickup from Airport/Thivim/Madgoan/Vasco Railway stations in Private Vehicle Ac. Check in to Hotel. Overnight stay at Hotel."
+      },{
+        day: "Day 02: North Goa Sight Seeing",
+        description: "After breakfast we proceed to North goa Sightseeing (Fort Aguada , Saligao church , Calangute or Baga beach , Anjuna beach , Vagator beach) & Return back to the Hotel. Overnight stay at Hotel."
+      },{
+        day: "Day 03: South Goa Sight Seeing",
+        description: "Afterbreakfast we proceed to South Goa Sightseeing (Panjim city, Miramar beach, Dona Paula, Old goa churches & museum, Mangeshi temple, River cruise on mandovi river) & Return back to the Hotel. Overnight stay at Hotel."
+      },{
+        day: "Day 04: Leisure time & Drop",
+        description: "Drop to Airport/Thivim/Madgoan/Vasco Railway stations."
+      },
+    ]
+  },  {
+    package_name: "GOA TOUR PACKAGE SECOND",
+    duration: "3 NIGHTS 4 DAYS",
+    itinerary: [
+      {
+        day: "Day 1 : Welcome to Goa.",
+        description: "Pick up from Goa Airport / Railway Station – Welcome to Goa – Check in Hotel. Free Leisure. Over Night at Hotel.(Dinner )"
+      },      {
+        day: "Day 2 : South Goa",
+        description: "Welcome to South Goa – Today We visit Shantadurga Temple – Mangeshi Temple – Old Goa Church – Dona Paula – Miramar Beach – Evening Boat cruise on Mandavi River. (Breakfast, Lunch & Dinner)"
+      },      {
+        day: "Day 3 : North Goa.",
+        description: "Welcome to North Goa – Today we Visit Aguada Fort – Dolphin Show (Own Cost ) – Goa Famous Beach Calangute Beach – Baga Beach – Anjuna Beach – Later Leave For Mapusa Market. (Breakfast, Lunch & Dinner)"
+      },      {
+        day: "Day 4 : Departure From Goa",
+        description: "Check out From Hotel – Drop to Airport / Railway Station. Its time now to say Good bye to Our Tour Companions. Lets us be in contact with each other through email, calls, facebook…And meet again on one more memorable Tour. Thank You."
+      },
+    ]
+  },  {
+    package_name: "GUJARAT TOUR PACKAGE KUTCH TOUR WITH WHITE RANN",
+    duration: "4 NIGHTS 5 DAYS",
+    itinerary: [
+      {
+        day: "Day 01 : Bhuj",
+        description: "Today, arrive at Bhuj. On arrival visit places like Aina Mahal Museum, Pragmahal Museum, Bhartiya Sanskriti Darsan Exhibition & Cenotaphs of Royal Family. Overnight stay at the hotel."
+      },      {
+        day: "Day 02 : Bhuj – Excursion to Banni & pachcham region (300km/6hrs)",
+        description: "Today, get ready to explore the Banni and Pachcham regions and the edge of the Great Rann of Kutch. Visit Dhordo village, Bhirandiyara village, Ludiya village and Khavda village. Later visit Kalo Dungar (Black Hill) and Dattatray Temple, which provides the view of the Great Rann & sunset. Return to the bhuj. Overnight stay at the resort."
+      },      {
+        day: "Day 03: Bhuj Excursion to Mata No Madh – Lakhpat – Narayan Sarovar – Koteshwar (300km/6hrs)",
+        description: "Today, Visit Mata no Madh – the famous temple of Ashapura Mata. At Lakhpat visit Lakhpat Fort, unique Gurudwara and a beautiful tomb of Gosh Muhammad (famous saint) constructed with hard black stone. Visit Narayan Sarovar is one of the most sacred sites in Hindu religion and is considered to be the third sacred. Also visit Koteshwer Shiva Temple. Overnight stay at Bhuj."
+      },      {
+        day: "Day 04 : Bhuj – Mandvi (60km/1hrs)",
+        description: "Today, enjoy the costal town Mandvi. Visit Vijay Villas Palace – Summer retreat of the royal family. Visit to Organic Farm; 72 Jain Temple Complex; Shipping Yard at Mandvi. Enjoy balance day at the private beach. Overnight stay at the hotel."
+      },      {
+        day: "Day 05 : Mandvi – Bhuj (60km/1.5hrs)",
+        description: "Today, proceed to Rajkot. Drop at Railway station or Airport for your flight/Train. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime."
+      },
+    ]
+  },  {
+    package_name: "GUJARAT TOUR PACKAGE DWARKA – SOMNATH",
+    duration: "4 NIGHTS 5 DAYS",
+    itinerary: [
+      {
+        day: "Day 01 : Ahmedabad – Jamnagar (315km/6hrs)",
+        description: "Arrival at Ahmedabed, Report to our Driver & proceed to Jamnagar. visit Lakhota Lake & Lakhota Museum. In the evening, visit Bala Hanuman Temple known for its nonstop Ramdhun since 1956 and it mentioned in Guinness Book of World Records. Evening is free for Shopping. Overnight stay at the hotel."
+      },      {
+        day: "Day 02 : Jamnagar – Dwarka (150km/3hrs)",
+        description: "Today, proceed to the sacred town of Dwarka. Major Tourist Arrive for Dwarka Tourism. Visit Dwarkadeesh Temple. Take a holy dip in Gomti river, later leave to visit Nageshwar Jyotirling, Gopi Talav, Bet Dwarka, and on way back do visit Rukmani Temple, evening visit other temples on coastal area, attend evening aarti at Dwarkadish temple. Overnight stay at the hotel."
+      },      {
+        day: "Day 03 : Dwarka – Porbandar – Somnath (200km/ 4hrs)",
+        description: "In the morning depart to Porbandar (75km/1.5hrs) at Porbandar visit Kirti Mandir – the place where Gandhiji was born and Sudama Temple – The only Sudama Temple in the world. Later proceed to Somnath (130km/2.5hrs) on arrival visit Bhalka Tirth, Triveni Sagam, Geeta Mandir Chopati & Somnath Temple. In the evening attend Aarti and later watch light and Sound show run by Gujarat Tourism. Overnight stay at the hotel."
+      },      {
+        day: "Day 04 : Somnath – Junagadh – Virpur – Gondal – Rajkot (200km/4hrs)",
+        description: `Today, proceed to Rajkot. Enroute visit Jungadh fort at Junagadh, Jalaram Temple at Virpur and Swaminarya temple, Navlakha Palace and Vintage Car museum at Gondal. In the late evening arrive at Rajkot. Overnight stay at hotel.`
+      },      {
+        day: "Day 05 : Rajkot – Akshardham – Ahmedabad (225km/5hrs)",
+        description: `Today, proceed to Ahmedabad. On arrival at Ahmedabad visit Adalaj Step well, Akshardham Temple & Gandhi Ashram. Evening Drop at Railway station or Airport for your flight/Train. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+      },
+    ]
+  },  {
+    package_name: `GUJARAT TOUR PACKAGE KUTCH-BALARAM-MOUNTABU-AMBAJI`,
+    duration: ` 4 NIGHTS 5 DAYS`,
+    itinerary: [
+      {
+        day: `Day 01 : Ahmedabad – Little Rann of Kutch (90km / 2 hrs)`,
+        description: `Arrival at Ahmedabed, Report to our Driver then proceed to Little Rann of Kutch. On arrival check in to the resort. Explore the desert by open jeep in the Little Rann of Kutch, where one can sight animals like Wild-Ass, Desert Fox, Blue Bull, Blackbuck, Wolf, Jackal and few species of snakes & many species of birds also one can visit the home of Rabari and Banjara are the two important tribes of the region. Overnight stay at Little Rann of Kutch.
+`
+      },{
+        day: `
+
+Day 02: Little Rann of Kutch – Modhera – Patan – Balaram (140kms/3hrs)`,
+        description: `
+Today proceed to Balaram Palace Resort, hunting retreat of the Lohani Nawab of Palanpur. Enroute visit Sun Temple at Modhera. Also visit Patan, Famous for its textiles and architect monuments. In the evening check in to Balaram Palace. Experience the real Nawabi ambience and architecture of northern Gujarat. Overnight stay at Resort.`
+      },{
+        day: `Day 03 : Balaram – Mount Abu(80kms/2hrs)
+`,
+        description: `
+In the morning proceeds to Mount Abu, the day is at leisure to laze and relax in the city. Visit Nakki Lake – A tiny lake picturesquely set amid hills and Enjoy boating. In the evening take a Spectacular sight of the setting sun when the hills are covered in the golden glow can be viewed from Sunset Point. Overnight stay at the hotel.`
+      },{
+        day: `
+Day 04 : Mount Abu
+
+`,
+        description: `Today, proceed to visit the only hill station in Rajasthan, Mount Abu. It is more than just a summer retreat. Later Visit Dilwara Jain Temple – Built between 11th & 13th sanctuary is one of the finest Jain Temples and many even consider them architecturally superior to the Tajmahal. Also visit Gurushikhar, The highest point in Rajasthan and Achalgarh Fort-an impressive fort built in 14th century. In the evening take a ride to the Market for best Rajasthani handicraft shopping. Overnight stay at hotel.
+
+`
+      },{
+        day: `Day 05 : Mount Abu – Ambaji – Ahmedabad (240km/5hrs)
+`,
+        description: `
+Today, in the morning proceed to Ahmedabad. On the way visit and Darshan at One of the holiest temples of Mother Goddess Amba in Gujarat. Arrive at the Ahmedabad. Drop at Railway station or Airport for your flight/Train. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime
+`
+      },
+    ]
+  },{
+    package_name: `GUJARAT TOUR PACKAGE DWARKA – SOMNATH WITH DIU AND SASANGIR
+
+`,
+    duration: `6 days 5 nights`,
+    itinerary: [
+      {
+        day: `Day 01 : Ahmedabad – Jamnagar (315km/6hrs)`,
+        description: `Today, proceed to Jamnagar. On arrival visit Lakhota Lake &Lakhota Museum. In the evening, visit Bala Hanuman Temple known for its nonstop Ramdhun since 1956 and it mentioned in Guinness Book of World Records. Evening is free for Shopping. Overnight stay at the hotel.
+
+`
+      },      {
+        day: `Day 02 : Jamnagar – Dwarka (150km/3hrs)`,
+        description: `Today, proceed to the sacred town of Dwarka Major Tourist arrives for Dwarka Tourism.VisitDwarkadeesh Temple. Take a holy dip in Gomti river,later leave to visit NageshwarJyotirling, GopiTalav, Bet Dwarka, and on way back do visit Rukmani Temple, evening visit other temples on coastal area, attend evening aarti at Dwarkadish temple. Overnight stay at the hotel.`
+      },      {
+        day: `Day 03 : Dwarka – Porbandar – Somnath (200km/ 4hrs)`,
+        description: `In the morning depart to Porbandar (75km/1.5hrs) at Porbandar visit KirtiMandir – the place where Gandhiji was born and Sudama Temple – The only Sudama Temple in the world. Later proceed to Somnath (130km/2.5hrs) on arrival visitBhalkaTirth, TriveniSagam, GeetaMandirChopati& Somnath Temple. In the evening attend Aarti and later watch light and Sound show run by Gujarat Tourism. Overnight stay at the hotel.
+
+
+`
+      },      {
+        day: `Day 04 : Somnath – Diu (100km/2hrs)`,
+        description: `Today, after breakfast proceed to beach town Diu. Later, visit St. Paul’s Church, Diu Museum and Diu Fort. Evening is at leisure to laze and relax on the beach. Overnight stay at the hotel.`
+      },      {
+        day: `
+Day 05 : Diu – Sasangir – Junagadh (150km/3hrs)`,
+        description: `
+Today, proceed to Ahmedabad. On arrival at Ahmedabad visit Adalaj Step well, Akshardham Temple & Gandhi Ashram. Evening Drop at Railway station or Airport.`
+      },      {
+        day: `Day 06 : Junagadh – Virpur – Gondal – Ahmedabad (320km/7hrs)`,
+        description: `Today, proceed to Ahmedabad. On arrival at Ahmedabad visit Adalaj Step well, Akshardham Temple & Gandhi Ashram. Evening Drop at Railway station or Airport for your flight/Train. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime`
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
+      },
+    ]
+  },{
+    package_name: ``,
+    duration: ``,
+    itinerary: [
+      {
+        day: ``,
+        description: ``
       },
     ]
   },
