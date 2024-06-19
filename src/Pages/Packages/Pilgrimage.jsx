@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {pilgrimage} from './domestic'; // Assuming pilgrimageData is the name of your data file
+import pilgrimage from './pilgirimage'; // Assuming pilgrimageData is the name of your data file
 
 export default function Pilgrimage() {
   const [expandIndex, setExpandIndex] = useState(-1)

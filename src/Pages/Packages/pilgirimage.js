@@ -207,4 +207,4 @@ const pilgrimage = [
     
   ];
   
-export default pilgirimage
+export default pilgrimage
