@@ -1677,47 +1677,670 @@ You may choose to stroll across Fashion Street, a stretch famous for it’s expo
       },
     ]
   },{
-    category:``,
+    category:` RAJASTHAN TOUR PACKAGE`,
     data:[
       {
-        package_name: ``,
-        duration: ``,
+        package_name: `JAIPUR – AJMER/PUSHKAR`,
+        duration: ` 3 Nights 4 Days`,
         itinerary: [
           {
-            day: ``,
-            description: ``
+            day: `Day 01: Jaipur Airport / Station – Hotel`,
+            description: `Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 02: Jaipur Local Sightseeing`,
+            description: `After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, "Gaitore" Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 03: Excursion to Ajmer / Pushkar
+`,
+            description: `After breakfast start for full day excursion to Ajmer & Pushkar. Arrive & Visit Ajmer-e-Sharief Dargah, Adhai-Din-Ka Jhonpara, Ana Sagar Lake & drive to Pushkar, visit various temples and Ghats and holy Pushkar Lake. There are more than 400 hundred temples in Pushkar but the main attraction being the temple of Lord Brahma, the only temple in India dedicated to Brahma. Overnight stay at Jaipur.
+`
+          },{
+            day: `Day 04: Hotel – Jaipur Airport / Railway Station
+`,
+            description: `After breakfast check out from hotel and Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
           },
         ]
       },{
-        package_name: ``,
-        duration: ``,
+        package_name: `JAIPUR – RANTHAMBORE`,
+        duration: `4 Nigghts 5 Days`,
         itinerary: [
           {
-            day: ``,
-            description: ``
+            day: `Day 01: Jaipur Airport / Railway Station – Hotel
+`,
+            description: `Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 02: Jaipur Local Sightseeing`,
+            description: `After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, "Gaitore" Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur.
+`
+          },{
+            day: `Day 03: Jaipur – Ranthambore National Park (155 Km / 3 hrs)
+`,
+            description: `After breakfast transfer to Ranthambore. On arrival check-in to your hotel. Afternoon visit Ranthambore Fort built in 994 A.D. atop high creek 200 meters above sea level. Overnight stay at Ranthambore.
+
+`
+          },{
+            day: `
+Day 04: Ranthambore National Park (Jeep Safari / Canter Safari)`,
+            description: `Morning and afternoon jungle safari in Ranthambore National Park by Jeep / Canter (At your own cost). Overnight stay at Ranthambore.
+`
+          },{
+            day: `Day 05: Ranthambore National Park – Jaipur Airport / Railway Station (155 Km / 3 hrs)
+`,
+            description: `After breakfast check out from hotel and Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+
+`
+          },
+        ]
+      },{
+        package_name: `JAIPUR – BIKANER – JAISALMER – JODHPUR – UDAIPUR – PUSHKAR – JAIPUR`,
+        duration: `9 Nights 10 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Jaipur Airport / Railway Station – Hotel`,
+            description: `
+Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 02: Jaipur Local Sightseeing`,
+            description: `After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, "Gaitore" Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur.
+`
+          },{
+            day: `Day 03: Jaipur – Bikaner (330 Km / 6 hrs)
+`,
+            description: `After breakfast transfer to Bikaner. Enroute Asia's biggest camel breeding farm to watch different breeds of Camels. On arrival check-in to your hotel. Overnight stay at Bikaner`
+          },{
+            day: `Day 04: Bikaner Halfday Sightseeing – Jaisalmer (333 Km / 6 hrs)
+`,
+            description: `After breakfast check out from hotel & visit Junagarh Fort which includes Anup Mahal, Gaj Mandir, Sheesh Mahal and Prachina Museum, Lalgarh Palace. After that transfer to Jaisalmer. Overnight stay at Jaisalmer.
+
+`
+          },{
+            day: `Day 05: Jaisalmer Local Sightseeing`,
+            description: `After breakfast visit the Jaisalmer Fort which is made by unique Golden Lime stone, that’s why its known as Golden Fort or Sonar Kella. After that visit Patwon-ki-haveli, Nathmal-ki-haveli. Salim singh-ki-Haveli. People still live in these ancient buildings dating from 12th to 15th century. Every house has exquisite carvings and filigreed work. After that also visit Gadishar Lake. In evening proceed for camel ride on Sam Sand Dunes & you can experience the spectacular view of Sun set in Thar desert. Overnight stay at Jaisalmer.
+
+`
+          },{
+            day: `Day 06: Jaisalmer – Jodhpur (285 Km / 5 hrs)`,
+            description: `After breakfast transfer to Jodhpur. On arrival check-in to your hotel. Overnight stay at Jodhpur.
+
+`
+          },{
+            day: `Day 07: Jodhpur Halfday Sightseeing – Udaipur (260 Km / 5 hrs)
+`,
+            description: `After breakfast start for halfday sightseeing covering Umaid Bhawan Palace, Mehrangarh Fort and Jaswant Thada. After that transfer to Udaipur. On arrival check-in to your hotel. In the evening take a breathtaking boat tour over the picturesque Lake Pichola (at your own cost) to admire the royal buildings around the Lake and enjoy the scenic sunset view. From the lake you have a wonderful view of the City Palace stretching along the east bank, while the south bank has pleasant gardens running down to the waterside. Overnight stay at Udaipur.
+`
+          },{
+            day: `Day 08: Udaipur Local Sightseeing`,
+            description: `After breakfast start for Udaipur city tour. Visiting Fateh Sagar, Maharana Pratap Memorial, take a photo stop at Nehru Garden, Sehelion-KI-Bari - Queen’s resort for their friends, Sukhadia Circle (Drive Pass), Bhartiya Lok kala Museum - a museum of folk and art, it displays a rich collection of folk dresses, ornaments, puppets, masks, dolls. After that visit City Palace – The largest palace complex of Rajasthan, Jagdish Temple – built by Maharana Jagat Singh and is dedicated to Lord Vishnu & Gulab Bagh. Overnight stay at Udaipur.
+`
+          },{
+            day: `Day 09: Udaipur – Ajmer / Pushkar Sightseeing (274 Km / 5 hrs)  `,
+            description: `After breakfast check out from hotel and drive to Ajmer. Arrive & Visit Ajmer-e-Sharief Dargah, Adhai-Din-Ka Jhonpara, Ana Sagar Lake & drive to Pushkar (14 km), visit various temples and Ghats and holy Pushkar Lake. There are more than 400 hundred temples in Pushkar but the main attraction being the temple of Lord Brahma, the only temple in India dedicated to Brahma. Overnight stay at Ajmer / Pushkar.
+`
+          },{
+            day: `Day 10: Ajmer / Pushkar – Jaipur Airport / Railway Station (145 Km / 3 ½ hrs)`,
+            description: `After breakfast check out from hotel and Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+
+`
+          },
+        ]
+      },{
+        package_name: `JAIPUR – BIKANER – JAISALMER – JODHPUR – MOUNTH ABU – UDAIPUR – AJMER/PUSHKAR`,
+        duration: `11 Nights / 12 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Jaipur Airport / Station – Hotel`,
+            description: `Meet & Greet on arrival at Jaipur Railway Station / Airport & transfer to hotel. Check-in to hotel. In the evening you can take an optional tour to visit Laxminarayan Temple (Birla Mandir) & Chokhi Dhani – An Ethnic Village Resort. Back to hotel. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 02: Jaipur Local Sightseeing`,
+            description: `After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, "Gaitore" Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 03: Jaipur – Bikaner (330 Km / 6 hrs)`,
+            description: `After breakfast transfer to Bikaner. Enroute Asia's biggest camel breeding farm to watch different breeds of Camels. On arrival check-in to your hotel. Overnight stay at Bikaner.
+`
+          },{
+            day: `Day 04: Bikaner Local Sightseeing – Jaisalmer (333 Km / 6 hrs)
+`,
+            description: `After breakfast check out from hotel & visit Junagarh Fort which includes Anup Mahal, Gaj Mandir, Sheesh Mahal and Prachina Museum, Lalgarh Palace. After that transfer to Jaisalmer. Overnight stay at Jaisalmer.
+
+`
+          },{
+            day: `Day 05: Jaisalmer Local Sightseeing
+`,
+            description: `After breakfast visit the Jaisalmer Fort which is made by unique Golden Lime stone, that’s why its known as Golden Fort or Sonar Kella. After that visit Patwon-ki-haveli, Nathmal-ki-haveli. Salim singh-ki-Haveli. People still live in these ancient buildings dating from 12th to 15th century. Every house has exquisite carvings and filigreed work. After that also visit Gadishar Lake. In evening proceed for camel ride on Sam Sand Dunes & you can experience the spectacular view of Sun set in Thar Desert. Overnight stay at Jaisalmer.
+`
+          },{
+            day: `Day 06: Jaisalmer – Jodhpur (285 Km / 6 hrs)`,
+            description: `After breakfast transfer to Jodhpur. On arrival check-in to your hotel. Overnight stay at Jodhpur.
+`
+          },{
+            day: `Day 07: Jodhpur Halfday Sightseeing – Mount Abu (326 Km / 7 hrs)`,
+            description: `After breakfast start for halfday sightseeing covering Umaid Bhawan Palace, Mehrangarh Fort and Jaswant Thada. After that transfer to Mount Abu. On arrival check-in to your hotel. In the evening enjoy the sunset from Sunset View Point in Mt. Abu. Overnight stay at Mount Abu.
+
+`
+          },{
+            day: `Day 08: Mount Abu Local Sightseeing`,
+            description: `After breakfast start for Mt. Abu city tour. Visiting Prajapita Brahmakumari, Adhar Devi Temple, Achalgarh, Guru Sikhar, Dilwara Jain Temple, Honeymoon Point, Art Gallery & Nakki Lake where you can enjoy boat ride in at your own cost. Overnight stay at Mt. Abu.
+`
+          },{
+            day: `Day 09: Mount Abu – Udaipur (186 Km / 4 ½ hrs)`,
+            description: `After breakfast check-out from hotel and drive for Udaipur (Beautiful Lake City of Rajasthan). On arrival at Udaipur check-in at your hotel. In the evening take a breath taking boat tour over the picturesque Lake Pichola (at your own cost) to admire the royal buildings around the Lake and enjoy the scenic sunset view. From the lake you have a wonderful view of the City Palace stretching along the east bank, while the south bank has pleasant gardens running down to the waterside. Overnight stay at Udaipur.`
+          },{
+            day: `Day 10: Udaipur Local Sightseeing`,
+            description: `After breakfast start for Udaipur city tour. Visiting Fateh Sagar, Maharana Pratap Memorial, take a photo stop at Nehru Garden, Sehelion-KI-Bari - Queen’s resort for their friends, Sukhadia Circle (Drive Pass), Bhartiya Lok kala Museum - a museum of folk and art, it displays a rich collection of folk dresses, ornaments, puppets, masks, dolls. After that visit City Palace – The largest palace complex of Rajasthan, Jagdish Temple – built by Maharana Jagat Singh and is dedicated to Lord Vishnu & Gulab Bagh. Overnight stay at Udaipur.`
+          },{
+            day: `Day 11: Udaipur – Ajmer / Pushkar Sightseeing (287 Km / 5 hrs)`,
+            description: `After breakfast check out from hotel and drive to Ajmer. Arrive & Visit Ajmer-e-Sharief Dargah, Adhai-Din-Ka Jhonpara, Ana Sagar Lake & drive to Pushkar, visit various temples and Ghats and holy Pushkar Lake. There are more than 400 hundred temples in Pushkar but the main attraction being the temple of Lord Brahma, the only temple in India dedicated to Brahma. Overnight stay at Ajmer / Pushkar.
+
+`
+          },{
+            day: `Day 12: Ajmer / Pushkar – Jaipur Airport / Railway Station (145 Km / 3 hrs)`,
+            description: `After breakfast check out from hotel and Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `DELHI – MANDAWA – BIKANER – JAISALMER – JODHPUR – MOUNT ABU – UDAIPUR – JAIPUR – AGRA`,
+        duration: `14 Nights / 15 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Delhi Railway Station / Airport – Hotel`,
+            description: `Meet & Greet on arrival at Delhi Railway Station/Airport & transfer to Hotel. On arrival check-in to hotel. Overnight stay at Delhi.
+`
+          },{
+            day: `Day 02: Delhi Local Sightseeing`,
+            description: `After breakfast proceed for fullday sightseeing tour of Delhi. Covering Jama Masjid*, Red Fort*, Raj Ghat, Humayun’s Tomb, Lotus Temple (Bahai), Qutub Minar, Rastrapati Bhawan*, Parliament House*, Jantar Mantar & India Gate. Overnight stay at Delhi. (*Drive Pass)
+`
+          },{
+            day: `Day 03: Delhi – Mandawa Halfday Sightseeing (257 Km / 5 hrs)`,
+            description: `After breakfast check out from hotel and drive to Mandawa. On arrival at Mandawa check- in to hotel. Afternoon sightseeing tour of Mandawa, dominated by an imposing mirage like fort. This region is famous for its havelis and Shekhawati paintings. Overnight stay in Mandawa.
+`
+          },{
+            day: `Day 04: Mandawa – Bikaner Halfday Sightseeing (190 Km / 4 hrs)
+`,
+            description: `After breakfast transfer to Bikaner. On arrival check-in to your hotel. Afternoon visit Junagarh Fort which includes Anup Mahal, Gaj Mandir, Sheesh Mahal and Prachina Museum, Lalgarh Palace. Overnight stay at Bikaner.
+`
+          },{
+            day: `Day 05: Bikaner – Jaisalmer (333 Km / 6 hrs)
+`,
+            description: `After breakfast check out from hotel & transfer to Jaisalmer. On arrival check-in to your hotel. Overnight stay at Jaisalmer.
+`
+          },{
+            day: `Day 06: Jaisalmer Local Sightseeing
+`,
+            description: `After breakfast visit the Jaisalmer Fort which is made by unique Golden Lime stone, that’s why its known as Golden Fort or Sonar Kella. After that visit Patwon-ki-haveli, Nathmal-ki-haveli. Salim singh-ki-Haveli. People still live in these ancient buildings dating from 12th to 15th century. Every house has exquisite carvings and filigreed work. After that also visit Gadishar Lake. In Evening proceed for camel ride on Sam Sand Dunes & you can experience the spectacular view of Sun set in Thar desert. Overnight stay at Jaisalmer
+`
+          },{
+            day: `Day 07: Jaisalmer – Jodhpur (285 Km / 5 hrs)`,
+            description: `After breakfast transfer to Jodhpur. On arrival check-in to your hotel. Overnight stay at Jodhpur.
+
+`
+          },{
+            day: `Day 08: Jodhpur Halfday Sightseeing – Mount Abu (326 Km / 7 hrs)
+`,
+            description: `After breakfast start for halfday sightseeing covering Umaid Bhawan Palace, Mehrangarh Fort and Jaswant Thada. After that transfer to Mt. Abu. On arrival check-in to your hotel. In the evening enjoy the sunset from Sunset View Point in Mt. Abu. Overnight stay at Mount Abu.
+
+`
+          },{
+            day: `Day 09: Mount Abu Sightseeing
+`,
+            description: `After breakfast start for Mt. Abu city tour. Visiting Prajapita Brahmakumari, Adhar Devi Temple, Achalgarh, Guru Sikhar, Dilwara Jain Temple, Honeymoon Point, Art Gallery & Nakki Lake where you can enjoy boat ride in at your own cost. Overnight stay at Mt. Abu.
+`
+          },{
+            day: `Day 10: Mount Abu – Udaipur (186 Km / 4 ½ hrs)
+`,
+            description: `After breakfast check-out from hotel and Drive for Udaipur (Beautiful Lake City of Rajasthan). On arrival at Udaipur check-in at your hotel. In the evening take a breathtaking boat tour over the picturesque Lake Pichola (at your own cost) to admire the royal buildings around the Lake and enjoy the scenic sunset view. From the lake you have a wonderful view of the City Palace stretching along the east bank, while the south bank has pleasant gardens running down to the waterside. Overnight stay at Udaipur`
+          },{
+            day: `Day 11: Udaipur Local Sightseeing
+`,
+            description: `After breakfast start for Udaipur city tour. Visiting Fateh Sagar, Maharana Pratap Memorial, take a photo stop at Nehru Garden, Sehelion-KI-Bari - Queen’s resort for their friends, Sukhadia Circle (Drive Pass), Bhartiya Lok kala Museum - a museum of folk and art, it displays a rich collection of folk dresses, ornaments, puppets, masks, dolls. After that visit City Palace – The largest palace complex of Rajasthan, Jagdish Temple – built by Maharana Jagat Singh and is dedicated to Lord Vishnu & Gulab Bagh. Overnight stay at Udaipur.
+`
+          },{
+            day: `Day 12: Udaipur – Jaipur (405 Km / 7 hrs)
+`,
+            description: `After breakfast proceed to the Pink City - Jaipur. On arrival at Jaipur, check into your hotel. Overnight stay at Jaipur.
+`
+          },{
+            day: `Day 13: Jaipur Local Sightseeing`,
+            description: `After breakfast start for full day local sightseeing in Jaipur. Visit Amber Fort & Palace, "Gaitore" Cenetophs (Front View), take a photo stop at Jal Mahal, City Palace & Museum, Jantar Mantar (Observatory) & take a photo stop at Hawa Mahal. Evening free for leisure. Overnight stay at Jaipur.
+
+`
+          },{
+            day: `Day 14: Jaipur – Agra via Fatehpur Sikri + Halfday Sightseeing (245 Km / 4 ½ hrs)
+`,
+            description: `After Breakfast drive to another historical and romantic city - Agra. Enroute visit Fatehpur Sikri - once the capital of Mughal Emperor Akbar. Also visit the Buland Darwaza, the largest gateway in the world. Afternoon visit The world famous Taj Mahal - the most precious gift of love built by Emperor Shah Jahan for his loving wife Mumtaz and Also visit the Marble inlay making factories to see traditional workers making amazing marble crafts. Overnight stay at Agra.
+`
+          },{
+            day: `Day 15: Hotel-Drop at Airport/Railway
+`,
+            description: `After breakfast check out from hotel. Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
           },
         ]
       },
     ]
   },{
-    category:``,
+    category:`TAMIL NADU TOUR PACKAGE
+`,
     data:[
       {
-        package_name: ``,
-        duration: ``,
+        package_name: `CHENNAI-TIRUPATI-VELLORE`,
+        duration: `3 Nights/4 Days`,
         itinerary: [
           {
-            day: ``,
-            description: ``
+            day: `Day 01: Chennai/Tirupati
+`,
+            description: `Morning Pick up from Chennai/Tirupati Airport, Check in Hotel later depart for Local temple Visit-Padmavathi Temple, Govindraju Swamy Temple, Kapiltirtha Temple, Night halt at Tirupati.`
+          },{
+            day: `Day 02: Tirupati – Vellore (110Kms/3hrs)`,
+            description: `Morning free for Tirupati Balaji Darshan, Noon depart to Vellore, same day Arrival, Check in Hotel, Free for Leisure, Night halt at Vellore.
+`
+          },{
+            day: `Day 03: Vellore - Chennai (137Kms/3½Hrs)
+`,
+            description: `Morning Free for Sripuram ( Vellore Temple) Visit, noon depart to Chennai, Same day Arrival, Check in Hotel, Night halt at Chennai.
+
+`
+          },{
+            day: `Day 04: Chennai sightseeing & Drop at Airport
+`,
+            description: `Morning After Breakfast Check out Hotel, later depart for Chennai Local Sightseeing - The Capital city of Tamilnadu and the main Centre of this region, visiting Gandhi Memorial, Fort St. George, Kapaleshwar temple, Parthasarthy Temple, Kala Kshetra, Mylapore temple Pantheon Museum & Art Gallery, Old Light house and Marina beach. Then Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.`
           },
         ]
       },{
-        package_name: ``,
-        duration: ``,
+        package_name: `MADURAI-RAMESHWARAM-KANYAKUMARI`,
+        duration: `4 Nights/5 Days`,
         itinerary: [
           {
-            day: ``,
-            description: ``
+            day: `Day 01: Madurai`,
+            description: `Morning Pick up from Madurai Station/Airport, transfer to Hotel, check In, Afternoon leave to city tour. Madurai's history goes back to six centuries before Christ. The Pandyan rulers made this their capital until the 14th Century and the city flowered with the genius of its writers, builders, poets and academics. Then the Nayaks ruled Madurai from the middle of the 16th Century to 1743. The ten tall Gopurams of the Meenakshi Temple were raised during their dynasty. Visiting - Sri Meenakshi Sundereswarar and Palani temples, King Tirumala's Palace, Vandiyur Mariamman Tank and Gandhi museum. Night halt at Madurai.
+`
+          },{
+            day: `Day 02: Madurai – Rameshwaram (172Kms/3Hrs)`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Rameshwaram - small island in the Gulf of Mannar is a major pilgrim centre. Visit to Sri Ramanathaswamy Temple - situated near the sea on the eastern side, as massive sculptured pillars on either side and has the longest corridors in the world, Kurusadai Island - It is a Marine Biosphere, a paradise for the Marine Biologists and Nature lovers. Night halt at Rameshwaram.
+
+`
+          },{
+            day: `Day 03: Rameshwaram – Kanyakumari (309Kms /5Hrs)`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Kanyakumari – is the land's end of India where the water of the Arabian Sea, the Bay of Bengal and the Indian Ocean meet. An important pilgrim centre of India. Upon arrival Check in hotel, Evening Enjoy Sunset, Night halt at Kanyakumari.
+
+`
+          },{
+            day: `Day 04: Kanyakumari`,
+            description: `Morning After Breakfast start for full day sightseeing visit famous Amman Temples – a symbol of unity and sanctity – dedicated to the virgin Goddess, Kanya Kumari and to its South – East lies the famous Vivekananda Rock Memorial, a blend of all the architectural styles of India. Night halt at Kanyakumari.
+
+`
+          },{
+            day: `Day 05: Kanyakumari - Trivendrum (90Kms/3Hrs)
+`,
+            description: `Morning After Breakfast, Check out hotel,Then Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `CHENNAI-KANCHIPURAM-MAHABALIPURAM-PONDICHERRY`,
+        duration: `4 Nights/5 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Chennai
+`,
+            description: `Morning Pick up from Chennai Airport/Station,, Check in, later depart for Chennai Local Sightseeing - The Capital city of Tamilnadu and the main Centre of this region, visiting Gandhi Memorial, Fort St. George, Kapaleshwar temple, Parthasarthy Temple, Kala Kshetra, Mylapore temple Pantheon Museum & Art Gallery, Old Light house and Marina beach. Night halt at Chennai.`
+          },{
+            day: `Day 02: Chennai to Mahabalipuram (56kms/ Aprox2Hrs)`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Mahabalipuram. Enroute visit Kanchipuram the ancient capital of the Pallavas famous as a golden city of 1000 Temples and still has 124 shrines is one of the seven most sacred cities of India. Kanchipuram is also famous for its silks. Visit its famous temples, Kailash Nath temple, Ekambareshwaram temple, Sri Kamakshi temple etc. Thereafter continue your drive to Mamallapuram (Mahabalipuram). Upon arrival check in hotel, Rest of the day at leisure or free for your own activities, night halt at Mahabalipuram.
+`
+          },{
+            day: `Day 03:Mahabalipuram-Pondicherry (2Hrs)`,
+            description: `Morning After Breakfast check out Hotel, later depart for Mahabalipuram (Mamallapuram) Local Sightseeing - built in 7th century, earlier called Mahabalipuram, this ancient Pallava Fort, is today the sight of several antique sculptural marvels. In this ancient seaside town, shrines and huge sculptures cut-out of rocks more than 1200 years back during the reign of Pallava Kings in the region can be seen. At the mouth of the river Palar, on large granite hall about 1 km in length from north to south is the site of many monuments, like The Descent of Ganges also known as Arjuna's Penance, this open air sculpture showing the descent of the holy River, Krishna Mandap, The Rathas and the Shore temple dedicated to Lord Shiva. Noon Depart to Pondicherry, same day Arrival, Night halt at Pondicherry.
+`
+          },{
+            day: `Day 04: Pondicherry`,
+            description: `Morning After breakfast depart to Local Sightseeing of Pondicherry-carries a strong whiff of the French presence in India. Legend says that Pondicherry is the place where St. Agasthaya settled down. Visiting Arbindo Ashram, the city of dawn, which is 10kms north of Pondicherry. This ashram promotes Aurbindo's ideas in bringing about a synthesis of Yoga and modern science, so as to unite the spirit and matter. Afternoon, visit Auroville - a unique experiment in international living and in creating a new environment where men and women of all nationalities live together in harmony; Vardaraja Perumal Temple, Vedapureswarar Temple & Manakula Vinayagar Temple war memorial, Town Hall. Night halt at Pondicherry.
+`
+          },{
+            day: `Day 05: Pondicherry to Chennai (3½Hrs/150Kms)`,
+            description: `Morning After Breakfast Check out Hotel, Then Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.`
+          },
+        ]
+      },{
+        package_name: `CHENNAI-KANCHIPURAM-MAHABALIPURAM-PONDICHERRY-TANJOUR-TRICHY-MADURAI- RAMESHWARAM-KANYAKUMARI
+`,
+        duration: `10 Nights/11 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Chennai`,
+            description: `Morning Pick up from Chennai Airport/Station, later transfer to Hotel, Check in, later depart for Chennai Local Sightseeing - The Capital city of Tamilnadu and the main Centre of this region, visiting Gandhi Memorial, Fort St. George, Kapaleshwar temple, Parthasarthy Temple, Kala Kshetra, Mylapore temple Pantheon Museum & Art Gallery, Old Light house and Marina beach. Night halt at Chennai.`
+          },{
+            day: `Day 02: Chennai – Mahabalipuram`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Mahabalipuram. Enroute visit Kanchipuram the ancient capital of the Pallavas famous as a golden city of 1000 Temples and still has 124 shrines is one of the seven most sacred cities of India. Kanchipuram is also famous for its silks. Visit its famous temples, Kailash Nath temple, Ekambareshwaram temple, Sri Kamakshi temple etc. Thereafter continue your drive to Mamallapuram (Mahabalipuram). Upon arrival check in hotel, Rest of the day at leisure or free for your own activities, night halt at Mahabalipuram.
+`
+          },{
+            day: `Day 03: Mahabalipuram – Pondicherry`,
+            description: `Morning After Breakfast check out Hotel, later depart for Mahabalipuram (Mamallapuram) Local Sightseeing - built in 7th century, earlier called Mahabalipuram, this ancient Pallava Fort, is today the sight of several antique sculptural marvels. In this ancient seaside town, shrines and huge sculptures cut-out of rocks more than 1200 years back during the reign of Pallava Kings in the region can be seen. At the mouth of the river Palar, on large granite hall about 1 km in length from north to south is the site of many monuments, like The Descent of Ganges also known as Arjuna's Penance, this open air sculpture showing the descent of the holy River, Krishna Mandap, The Rathas and the Shore temple dedicated to Lord Shiva. Noon Depart to Pondicherry, same day Arrival, Night halt at Pondicherry.
+`
+          },{
+            day: `Day 04: Pondicherry`,
+            description: `Morning After breakfast depart to Local Sightseeing of Pondicherry-carries a strong whiff of the French presence in India. Legend says that Pondicherry is the place where St. Agasthaya settled down. Visiting Arbindo Ashram, the city of dawn, which is 10kms north of Pondicherry. This ashram promotes Aurbindo's ideas in bringing about a synthesis of Yoga and modern science, so as to unite the spirit and matter. Afternoon, visit Auroville - a unique experiment in international living and in creating a new environment where men and women of all nationalities live together in harmony; Vardaraja Perumal Temple, Vedapureswarar Temple & Manakula Vinayagar Temple war memorial, Town Hall. Night halt at Pondicherry.
+
+`
+          },{
+            day: `Day 05: Pondicherry – Trichy`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Trichy Enroute visit to Thanjor-Visiting Brihadeeshwara Temple, 16th century Shivganga Fort, Palace museum, etc. Also Night halt at Trichy.`
+          },{
+            day: `Day 06: Tichy`,
+            description: `Morning After Breakfast Start for Local Sightseeing of Trichy - short name of Trichirapalli, situated on the banks of Kaveri River is a blend of history and tradition as well as pilgrim centre. Visiting famous for Ranganath temple and Jambukeshwar Temple at Srirangam and Rock fort and its temple at a height of over 23mts.Night halt at Trichy.`
+          },{
+            day: `Day 07: Trichy – Madurai
+`,
+            description: `Morning After Breakfast depart to Madurai same day Arrival, Check in Hotel, later leave to city tour. Madurai's history goes back to six centuries before Christ. The Pandyan rulers made this their capital until the 14th Century and the city flowered with the genius of its writers, builders, poets and academics. Then the Nayaks ruled Madurai from the middle of the 16th Century to 1743. The ten tall Gopurams of the Meenakshi Temple were raised during their dynasty. Visiting - Sri Meenakshi Sundereswarar and Palani temples, King Tirumala's Palace, Vandiyur Mariamman Tank and Gandhi museum. Night halt at Madurai.
+`
+          },{
+            day: `Day 08: Madurai – Rameshwaram`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Rameshwaram - small island in the Gulf of Mannar is a major pilgrim centre. Visit to Sri Ramanathaswamy Temple - situated near the sea on the eastern side, as massive sculptured pillars on either side and has the longest corridors in the world, Kurusadai Island - It is a Marine Biosphere, a paradise for the Marine Biologists and Nature lovers. Night halt at Rameshwaram.
+`
+          },{
+            day: `Day 09: Rameshwaram - Kanyakumari`,
+            description: `Morning After Breakfast Check out Hotel, later depart to Kanyakumari – is the land's end of India where the water of the Arabian Sea, the Bay of Bengal and the Indian Ocean meet. An important pilgrim centre of India. Upon arrival Check in hotel, Evening Enjoy Sunset, Night halt at Kanyakumari.
+`
+          },{
+            day: `Day 10: Kanyakumari`,
+            description: `Morning After Breakfast start for full day sightseeing visit famous Amman Temples – a symbol of unity and sanctity – dedicated to the virgin Goddess, Kanya Kumari and to its South – East lies the famous Vivekananda Rock Memorial, a blend of all the architectural styles of India. Night halt at Kanyakumari.
+`
+          },{
+            day: `Day 11: Kanyakumari – Trivandrum Airport Drop`,
+            description: `Morning After Breakfast Check out later,Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      }
+    ]
+  },{
+    category:`   UTTARAKHAND TOUR PACKAGE`,
+    data:[
+      {
+        package_name: `MUSSOORIE-HARIDAWAR`,
+        duration: `4 Nights/5 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Delhi – Mussoorie (277kms/ 7 hrs)`,
+            description: `(Highlights - Himalayan peak of western Garhwal ) Arrive at Delhi and proceed to Mussoorie. Located at an altitude of 2000m. above the sea level. Mussoorie is sprawled over a horseshoe shaped ridge. It offers some breath – taking views of the snow- clad Himalayan peak of western Garhwal, as of the Dehradun valley. Overnight stay at Hotel.`
+          },{
+            day: `Day 02: Mussooorie`,
+            description: `(Highlights - Kempty falls, Cable Ride, and later Surkhanda Devi Temple ) After breakfast, visit Kempty falls, a popular tour ist spot. Afternoon visit the Mall road for an optional Cable Ride, and later Surkhanda Devi Temple. The shrine is reached after a dramatic climb to the summit, which offers a fantastic panoramic view of never ending stretches of pristine snow. Overnight stay at hotel.
+
+`
+          },{
+            day: `Day 03: Mussooorie- Haridwar (83kms/ 3hrs)
+`,
+            description: `(Highlights - Manasa Devi Temple and Chamunda Devi etc. AARTI at HARI KI BAURI of the Holy River Ganges ) After early breakfast proceed to Haridwar. Afternoon visit Manasa Devi Temple and Chamunda Devi etc. Later Witness AARTI at HARI KI BAURI of the Holy River Ganges. Overnight stay at Hotel.
+`
+          },{
+            day: `Day 04: Haridwar – Rishikesh – Haridwar
+`,
+            description: `(Highlights - Ram / Lakshman Jhula, Temple etc ) After breakfast, leave for Rishikesh. It is located at a height of about 1360ft. above the sea level. It is believed that several Yogis and Sages lived and practised penance here. Rishikesh represents the site where Vishnu vanquishedthe demon Madhu. Sight – seeing covering Ram / Lakshman Jhula, Temple etc. Overnight stay at hotel.
+`
+          },{
+            day: `Day 05: Haridwar- Delhi (211kms/5 hrs)
+`,
+            description: `After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `NAINITAL-CORBETT`,
+        duration: `5 Nights/6 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Delhi – Nainital (281kms / 7hrs)`,
+            description: `Arrive Delhi and proceed to Nainital. Enroute half at Gajrola. On arrival check in to the hotel. Nainital – the spell binding panorama of snowy Himalayan ranges glistering with rising sun’s graceful willows encircling the emerald mountain, Lake lush green wood’s overwhelmed with cool breeze gives an wonderful experience. Evening enjoy the salubrious climate. Overnight stay at hotel.
+`
+          },{
+            day: `Day 02: Nainital- Bhimtal- Saatal- Nainital`,
+            description: `(Highlights - Cheena Peak, Mall road for shopping, panoramic view of the Himalayas, Bhimtal and Saatal ) Early morning visit Cheena Peak (optional) to get a panoramic view of the Himalayas. Later take an excursion to Bhimtal and Saatal, a cluster of Seven lakes and beautiful surroundings, which offers spectacular views of the terrace plantations. Evening free for local sight- seeing and enjoy the Mall road for shopping. Overnight stay at hotel.
+
+`
+          },{
+            day: `Day 03: Nainital - Mukteshwar-Nainital
+`,
+            description: `(Highlights - Himalayan Peaks, Old Shiva Temple, Show View Point by Cable Car, the picturesque Little Church ) After breakfast, take a full day excursion to Mukteshwar. It is the most beautiful place in Kumaon, from here one can see the majestic Himalayan Peaks. Proceed to the Old Shiva Temple perched on an out crop above the sleepy town. This is the delightful place- serene; tranquil from where you can look out cross the magnificent valley spread 100s of feet below nearby its Chauthi Jali (a vertiginious outcrop of rocks and a great place for spotting eagles and other birds of prey. You can also visit the picturesque Little Church (75 years old) that is perched on the side of hill. Drive back to Nainital. On arrival, (optional) visit Show View Point by Cable Car. Return for overnight stay at hotel.
+`
+          },{
+            day: `Day 04: Nainital- Corbett (343kms / 5 hrs)
+`,
+            description: `(Hightlights - Jim Corbett, Wildlife population includes beside the majestic Tiger, the Leopard, slot Bear, Jungle Cat, Fishing Cat, Wild Boar, Langur and Rhesus Monkeys, Gharial and Muggar Crocodiles ) After breakfast drive to Corbett National Park. The Park is named after Jim Corbett, it is the one of India’s first wildlife sanctuaries spread over an area of 521 sq. km. and the first to come under project tiger. Wildlife population includes beside the majestic Tiger, the Leopard, slot Bear, Jungle Cat, Fishing Cat, Wild Boar, Langur and Rhesus Monkeys, Gharial and Muggar Crocodiles. Arrive and check in the Lodge for overnight. (JUNGLE SAFARI PERMIT, GUEST WILL GET AT RAMNAGAR FOREST OFFICE ON ACTUAL COST).
+
+`
+          },{
+            day: `Day 05: Corbett
+`,
+            description: `(Highlights - wildlife safari by Elephant / Jeep ) Early morning wildlife safari by Elephant / Jeep (to be done on your own). Evening at Leisure, Overnight stay at Lodge`
+          },{
+            day: `Day 06: Corbett – Delhi (260kms / 5 hrs)`,
+            description: `After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `MUSSOORIE-CORBETT-NAINITAL-DELHI`,
+        duration: `7 Nights/8 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Delhi – Mussoorie (277kms/6-7 hrs)`,
+            description: `(Highlights - Himalayan peak of western Garhwal) Arrive at Delhi and proceed to Mussoorie. Located at an altitude of 2000m. above the sea level. Mussoorie is sprawled over a horseshoe shaped ridge. It offers some breath – taking views of the snow- clad Himalayan peak of western Garhwal, as of the Dehradun valley. Overnight stay at Hotel.`
+          },{
+            day: `Day 02: Mussoorie
+`,
+            description: `(Highlights - Kempty falls, Mall road, Cable Ride, and later Surkhanda Devi Temple) After breakfast, visit Kempty falls, a popular tourist spot. Afternoon visit the Mall road for an optional Cable Ride, and later Surkhanda Devi Temple. The shrine is reached after a dramatic climb to the summit, which offers a fantastic panoramic view of never ending stretches of pristine snow. Overnight stay at hotel.
+`
+          },{
+            day: `Day 03: Mussooorie- Corbett ( 250kms/ 5-6hrs)
+`,
+            description: `(Highlights - Jim Corbett, Wildlife population includes beside the majestic Tiger, the Leopard, slot Bear, Jungle Cat, Fishing Cat, Wild Boar, Langur and Rhesus Monkeys, Gharial and Muggar Crocodiles) After Early breakfast drive to Corbett National Park. The Park is named after Jim Corbett, The Park is named after Jim Corbett, it is the one of India’s first wildlife sanctuaries spread over an area of 521 sq. km. and the first to come under project tiger. Wildlife population includes beside the majestic Tiger, the Leopard, slot Bear, Jungle Cat, Fishing Cat, Wild Boar, Langur and Rhesus Monkeys, Gharial and Muggar Crocodiles. Arrive and check in the Lodge for overnight
+
+`
+          },{
+            day: `Day 04: Corbett
+`,
+            description: `(Highlights - wildlife safari by Elephant / Jeep ) Early morning wildlife safari by Elephant / Jeep (to be done on your own). Evening at Leisure, Overnight stay at Lodge`
+          },{
+            day: `Day 05: Corbett- Nainital (143kms/ 3-4 hrs)
+`,
+            description: `(Highlights - visit Bhimtal and Saatal a cluster of Seven Lakes) After breakfast drive to Nainital & visit Bhimtal and Saatal a cluster of Seven Lakes and beautiful surroundings, which offers spectacular views of the terraced plantations. Return to Nainital. Overnight stay at Hotel.
+`
+          },{
+            day: `Day 06: Nainital - Mukteshwar-Nainital
+`,
+            description: `(Highlights - Old Shiva Temple, the majestic Himalayan Peaks, the picturesque Little Church, View Point by Cable Car) After breakfast, take a full day excursion to Mukteshwar. It is the most beautiful place in Kumaon, from here one can see the majestic Himalayan Peaks.Proceed to the Old Shiva Temple perched on an out crop above the sleepy town. This is the delightful place- serene, tranquil from where you can look out cross the magnificent valley spread 100s of feet below nearby its Chauthi Jali (a vertiginious outcrops of rocks and a great place for spotting eagles and other birds of prey. You can also visit the picturesque Little Church (75 years old) that is perched on the side of hill. Drive back to Nainital. On arrival, (optional) visit Show View Point by Cable Car. Return for overnight stay at hotel.
+`
+          },{
+            day: `Day 07: Nainital– Delhi (280kms/ 6-7hrs)
+`,
+            description: `After breakfast, proceed to Delhi. The day is leisure & Overnight stay at Delhi.
+
+`
+          },{
+            day: `Day 08: Delhi Drop
+`,
+            description: `After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `MUSSOORIE-CORBETT-RANIKHET-KAUSANI-ALMORA-NAINITAL-DELHI`,
+        duration: `10 Nights 11 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Delhi – Mussoorie (296 km/ 8hrs)
+`,
+            description: `Today, pick-up from Airport/Railway station and Proceed to Mussoorie.On arrival check in at the hotel. After refreshment go for local Sightseeing of Mussoorie covering Library Bazaar, Gandhi Chowk and LaxmiNarayanTemple. Overnight stay in Mussoorie.
+`
+          },{
+            day: `
+Day 02: Mussoorie`,
+            description: `After breakfast visit Kempty Fall, Tibetian Temple, Municipal Garden, Sir George Everest House, Christ Church, Gun Hill Point, MussoorieJheel, Camels Back Road. Evening free for independent activities. Overnight stay in Mussoorie.
+`
+          },{
+            day: `
+Day 03: Mussoorie – Corbett ( 280 km/ 8 hrs)
+`,
+            description: `After breakfast Proceed to Corbett. On arrival Check into Hotel. After refreshment go for local Sightseeing of Corbett covering Garjiya Devi Temple. Overnight Stay in Corbett.
+`
+          },{
+            day: `Day 04: Corbett ( Safari By OWN)`,
+            description: `Early morning go for Jungle Safari in the National Park. If luck persists you can have sightseeing of tiger, elephants, deer, monkeys and host of bird species. After safari come back to Hotel and day free for independent activities. Overnight stay in Corbett.
+`
+          },{
+            day: `Day 05: Corbett –Ranikhet (100 km/ 3 hrs)`,
+            description: `After Breakfast & Refreshment check out from hotel,depart for Ranikhet. On arrival check in the hotel.After refreshment go for local Sightseeing of Ranikhet covering Jhula Devi is a temple that is dedicated to Goddess Durga. This temple is more than 800 years old & also visit The Golf Course at Ranikhet is the second biggest natural golf course in the country today. It is a nine-hole course and is one of the major attractions of the Ranikhet town & also visit Indian Army museum, Apple Gardens & Shopping market.Overnight stay in Ranikhet.`
+          },{
+            day: `Day 06: Ranikhet - Kausani ( 70 Km/ 3 hrs )`,
+            description: `In the morning after breakfast depart to Sun Set City Kausani . After refreshment go for local Sightseeing visit The Baijnath temple is located about 15 kms. from Kausani. There is a stone idol of Goddess Parvathi inside the temple, Tea Gardens, Anashakti Ashram and in evening witness the famous sunset of Kausani. Overnight stay in Kausani.`
+          },{
+            day: `Day 07: Kausani – Binsar, Almora ( 60 Km/ 3 hrs ) ( Binsar Sanctuary )
+`,
+            description: `Early morning see the sunrise on the Himalayas. After breakfast Proceed to Binsar, Almora. After refreshment go for local Sightseeing of Almora covering Binsar Sanctuary, Himalayan Peaks, Jageshwar Temple, Gairad Dana Golu&Binsar Eco Park Overnight Stay in Almora.
+
+`
+          },{
+            day: `Day 08: Binsar, Almora – Nainital (80 km/3 hrs)`,
+            description: `Early morning see the sunrise on the Himalayas. After breakfast Proceed to Nainital. Nainital is the beautiful Lake City. Visit of lake tour covering Saatal, Bhimtal and Naukuchiatal. After visit come back to Nainital rest & relax. Evening free for strolling on The Mall Road for shopping the famous Wax Candles of Nainital.Overnight stay in Nainital.
+
+`
+          },{
+            day: `Day 09: Nainital
+`,
+            description: `Today, After breakfast go for a half-day sightseeing of Nainital covering Naina Devi Temple, Golf course, Tiffin Top, Hanumangarhi, High altitude Zoo, enjoy the Cable Car ride (on own) to the Snow View Point. & Boat ride in the Naini Lake. Overnight stay in Nainital.
+
+`
+          },{
+            day: `Day 10: Nainital – Delhi ( 320 km / 8 hrs)`,
+            description: `After breakfast proceed to Delhi, The day is leisure & Overnight stay at Delhi.
+`
+          },{
+            day: `Day 11: Delhi Drop`,
+            description: `After having the breakfast, pack your baggage’s with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `MUSSOORIE-RISHIKESH-CORBETT-KAUSANI-NAINITAL-DELHI
+`,
+        duration: `10 Nights / 11 Days`,
+        itinerary: [
+          {
+            day: `Day 01: Delhi – Mussoorie
+`,
+            description: `(Highlights - Himalayan peak of western Garhwal) Arrive at Delhi/and proceed to Mussoorie. Located at an altitude of 2000m. above the sea level. Mussoorie is sprawled over a horseshoe shaped ridge. It offers some breath – taking views of the snow- clad Himalayan peak of western Garhwal, as of the Dehradun valley. Dinner & Overnight stay at Hotel.
+`
+          },{
+            day: `Day 02: Mussoorie`,
+            description: `(Highlights - Kempty falls, Mall road, Cable Ride, and later Surkhanda Devi Temple) After breakfast, visit Kempty falls, a popular tourist spot. Afternoon visit the Mall road for an optional Cable Ride, and later Surkhanda Devi Temple. The shrine is reached after a dramatic climb to the summit, which offers a fantastic panoramic view of never ending stretches of pristine snow. Dinner & Overnight stay at hotel.
+  `
+          },{
+            day: `Day 03: Mussoorie – Haridwar or Rishikesh`,
+            description: `(Highlights - the Holy Ganga River flows, Holy Ganges, evening aarti and pooja by the river banks of the Ganga river, plethora of temples to its sandhus, yoga, meditation ashrams) Leave Mussoorie after a leisurely breakfast to reach by lunch time, the holy twin towns of Haridwar or Rishikesh, back in the foothills, through which the Holy Ganga River flows. Experience the feeling of spiritualism and all that India is known for – from the Holy Ganges, evening aarti and pooja by the river banks of the Ganga river, plethora of temples to its sandhus, yoga, meditation ashrams. Dinner & Overnight stay at Haridwar or Rishikesh.
+
+`
+          },{
+            day: `Day 04: Haridwar or Rishikesh- Corbett Wildlife Sanctuary`,
+            description: `(Highlights - Corbett National Park after the hunter and conservationist, Jim Corbett ) Drive through rural towns, cultivated fields and bullock – cart India to reach exiting Tiger Reserve named Corbett National Park after the hunter and conservationist, Jim Corbett ( Carpet Sahib ). Dinner & Overnights stay at Corbett.
+`
+          },{
+            day: `Day 05: Corbett National Park`,
+            description: `(Highlights - safari inside the Wildlife Sanctuary for your tryst with the big cats, Birding Treks and Horse Safaris are also exciting options for the enthusiasts, swap tall tales with fellow guests around a bonfire) Take the morning safari inside the Wildlife Sanctuary for your tryst with the big cats. Elephants are also available for dense jungle safaris on a first come first serve basis. Those interested in angling can try hooking the mahseer fish for sport. Birding Treks and Horse Safaris are also exciting options for the enthusiasts. In the evening, swap tall tales with fellow guests around a bonfire. Dinner & Overnight stay at Corbett.
+`
+          },{
+            day: `Day 06: Corbett – Ranikhet – Kausani`,
+            description: `
+(Highlights - Himalayan ranges from the Bagirathi peaks in the west to Nanda Kot in the East, orchards of Chaubatia and Jhoola Devi Temple) Morning proceed to reach Ranikhet. Drive through the spectacularly changing vistas, climbing up close to the snow capped peaks. Ranikhet :6000 ft. / 1820 meters above sea level it a serene and peaceful hill station foreshadowed by conifer forests and surrounded by snow clad Himalayan ranges from the Bagirathi peaks in the west to Nanda Kot in the East. Ranikhet also offers golfing at the 9 hole army course beside being known for the orchards of Chaubatia and Jhoola Devi Temple. After Ranikhet sight-seeing proceed to Kausani. Dinner & Overnight stay at Kausani.
+`
+          },{
+            day: `Day 07: Kausani: Local sight-seeing and excursion`,
+            description: `
+(Highlights - Baijnath Temple by the Gomit River, 300 kms wide view of the Himalayas & walks in the thickly wooded area) At the height of 6250 ft. / 1890 meters above sea level, it offers a spectacular 300 kms wide view of the Himalayas & walks in the thickly wooded area. Offers interesting excursions to the 12th Century Baijnath Temple by the Gomit River. Dinner & Overnight stay at Kausani.`
+          },{
+            day: `Day 08: Kausani – Nainital`,
+            description: `(Highlights - Distric of Kumaon, the shimmering mountain lake for boating or sailing and the bustling mall for local action) After breakfast leave to reach Nainital – the beautiful lake distric of Kumaon-by lunch time. After settling in to deluxe hotel, visit the shimmering mountain lake for boating or sailing and the bustling mall for local action. Nainital is a 6400 ft. / 1940 meters above the sea level. Dinner & Overnight stay at Hotel.
+`
+          },{
+            day: `Day 09: Nainital`,
+            description: `(Highlights - Bhimtal and Saatal, boating in Naini Lake & visit to the Holy Naina Devi Temple, the backdrop of stunning snow capped mountains) After Early breakfast Half Day excursion to Bhimtal and Saatal, the most beautiful lakes in the Nainital district set against the backdrop of stunning snow capped mountains. Afternoon return sightseeing of Nainital, boating in Naini Lake & visit to the Holy Naina Devi Temple, evening enjoy walk on mall. Dinner & Overnight stay.
+`
+          },{
+            day: `Day 10: Nainital – Delhi
+`,
+            description: `fter breakfast proceed to Delhi, The day is leisure. Dinner & Overnight stay at Delhi.
+`
+          },{
+            day: `Day 11: Delhi Drop`,
+            description: `After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },{
+        package_name: `MUSSOORIE-RISHIKESH-CHOPTA-CHANDRASHILA-JOSHIMATH-AULI-SRINAGAR`,
+        duration: `10 Nights / 11 Days`,
+        itinerary: [
+          {
+            day: `Day 01:Arrival Dehradun - Mussoorie (275Kms – 7Hrs)`,
+            description: `
+On arrival at Airport/Railway station, our vehicle will pick up and proceed to Mussoorie - is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 35 kilometres (22 mi) from the state capital of Dehradun. hill station is in the foothills of the Garhwal Himalayan range. The adjoining town of Landour, which includes a military cantonment, is considered part of "greater Mussoorie", as are the townships of Barlowganj and Jharipani. On the way visit Robbers cave . On arrival check into the hotel and Option to visit Mall road (by walk). Dinner and Overnight stay at Hotel.
+`
+          },{
+            day:`Day 02: Mussoorie –Morning walk to camel road – Local Sightseeing`,
+            description:`Today early morning by 5:30 am option to go for Guided Nature walk at Camel back road. some sightseeing of Cloud end Gun hill and Lal Tibba ,Company garden and Kampty fall . Dinner and Night stay at hotel
+
+`
+          },{
+            day:`Day 03: Mussoorie –Dhanulti –Tirharidam – Rishikesh`,
+            description:`Today Morning post breakfast day trip to Tihari- Dam on the way Dhanaulti . Dinner and night stay at Mussoorie. Dinner & Overnight at Rishikesh.
+`
+          },{
+            day:`Day 04 : Rishikesh Local Sightseeing`,
+            description:`Post breakfast Sightseeing of Rishikesh Visit Laxman Jhula , Ram Jhoola , Parmarth Ashram , Option to do shopping at Gita Press (Famous of cloths and books ) . by 6 pm Ararti at Parmath Ashram . Dinner and Night stay at Hotel OR CAMP Additional Point – You can try food at Famous Chotiwala Restaurant and River Rafting on additional cost.
+`
+          },{
+            day:`Day 05: Rshikesh –Chopta (165 Km /6 Hrs)`,
+            description:`Arrive at Chopta to the Meraki Mayadeep Hotel or Campsite (as per the booking). Enjoy the evening tea with snacks, followed by dinner in Chopta. Dinner & Overnight Stay in Chopta.`
+          },{
+            day:`Day 06 : Trek to Tungnath and Chandrashila`,
+            description:`After breakfast we will reach the trekking point in Chopta and start the trek. Reach Tungnath Temple and enjoy your packed lunch. You can now trek to Chandrashila (4000 mts) and return back to Chopta. Relax and Enjoy the evening at Chopta. Dinner and overnight stay in Chopta. Stay Hotel Or camp
+`
+          },{
+            day:`Day 07: Chopta – Joshimath`,
+            description:`Drive100 kms StayHotel After breakfast. Check out from the hotel and proceed to Joshimath via Gopeshwar and Chamoli. After arrival at Joshimath check-in into the hotel in Joshimath. If you have enough time and energy to explore some places in Joshimath like Kalpavriksha, Sankar math, Narsingh temple, Vishnu Prayag. Evening free for leisure. Dinner and overnight stay in Joshimath.
+`
+          },{
+            day:`Day 08 : Joshimath – Auli (By Ropeway)`,
+            description:`Post breakfast check out from Joshimath take a ropeway for Auli hoteL (ON ADDIITONAL COST) Lying between the altitude range of 2500 m to2050 m, Auli is one of premier Skiing Resort in India. If you do not wish to travel by road, the other option is to take the 3.9 km cable car ride. The longest cable car ride in Asia, it takes you to a scenic Ski resort. On the way, treat your eyes to the mesmerizing views of the surroundings. On arriving, complete the check-in. Later on, you can enjoy Skiing on the slopes of Auli with the assistance of the resort's instructors. The day is going to be an exciting one. Dinner & Overnight stay at one of the resorts in Auli
+`
+          },{
+            day:`Day 09: Auli – Leisure`,
+            description:`You can partake in Skiing at Auli trip, on a full board basis. Skiing equipment will be made available to you. If you are a beginner, you are going to get full assistance. The ski slopes offer a panoramic view of high Himalayan peaks including Nanda Devi, 7818 m. A 500 m long ski-lift and an 800 m long chair-lift connect the upper and lower snow slopes of Auli. You can visit Gurso Bugyal, a picturesque location from where you get to enjoy magnificent views of Trishul Peak, Dron Parvat and Nanda Devi adding on to its beauty is the green surrounding that makes it look more enthralling. Within close vicinity, lies Chattrakund, a pristine lake that is known for its crystal clear blue waters. It is also an ideal picnic spot for those who love nature and its silence. Another important attraction you may visit in Auli is Auli Artificial Lake which is one of the highest man-made lakes in the World. Surrounded by mighty peaks of Himalayas, the lake was developed by government to produce artificial snow. Dinner & Overnight stay in Auli.
+
+`
+          },{
+            day:`Day 10: Auli – Rudraprayag /Srinagar (127Km/04Hrs 30Min)
+`,
+            description:`Today post breakfast check out and proceed to Rudraprayag halt at Devprayag (one of the Panch Prayag of River Alaknanda where it meets with River Bhagirathi), Rudraprayag (the meeting point of River Alaknanda and River Mandakini) and Karnprayag (the confluence of Rivers Alaknanda and Pindar). Dinner & Overnight stay.
+`
+          },{
+            day:`Day 11 : Srinagar/Rudrapayag –Dehradun Dep
+`,
+            description:`After having the breakfast, pack your baggages with a promise to return once again to this paradise.... Proceed on time to board your flight/train with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
           },
         ]
       },
