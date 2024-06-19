@@ -1216,14 +1216,17 @@ Day 08: Kovalam – Trivandrum – Kovalam
       },{
         package_name: `Kannur Tour Packages`,
         duration: `2 Nights 3 Days`,
-        description: `Kannur, also known as Cannanore, is a beautiful city on the northern side of Kerala State in India. This place is famous for theyyams and temple festivals.
-
-We provide the best of North Kerala tour packages which includes tour packages to  Kannur district also. We specially invite guests from near by cities like Bangalore, Mysore, Madras and Hyderabad to come  to Kannur and  spend week-end for beautiful life experiences. Here is the tour itinerary specially made for them. We also provide customized tour packages to all other guests as well.`,
         itinerary: [
           {
-            day: `Day 1 Arrive at Kannur Bus/Railway Station,`,
+            day: `Day 1 Arrive at Kannur Bus/Railway Station,
+            `,
             description: `Our representative will receive at arrival and assist you to transfer to your accommodation. After check in, if time permit go for sightseeing. Please find the best things you can do in Kannur at this link – Things to do in Kannur. Airport pick up requires additional charges.
- .Overnight stay at  homestay / resort in Kannur`
+ .Overnight stay at  homestay / resort in Kannur 
+ 
+ Kannur, also known as Cannanore, is a beautiful city on the northern side of Kerala State in India. This place is famous for theyyams and temple festivals.
+
+We provide the best of North Kerala tour packages which includes tour packages to  Kannur district also. We specially invite guests from near by cities like Bangalore, Mysore, Madras and Hyderabad to come  to Kannur and  spend week-end for beautiful life experiences. Here is the tour itinerary specially made for them. We also provide customized tour packages to all other guests as well.
+ `
           },{
             day: `Day 2: Sightseeing continue`,
             description: `After breakfast sightseeing to continue – full day. Overnight stay at  homestay / resort in Kannur`
@@ -1235,11 +1238,13 @@ We provide the best of North Kerala tour packages which includes tour packages t
       },{
         package_name: `Wayanad Tour Packages `,
         duration: `2 Nights 3 Days`,
-        description:`Experience the highlights of Wayanad hillstation on this 3 days tour of North Kerala. Wayanad, hidden within the dense Western Ghats, is one of Kerala’s best kept secrets. The name ‘Wayanad’ comes from ‘Vayal Nadu’, or land of paddy fields. It conjures up images of wide open spaces, covered with rice fields. paddy fields are, of course, predominantly visible, but massive hills intermittently between them, making the landscape a lot more interesting.`,
         itinerary: [
           {
             day: `Day 01 Arrive at Kannur Airport and transfer to Wayanad`,
-            description: `Depending on your arrival at Kannur airport, our representative will receive and take you to Wayanad. Check into the resort / homestay near Thirunelli / Tholpetty. After refresh, go for sightseeing around Thirunelli. Overnight stay at Thirunelli / Tholpetty. Touring option : Thirunelli Mahavishnu Temple is one of the oldest temples in Wayanad and  is famous for the rituals conducted for the departed souls. Trekking at Thirunelli Forest available in the morning.`
+            description: `Depending on your arrival at Kannur airport, our representative will receive and take you to Wayanad. Check into the resort / homestay near Thirunelli / Tholpetty. After refresh, go for sightseeing around Thirunelli. Overnight stay at Thirunelli / Tholpetty. Touring option : Thirunelli Mahavishnu Temple is one of the oldest temples in Wayanad and  is famous for the rituals conducted for the departed souls. Trekking at Thirunelli Forest available in the morning.
+            
+            Experience the highlights of Wayanad hillstation on this 3 days tour of North Kerala. Wayanad, hidden within the dense Western Ghats, is one of Kerala’s best kept secrets. The name ‘Wayanad’ comes from ‘Vayal Nadu’, or land of paddy fields. It conjures up images of wide open spaces, covered with rice fields. paddy fields are, of course, predominantly visible, but massive hills intermittently between them, making the landscape a lot more interesting.
+            `
           },{
             day: `Day 02 Wayanad Sightseeing including safari at Tholpetty Wild Life Sanctuary
 `,
