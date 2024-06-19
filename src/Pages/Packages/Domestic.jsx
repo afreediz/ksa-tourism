@@ -9,24 +9,9 @@ export default function Domestic() {
   return (
     <div className="container mx-auto px-4 py-8">
         {domestic && domestic.map((category, index) => (
-                <div 
-                  key={index} 
-                  className={`collapse ${expandIndex == index ? "collapse-open" : "collapse-close"}  border rounded-lg shadow-sm cursor-pointer bg-gray-100 hover:bg-gray-200 transition-colors duration-300 mb-8`}
-                  // onClick={() => setExpandIndex((index === expandIndex) ? -1 : index)}
-                  onClick={() => setExpandIndex(index)}
-                >
-                    <input type="radio" name="my-accordion-3" />
-                    <div className="collapse-title text-xl font-medium text-black text-left uppercase flex justify-between">
-                      <div className="">
-                        {category.category}
-                      </div>
-                      <div onClick={() => {
-                        setExpandIndex(-1 )
-                        console.log('tes');
-                        }} className="">{expandIndex == index ? "-" : "+"}</div>
-                    </div>
-                    <div className="collapse-content text-left text-black">
-            {category.data.map((tourPackage, index) => (
+
+          <>
+          {category.data.map((tourPackage, index) => (
                 <div 
                   key={index} 
                   className={`collapse ${innerExpandIndex == index ? "collapse-open" : "collapse-close"}  border rounded-lg shadow-sm cursor-pointer bg-gray-100 hover:bg-gray-200 transition-colors duration-300 mb-8`}
@@ -48,9 +33,7 @@ export default function Domestic() {
                         ))}
                     </div>
                 </div>
-            ))}
-                    </div>
-                </div>
+            ))}</>
         ))}
     </div>
 );
