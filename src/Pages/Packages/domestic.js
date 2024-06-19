@@ -1,6 +1,4 @@
-
-
-export const domestic = [
+const domestic = [
   {
     category: "GOA TOUR PACKAGE",
     data:[
@@ -2347,3 +2345,5 @@ On arrival at Airport/Railway station, our vehicle will pick up and proceed to M
     ]
   },
 ]
+
+export default domestic
