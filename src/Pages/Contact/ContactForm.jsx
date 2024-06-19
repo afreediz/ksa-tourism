@@ -1,6 +1,60 @@
-import React from "react";
-
+import React, { useState } from "react";
+import emailjs from 'emailjs-com'
 function ContactForm() {
+  const [data, setData] = useState({
+    "name": "",
+    "email": "",
+    "contact": "",
+    "subject": "",
+    "message": ""
+  })
+
+  const handleChange = (e) => {
+    setData({
+      ...data,
+      [e.target.name]: e.target.value
+    })
+  }
+  const handleSubmit = (e) => {
+    if (!data.email || !data.contact) {
+      alert("Please fill the email and contact field");
+      return;
+    } 
+    e.preventDefault();
+    console.log(data);
+
+        // EmailJS parameters
+    const serviceID = import.meta.env.VITE_SERVICEID;
+    const templateID = import.meta.env.VITE_CONTACT_TEMPLATEID;
+    const userID = import.meta.env.VITE_USERID;
+
+    const templateParams = {
+      message:`
+      Name: ${data.name}
+      Email: ${data.email}
+      Contact: ${data.contact}
+      Subject: ${data.subject}
+      Message: ${data.message}
+      `
+    }
+    emailjs.send(serviceID, templateID, templateParams, userID)
+      .then((response) => {
+        console.log('SUCCESS!', response.status, response.text);
+        alert('Message sent successfully!');
+        setData({
+          "name": "",
+          "email": "",
+          "contact": "",
+          "subject": "",
+          "message": ""
+        });
+      })
+      .catch((err) => {
+        console.error('FAILED...', err);
+        alert('Failed to send message, please try again later.');
+      });
+
+  }
   return (
     <div className="hero min-h-screen" id="contactform">
       <div className="hero-content grid lg:flex items-start w-full">
@@ -11,14 +65,14 @@ function ContactForm() {
         </div>
         {/* form section */}
         <div data-aos="fade-left" className="w-full lg:w-3/5">
-            <form className="flex flex-col gap-2 p-12 shadow-lg">
-                <input type="text" placeholder="Name" className="input w-full bg-gray-200" />
+            <form onSubmit={handleSubmit} className="flex flex-col gap-2 p-12 shadow-lg">
+                <input name="name" onChange={handleChange} type="text" placeholder="Name" className="input w-full bg-gray-200" />
                 <div className="grid lg:flex gap-2">
-                    <input type="email" placeholder="Email..." className="input bg-gray-200 w-full" />
-                    <input type="text" placeholder="Mobile No." className="input bg-gray-200 w-full" />
+                    <input name="email" onChange={handleChange} type="email" placeholder="Email..." className="input bg-gray-200 w-full" />
+                    <input name="contact" onChange={handleChange} type="text" placeholder="Mobile No." className="input bg-gray-200 w-full" />
                 </div>
-                <input type="text" placeholder="Subject..." className="input w-full bg-gray-200" />
-                <textarea placeholder="Message..." className="textarea bg-gray-200 h-32"></textarea>
+                <input name="subject" onChange={handleChange} type="text" placeholder="Subject..." className="input w-full bg-gray-200" />
+                <textarea name="message" onChange={handleChange} placeholder="Message..." className="textarea bg-gray-200 h-32"></textarea>
                 <button className="btn bg-teal-500 border-none text-white">Submit</button>
             </form>
         </div>
