@@ -2,9 +2,70 @@ import Navbar from "../../Components/Navbar";
 import HeroPanel from "./HeroPanel";
 import { FaArrowRight } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import { useState } from "react";
+import emailjs from 'emailjs-com'
 
 
 function HeroForm() {
+  // console.log(import.meta.env.VITE_a);
+  const [data, setData] = useState({
+    "name": "",
+    "email": "",
+    "contact": "",
+    "destination": "",
+    "adults": "",
+    "children": ""
+  })
+
+  const handleSubmit = (e) => {
+    if (!data.email || !data.contact) {
+      alert("Please fill the email and contact field");
+      return;
+    } 
+    e.preventDefault();
+    console.log(data);
+
+        // EmailJS parameters
+    const serviceID = import.meta.env.VITE_SERVICEID;
+    const templateID = import.meta.env.VITE_TEMPLATEID;
+    const userID = import.meta.env.VITE_USERID;
+
+    const templateParams = {
+      message:`
+      Name: ${data.name}
+      Email: ${data.email}
+      Contact: ${data.contact}
+      Destination: ${data.destination}
+      Adults: ${data.adults}
+      Children: ${data.children}
+      `
+    }
+    emailjs.send(serviceID, templateID, templateParams, userID)
+      .then((response) => {
+        console.log('SUCCESS!', response.status, response.text);
+        alert('Message sent successfully!');
+        setData({
+          "name": "",
+          "email": "",
+          "contact": "",
+          "destination": "",
+          "adults": "",
+          "children": ""
+        });
+      })
+      .catch((err) => {
+        console.error('FAILED...', err);
+        alert('Failed to send message, please try again later.');
+      });
+  }
+
+  const handleChange = (e) => {
+    setData({
+      ...data,
+      [e.target.name]: e.target.value
+    })
+  }
+
   const inputStyle =
     "p-3 rounded-lg bg-transparent placeholder:text-white border focus:outline-none";
   return (
@@ -14,37 +75,58 @@ function HeroForm() {
         <input
           type="text"
           className={`${inputStyle} md:w-52`}
-          placeholder="Name..."
+          placeholder="Name..." 
+          name="name"
+          value={data.name}
+          onChange={handleChange}
         />
         <input
           type="email"
           className={`${inputStyle} md:w-52`}
           placeholder="Email..."
+          name="email"
+          value={data.email}
+          onChange={handleChange}
         />
       </div>
       <input
         type="text"
         className={`${inputStyle} lg:w-[27rem]`}
         placeholder="Contact Number ...."
+        name="contact"
+        value={data.contact}
+        onChange={handleChange}
       />
       <input
         type="text"
         className={`${inputStyle} lg:w-[27rem]`}
         placeholder="Destination ...."
+        name="destination"
+        value={data.destination}
+        onChange={handleChange}
       />
       <div className="grid lg:flex gap-3 items-center">
         <input
           type="number"
           className={`${inputStyle} w-full lg:w-52`}
           placeholder="Adults"
+          name="adults"
+          value={data.adults}
+          onChange={handleChange}
         />
         <input
           type="number"
           className={`${inputStyle} w-full lg:w-52`}
           placeholder="Childs"
+          name="children"
+          value={data.children}
+          onChange={handleChange}
         />
       </div>
-      <button className="px-5 py-1.5 btn text-white glass border rounded backdrop-blur-0 bg-white/10 hover:bg-black">
+      <button 
+        className="px-5 py-1.5 btn text-white glass border rounded backdrop-blur-0 bg-white/10 hover:bg-black"
+        onClick={handleSubmit}
+        >
         Submit
       </button>
     </div>
