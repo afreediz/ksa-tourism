@@ -3,7 +3,7 @@ const international = [
     category:"DUBAI TOUR PACKAGE",
     data:[
       {
-        package_name: `FIRST`,
+        package_name: `FIRST - `,
         duration: `6 Days`,
         itinerary: [
           {
@@ -31,7 +31,7 @@ SeaWorld: Explore the region’s first Marine Life Theme Park and discover eight
           },
         ]
     },{
-        package_name: `SECOND`,
+        package_name: `SECOND -`,
         duration: `5 Days `,
         itinerary: [
           {
@@ -52,7 +52,7 @@ SeaWorld: Explore the region’s first Marine Life Theme Park and discover eight
           },
         ]
     },{
-        package_name: `THIRD`,
+        package_name: `THIRD -`,
         duration: `7 Days`,
         itinerary: [
           {
@@ -121,7 +121,7 @@ Evoking the Lost City of Atlantis, the underwater passages serve as an immersive
     category:`EUROPE TOUR PACKAGES`,
     data:[
       {
-        package_name: `FIRST`,
+        package_name: `FIRST - `,
         duration: `16 DAYS`,
         itinerary: [
           {
@@ -176,7 +176,7 @@ Meals : Breakfast , Lunch & Dinner`
           },
         ]
       },      {
-        package_name: `SECOND`,
+        package_name: `SECOND - `,
         duration: `15 DAYS`,
         itinerary: [
           {
@@ -267,7 +267,7 @@ Overnight in Rome. (Breakfast, Lunch, Dinner)`
           },
         ]
       },{
-        package_name: `THIRD`,
+        package_name: `THIRD - `,
         duration: `13 DAYS`,
         itinerary: [
           {
@@ -674,7 +674,7 @@ Today after breakfast, proceed for a full day Kintamani tour, first visit the we
     category:`JAPAN TOUR PACKAGES`,
     data:[
       {
-        package_name: `FIRST`,
+        package_name: `FIRST - `,
         duration: `7 DAYS`,
         itinerary: [
           {
@@ -750,7 +750,7 @@ Proceed to Kansai Airport by Private Car`
           },
         ]
       },      {
-        package_name: `SECOND`,
+        package_name: `SECOND - `,
         duration: `10 DAYS`,
         itinerary: [
           {
@@ -848,7 +848,7 @@ Proceed to Kansai Airport by Private Car`
           },
         ]
       },{
-        package_name: `THIRD`,
+        package_name: `THIRD - `,
         duration: `11 DAYS`,
         itinerary: [
           {
