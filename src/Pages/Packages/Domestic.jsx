@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import {domestic} from './packagesdata'
+import {domestic} from './domestic'
 export default function Domestic() {
   const [expandIndex, setExpandIndex] = useState(-1)
 
