@@ -1063,15 +1063,6 @@ Chandanwari is situated 16-km from Pahalgam; Chandanwari is the starting point o
           },
         ]
       },{
-        package_name: ``,
-        duration: ``,
-        itinerary: [
-          {
-            day: ``,
-            description: ``
-          },
-        ]
-      },{
         package_name: `LEISURE KERALA`,
         duration: `6 Nights/7 Days`,
         itinerary: [
