@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {educational} from './packagesdata'; // Assuming packagesData is the name of your data file
+import {educational} from './domestic'; // Assuming packagesData is the name of your data file
 
 export default function Education() {
   const [openPackage, setOpenPackage] = useState(null);
