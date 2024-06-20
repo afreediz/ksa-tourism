@@ -83,7 +83,7 @@ function ContactOffice() {
                   rel="noopener noreferrer"
                   href="https://wa.me/+919497192839"
                 >
-                  +919497192839
+                  +919495509009 ( Arabic )
                 </a>
                 <a
                   className="font-normal"
