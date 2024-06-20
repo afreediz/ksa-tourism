@@ -12,7 +12,7 @@ function Packages() {
   const { packages } = useParams()
   const naviage = useNavigate()
   const page =[<Pilgrimage/>,<Domestic/>,<International/>,<Education/>]
-  const btnLabel = ["Pilgrimage","Domestic","International","Educational"]
+  const btnLabel = ["Pilgrimage","Domestic","International","School-or-College"]
   const [currentView, setCurrentView] = useState(packages ? btnLabel.indexOf(packages) : 0);
   useEffect(() => window.scrollTo(0, 0), []);
 
