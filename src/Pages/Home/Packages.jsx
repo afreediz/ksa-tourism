@@ -39,14 +39,14 @@ const destinations = [
 
   },
   {
-    package: "Educational Tour Package",
+    package: "School/ College Tour Package",
     image: "/Images/packages/education.jpeg",
-    caption: "Enrich minds with our Educational Tour Package. Designed to inspire learning through immersive experiences, explore educational landmarks and cultural gems while fostering a love for discovery.",
-    packageCategory: "Educational"
+    caption: "Enrich minds with our School/ College Tour Package. Designed to inspire learning through immersive experiences, explore educational landmarks and cultural gems while fostering a love for discovery.",
+    packageCategory: "School-or-College"
 
   },
   {
-    package: "Adventure Tour Package",
+    package: "Adventure Tour Package",  
     image: "/Images/packages/adventure.jpg",
     caption: "Explore the thrill of our Adventure Tour Package! Experience heart-pounding activities like hiking, white-water rafting, and zip-lining. Join us for unforgettable adventures in stunning landscapes. Book now for an adrenaline-fueled journey!",
     packageCategory: ""
