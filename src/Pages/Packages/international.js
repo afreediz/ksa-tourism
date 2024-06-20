@@ -346,11 +346,39 @@ Overnight in Rome. (Breakfast, Lunch, Dinner)`
       },
     ]
   },{
-    category:``,
+    category:`MALASIYA-SINGAPORE TOUR PACKAGE`,
     data:[
       {
-        package_name: ``,
-        duration: ``,
+        package_name: `MALAYSIA-SINGAPORE`,
+        duration: `6 Days and 5 Nights`,
+        itinerary: [
+          {
+            day: `Day 1: KUALA LUMPUR- GENTING
+`,
+            description: `On arrival at Kuala Lumpur proceed to Genting Highland. Evening try your luck at famous Casino in the evening. (Please Note: Pack a seperate handbag for Genting Highlands. Light woollens are required at Genting. Casino dress code is formals, Men - Trouser, Collar Shirt / T-shirt, Shoes; Women - Saree, Punjabi or western formal).Overnight at your Hotel in Genting.
+`
+          },{
+            day: `Day 2: KUALA LUMPUR (KUL CITY TOUR + BATU CAVES)`,
+            description: `After Breakfast, Proceed for Kuala LumpurCity Orientation Tour - Enroute we will do Batu Caves King's Palace, Petronas Twin Tower (Photo Stop), KL Tower (Photo Stop), National Monument & Merdeka Square. Visit Swiss Watch Factory Outlet and Chocolate factory outlets. Evening, free for shopping. Overnight at your Hotel in Kuala Lumpur`
+          },          {
+            day: `Day 3: KUALA LUMPUR - SINGAPORE (NIGHT SAFARI)`,
+            description: `After Breakfast transfer to Singapore by AC Coach expected time 5.30 Hours. Free time for Lunch.AfterLunch Check in to hotel.(Standard Check in time is 1400 hrs). Day free for leisure . Evening, visit world's first Night Safari with Tram ride, Animal Show & Fire Show.Overnight at your Hotel`
+          },          {
+            day: `Day 4: SINGAPORE (CITY TOUR)`,
+            description: `After breakfast, proceed for Singapore City Tour – Merlion Park, Singapore River, Chinese Temple,Orchard Street & Singapore Gems Factory Outlet. Afternoon proceed to Sentosa , enjoy Cable car ride & wings of time.)Overnight at your Hotel`
+          },          {
+            day: `Day 5: SINGAPORE (UNIVERSAL STUDIO -OPTIONAL)`,
+            description: `After breakfast, proceed for memorable experience of lifetime at Singapore's latest attraction, At your own Universal StudioAsia's first Hollywood movie theme park featuring 24 movie based attractions. Evening, free time for shopping / relaxation.Overnight at your Hotel.
+`
+          },          {
+            day: `Day 6 : SINGAPORE`,
+            description: `After breakfast at the hotel. Check out from your hotel and Proceed on time to board your flight with sweet memories of your holiday. reach home with pleasant memories of your experience with KSA Tours, which we are sure will be Valuable for lifetime.
+`
+          },
+        ]
+      },      {
+        package_name: `TURKEY TOUR PACKAGES`,
+        duration: `10 DAYS`,
         itinerary: [
           {
             day: ``,
@@ -358,13 +386,22 @@ Overnight in Rome. (Breakfast, Lunch, Dinner)`
           },{
             day: ``,
             description: ``
-          },
-        ]
-      },      {
-        package_name: ``,
-        duration: ``,
-        itinerary: [
-          {
+          },{
+            day: ``,
+            description: ``
+          },{
+            day: ``,
+            description: ``
+          },{
+            day: ``,
+            description: ``
+          },{
+            day: ``,
+            description: ``
+          },{
+            day: ``,
+            description: ``
+          },{
             day: ``,
             description: ``
           },{
