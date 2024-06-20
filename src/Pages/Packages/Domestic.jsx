@@ -39,6 +39,9 @@ export default function Domestic() {
                         <div className="">{innerExpandIndex == index ? "-" : "+"}</div>
                       </div>
                       <div className="collapse-content text-left text-black">
+                        {tourPackage.description && (<div className="border p-4 rounded shadow">
+                                  <p className="text-black text-[1.1rem] font-medium">{tourPackage.description}</p>
+                              </div>)}
                           {tourPackage.itinerary && tourPackage.itinerary.map((day, dayIndex) => (
                               <div key={dayIndex} className="border p-4 rounded shadow">
                                   <h3 className="text-xl font-semibold mb-2">{day.day}</h3>
