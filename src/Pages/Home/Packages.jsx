@@ -33,7 +33,7 @@ const destinations = [
   },
   {
     package: "Family Tour Package",
-    image: "/Images/packages/family.jpeg",
+    image: "/Images/packages/family.webp",
     caption: "Create lasting memories with our Family Tour Package. Tailored for all ages, it offers a perfect blend of adventure and relaxation, ensuring quality time and unforgettable moments for your entire family.",
     packageCategory: ""
 
@@ -78,7 +78,7 @@ function Packages() {
                   <h3 className="card-no">0{index+1}</h3>
                   <h4 className="card-main-title text-white group-hover:text-gray-600">{data.package}</h4>
               </div>
-              <p className="card-content">{data.caption}</p>
+              <p className="card-content shadow-sm">{data.caption}</p>
               <Link to={`/packages/${data.packageCategory}`} className="read-more-btn">Read More</Link>
           </figcaption>
           <span className="after"></span>
