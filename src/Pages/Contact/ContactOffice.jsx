@@ -19,7 +19,7 @@ function ContactOffice() {
             </p>
           </div>
           {/* branch details */}
-          <div className="lg:flex grid justify-items-center gap-10 mt-8">
+          <div className="lg:flex grid justify-center items-center gap-10 mt-8">
   <div data-aos="fade-up" className="w-full max-w-xs bg-white shadow-lg rounded-lg overflow-hidden">
     <div className="bg-teal-400 text-white text-center py-2 font-bold">
       KSA TOURS & TRAVELS Pvt. Ltd.
@@ -45,7 +45,8 @@ function ContactOffice() {
 
         </div>
         {/* head office cards */}
-        <div data-aos="zoom-in" className="relative mt-8 lg:mt-0">
+        <div className="flex justify-center">
+        <div data-aos="zoom-in" className="relative mt-8 lg:mt-0 my-auto">
           <div className="flex justify-center">
             <div className="absolute bg-white text-teal-500 font-bold px-6 py-2 -mt-5 shadow-md rounded">
               Head Office
@@ -171,6 +172,8 @@ function ContactOffice() {
             </div>
           </div>
         </div>
+        </div>
+
       </div>
     </div>
   );
