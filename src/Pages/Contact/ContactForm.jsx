@@ -66,13 +66,13 @@ function ContactForm() {
         {/* form section */}
         <div data-aos="fade-left" className="w-full lg:w-3/5">
             <form onSubmit={handleSubmit} className="flex flex-col gap-2 p-12 shadow-lg">
-                <input name="name" onChange={handleChange} type="text" placeholder="Name" className="input w-full bg-gray-200" />
+                <input name="name" onChange={handleChange} required value={data.name} type="text" placeholder="Name" className="input w-full bg-gray-200" />
                 <div className="grid lg:flex gap-2">
-                    <input name="email" onChange={handleChange} type="email" placeholder="Email..." className="input bg-gray-200 w-full" />
-                    <input name="contact" onChange={handleChange} type="text" placeholder="Mobile No." className="input bg-gray-200 w-full" />
+                    <input name="email" onChange={handleChange} required value={data.email} type="email" placeholder="Email..." className="input bg-gray-200 w-full" />
+                    <input name="contact" onChange={handleChange} required value={data.contact} type="number" placeholder="Mobile No." className="input bg-gray-200 w-full" />
                 </div>
-                <input name="subject" onChange={handleChange} type="text" placeholder="Subject..." className="input w-full bg-gray-200" />
-                <textarea name="message" onChange={handleChange} placeholder="Message..." className="textarea bg-gray-200 h-32"></textarea>
+                <input name="subject" onChange={handleChange} required value={data.subject} type="text" placeholder="Subject..." className="input w-full bg-gray-200" />
+                <textarea name="message" onChange={handleChange} required value={data.message} placeholder="Message..." className="textarea bg-gray-200 h-32"></textarea>
                 <button className="btn bg-teal-500 border-none text-white">Submit</button>
             </form>
         </div>
