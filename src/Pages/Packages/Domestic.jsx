@@ -4,8 +4,6 @@ export default function Domestic() {
   const [openPackage, setOpenPackage] = useState(null);
   const [innerExpandIndex, setInnerExpandIndex] = useState(-1)
 
-  console.log( innerExpandIndex);
-
   const togglePackage = (index) => {
     setOpenPackage(openPackage === index ? null : index);
   };

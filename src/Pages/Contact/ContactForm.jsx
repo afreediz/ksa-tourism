@@ -21,7 +21,6 @@ function ContactForm() {
       return;
     } 
     e.preventDefault();
-    console.log(data);
 
         // EmailJS parameters
     const serviceID = import.meta.env.VITE_SERVICEID;
@@ -39,7 +38,6 @@ function ContactForm() {
     }
     emailjs.send(serviceID, templateID, templateParams, userID)
       .then((response) => {
-        console.log('SUCCESS!', response.status, response.text);
         alert('Message sent successfully!');
         setData({
           "name": "",
@@ -50,7 +48,7 @@ function ContactForm() {
         });
       })
       .catch((err) => {
-        console.error('FAILED...', err);
+        console.error('FAILED...');
         alert('Failed to send message, please try again later.');
       });
 

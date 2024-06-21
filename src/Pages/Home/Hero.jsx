@@ -7,7 +7,6 @@ import emailjs from 'emailjs-com'
 
 
 function HeroForm() {
-  // console.log(import.meta.env.VITE_a);
   const [data, setData] = useState({
     "name": "",
     "email": "",
@@ -19,7 +18,6 @@ function HeroForm() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(data);
 
         // EmailJS parameters
     const serviceID = import.meta.env.VITE_SERVICEID;
@@ -39,7 +37,6 @@ function HeroForm() {
     }
     emailjs.send(serviceID, templateID, templateParams, userID)
       .then((response) => {
-        console.log('SUCCESS!', response.status, response.text);
         alert('Message sent successfully!');
         setData({
           "name": "",
@@ -51,7 +48,7 @@ function HeroForm() {
         });
       })
       .catch((err) => {
-        console.error('FAILED...', err);
+        console.error('FAILED...');
         alert('Failed to send message, please try again later.');
       });
   }
