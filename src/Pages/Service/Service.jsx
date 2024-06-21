@@ -7,19 +7,19 @@ const services = [
   {
     title: " Inbound and Outbound Tour Packages",
     description: "Discover the world with our expertly curated tour packages! Whether you're exploring the local treasures or venturing abroad, our inbound and outbound tour packages offer tailored experiences to suit every traveler's needs. From guided tours and adventure trips to cultural excursions and relaxing getaways, we ensure an unforgettable journey every time.",
-    image: "outbound.jpg"
+    image: "plane2.jpg"
   },{
     title: "Hotel Booking",
     description: "Find your perfect stay with ease! Our hotel booking service connects you with a wide range of accommodations, from budget-friendly hotels to luxurious resorts. Enjoy seamless booking, exclusive deals, and personalized recommendations to make your stay as comfortable and enjoyable as possible.",
-    image: "hotel.jpg"
+    image: "hotel2.jpg"
   },{
     title: " Cab Services ",
     description: "Travel in comfort and style! Our reliable cab services provide safe and convenient transportation for all your travel needs. Whether you need an airport transfer, city tour, or a ride to your hotel, our professional drivers are ready to assist you 24/7",
-    image: "taxi.jpg"
+    image: "cab2.jpg"
   },{
     title: "Helicopter Services",
     description: "Elevate your travel experience! Our helicopter services provide fast and scenic transport options for both leisure and business travelers. Perfect for sightseeing tours, private charters, and quick transfers, our helicopters offer a unique perspective and unparalleled convenience.",
-    image: "helicopter.jpg"
+    image: "helicopter2.jpg"
   },{
     title: "Ticketing and Visa ",
     description: "Hassle-free travel planning! We handle all your ticketing and visa requirements to ensure a smooth and stress-free travel experience. From flight tickets and train passes to visa applications and travel insurance, we've got you covered. ",
