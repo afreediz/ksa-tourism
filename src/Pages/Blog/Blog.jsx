@@ -4,6 +4,29 @@ import Footer from "../../Components/Footer";
 import blogs from ".";
 import BlogBanner from "./BlogBanner";
 import WhatsappButton from "../../Components/WhatsappButton";
+import ReactPlayer from "react-player/youtube";
+
+const youtubeVideos = [
+  {
+    title: "WE LOVE TO HERE FROM OUR GUESTS",
+    link: "https://youtu.be/_Z6sRCbJZg8?si=N5wWKGm2XVMzYBXT",
+  },{
+    title: "INTERVIEW AT PRANAVAM RESORTS WAYANAD",
+    link: "https://youtu.be/vVLo5lnG9VU?si=-dIgh0mVkFtKOwEX",
+  },{
+    title: "A DAY WITH SWETHA MENON - INTERVIEW",
+    link: "https://youtu.be/xj7-6KUNtMc?si=xEBCnZ9faBMFWvLS",
+  },{
+    title: "DAILY VLOG BY OMANI GUEST",
+    link: "https://youtu.be/KtdHi354vQY?si=1YQKTQbNt-Mhj3o-",
+  },{
+    title: "KSA FAMILY TRIP REVIEW BY SOCIAL MEDIA INFLUENCERS",
+    link: "https://youtu.be/_yommBKP8Bk?si=QeBcJlDtEG5SGydq",
+  },{
+    title: "SUNNY LION SHARING HER EXPERIENCE WITH HER FAMILY AT CLUB MAHINDRA MUNNAR",
+    link: "https://youtu.be/c_mdmNLZPys?si=_f-lOVa3zyAIFXAU",
+  },
+]
 
 const Blog = () => {
   useEffect(() => {
@@ -40,6 +63,26 @@ const Blog = () => {
               <div>
                 <p className="font-bold text-black">{blog.title}</p>
                 <p className="text-xm">{blog.date}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* youtube video */}
+        <h1 className="text-3xl text-center font-bold p-3">Youtube Videos</h1>
+        <div className="p-3 flex flex-wrap gap-4 items-center justify-center">
+          {youtubeVideos.map((video, index) => (
+            <div
+            data-aos="zoom-in"
+              key={index}
+              className="p-4 bg-white border-2 border-transparent hover:border-teal-300 card cursor-pointer"
+              onClick={() => openModal(blog)}
+            >
+              <div className="w-full max-w-[30rem]">
+                <ReactPlayer className="w-full" url={video.link} />
+              </div>
+              <div>
+                <p className="font-bold text-black max-w-[20rem]">{video.title}</p>
               </div>
             </div>
           ))}
