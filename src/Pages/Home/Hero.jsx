@@ -4,6 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import emailjs from 'emailjs-com'
+import { toast } from "react-toastify";
 
 
 function HeroForm() {
@@ -37,7 +38,7 @@ function HeroForm() {
     }
     emailjs.send(serviceID, templateID, templateParams, userID)
       .then((response) => {
-        alert('Message sent successfully!');
+        toast.success("Message sent successfully!");
         setData({
           "name": "",
           "email": "",
@@ -48,7 +49,7 @@ function HeroForm() {
         });
       })
       .catch((err) => {
-        console.error('FAILED...');
+        toast.error("Failed to send message, please try again later.");
         alert('Failed to send message, please try again later.');
       });
   }

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 import AnimatedCursor from "react-animated-cursor"
+
 import Loader from "./Components/Loader";
 // pages
 import Home from "./Pages/Home/Home";
@@ -14,6 +15,10 @@ import Packages from "./Pages/Packages/Packages";
 import Service from "./Pages/Service/Service";
 import Navbar from "./Components/Navbar";
 import KeralaTourism from "./Pages/KeralaTourism/KeralaTourism";
+
+import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer, toast } from 'react-toastify';
+
 function App() {
   const [isLoading, setLoading] = useState(true);
   const HomeRoute = () => {
@@ -61,6 +66,7 @@ function App() {
         <Route path="/contact" element={<Contact/>}/>
       </Routes>
     </BrowserRouter>
+    <ToastContainer position="bottom-center" />
    </main>
   );
 }
