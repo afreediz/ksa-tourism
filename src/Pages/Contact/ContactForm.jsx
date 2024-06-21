@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import emailjs from 'emailjs-com'
+import { toast } from "react-toastify";
 function ContactForm() {
   const [data, setData] = useState({
     "name": "",
@@ -38,7 +39,7 @@ function ContactForm() {
     }
     emailjs.send(serviceID, templateID, templateParams, userID)
       .then((response) => {
-        alert('Message sent successfully!');
+        toast.success("Message sent successfully!");
         setData({
           "name": "",
           "email": "",
@@ -48,7 +49,7 @@ function ContactForm() {
         });
       })
       .catch((err) => {
-        console.error('FAILED...');
+        toast.error("Failed to send message, please try again later.");
         alert('Failed to send message, please try again later.');
       });
 
