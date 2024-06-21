@@ -18,10 +18,6 @@ function HeroForm() {
   })
 
   const handleSubmit = (e) => {
-    if (!data.email || !data.contact) {
-      alert("Please fill the email and contact field");
-      return;
-    } 
     e.preventDefault();
     console.log(data);
 
@@ -29,6 +25,7 @@ function HeroForm() {
     const serviceID = import.meta.env.VITE_SERVICEID;
     const templateID = import.meta.env.VITE_TEMPLATEID;
     const userID = import.meta.env.VITE_USERID;
+
 
     const templateParams = {
       message:`
@@ -82,6 +79,7 @@ function HeroForm() {
         />
         <input
           type="email"
+          required 
           className={`${inputStyle} md:w-52`}
           placeholder="Email..."
           name="email"
@@ -90,7 +88,8 @@ function HeroForm() {
         />
       </div>
       <input
-        type="text"
+        type="number"
+        required 
         className={`${inputStyle} lg:w-[27rem]`}
         placeholder="Contact Number ...."
         name="contact"
