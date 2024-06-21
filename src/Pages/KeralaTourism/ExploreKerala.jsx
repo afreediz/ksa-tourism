@@ -1,6 +1,24 @@
 import React, { useState } from "react";
 import KeralaTourismModal from "./KeralaTourismModal";
 import kerala from "./Constants";
+import ReactPlayer from "react-player/youtube";
+
+const youtubeVideos = [
+  {
+    title: "Kerala Unveiled, A Tropical paradise awaits",
+    link: "https://youtu.be/0L8vaX1yJmQ?si=YoEzBKma6em6G9ao",
+  },{
+    title: "Kerala Tourism | Wayanad | Miss Swetha Menon",
+    link: "https://youtu.be/eXxYoxtfhdc?si=3l8mTfNIqXttaXoJ",
+  },{
+    title:"Kerala The Real Beauty of Nature",
+    link: "https://youtu.be/Gn1xS4qS5Xg?si=NVMFgs_ZfWEAnfVh"
+  },{
+    title:"KSA Tours And Travels",
+    link: "https://youtu.be/OMBJzST93dE?si=oJxyw1YjU2R1ThUY"
+  },
+  
+]
 
 function ExploreKerala() {
   const [showModal, setShowModal] = useState(false);
@@ -48,6 +66,28 @@ function ExploreKerala() {
           />
         )}
       </div>
+        {/* youtube video */}
+        <h1 className="text-3xl text-center font-bold p-3">Youtube Videos</h1>
+        <div className="p-3 flex flex-wrap gap-4 items-center justify-center">
+          {youtubeVideos.map((video, index) => (
+            <div
+            data-aos="zoom-in"
+              key={index}
+              className="p-4 bg-white border-2 border-transparent hover:border-teal-300 card cursor-pointer"
+              onClick={() => openModal(blog)}
+            >
+              <div className="w-full max-w-[30rem]">
+                <ReactPlayer className="w-full max-w-[30rem]" url={video.link} />
+              </div>
+              <div>
+                <p className="font-bold text-black max-w-[20rem]">{video.title}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+
+      
     </div>
   );
 }

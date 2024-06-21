@@ -8,22 +8,22 @@ import ReactPlayer from "react-player/youtube";
 
 const youtubeVideos = [
   {
-    title: "WE LOVE TO HERE FROM OUR GUESTS",
+    title: "We Love To Here From Our Guests",
     link: "https://youtu.be/_Z6sRCbJZg8?si=N5wWKGm2XVMzYBXT",
   },{
-    title: "INTERVIEW AT PRANAVAM RESORTS WAYANAD",
+    title: "Interview at Pranavam Resorts Wayanad",
     link: "https://youtu.be/vVLo5lnG9VU?si=-dIgh0mVkFtKOwEX",
   },{
-    title: "A DAY WITH SWETHA MENON - INTERVIEW",
+    title: "A Day with Swetha Menon - Interview",
     link: "https://youtu.be/xj7-6KUNtMc?si=xEBCnZ9faBMFWvLS",
   },{
-    title: "DAILY VLOG BY OMANI GUEST",
+    title: "Daily Vlog By Omani Guest",
     link: "https://youtu.be/KtdHi354vQY?si=1YQKTQbNt-Mhj3o-",
   },{
-    title: "KSA FAMILY TRIP REVIEW BY SOCIAL MEDIA INFLUENCERS",
+    title: "KSA Family Trip Reviews by Social Media Influencers",
     link: "https://youtu.be/_yommBKP8Bk?si=QeBcJlDtEG5SGydq",
   },{
-    title: "SUNNY LION SHARING HER EXPERIENCE WITH HER FAMILY AT CLUB MAHINDRA MUNNAR",
+    title: "Sunny Lion sharing her experience with her family at club Mahindra Munnar",
     link: "https://youtu.be/c_mdmNLZPys?si=_f-lOVa3zyAIFXAU",
   },
 ]
@@ -79,7 +79,7 @@ const Blog = () => {
               onClick={() => openModal(blog)}
             >
               <div className="w-full max-w-[30rem]">
-                <ReactPlayer className="w-full" url={video.link} />
+                <ReactPlayer className="w-full max-w-[30rem]" url={video.link} />
               </div>
               <div>
                 <p className="font-bold text-black max-w-[20rem]">{video.title}</p>
