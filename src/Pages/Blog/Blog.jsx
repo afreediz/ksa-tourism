@@ -78,8 +78,8 @@ const Blog = () => {
               className="p-4 bg-white border-2 border-transparent hover:border-teal-300 card cursor-pointer"
               onClick={() => openModal(blog)}
             >
-              <div className="w-full max-w-[30rem]">
-                <ReactPlayer className="w-full max-w-[30rem]" url={video.link} />
+              <div className="w-full">
+                <ReactPlayer className=" max-w-[26rem]" url={video.link} />
               </div>
               <div>
                 <p className="font-bold text-black max-w-[20rem]">{video.title}</p>
