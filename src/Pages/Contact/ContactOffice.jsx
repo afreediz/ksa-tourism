@@ -131,7 +131,7 @@ function ContactOffice() {
                   <h4 className="font-bold underline underline-offset-2">
                     Social Medias
                   </h4>
-                <div className="flex flex-wrap mt-2">
+                <div className="flex gap-2 flex-wrap mt-2">
                   <a href="https://www.instagram.com/ksatours/">
                     <FaInstagram className=" text-3xl mx-2" />
                   </a>
