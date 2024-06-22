@@ -45,14 +45,13 @@ function ContactOffice() {
 
         </div>
         {/* head office cards */}
-        <div className="flex justify-center">
-          <div data-aos="zoom-in" className="relative mt-8 lg:mt-0 my-auto">
+          <div data-aos="zoom-in" className="relative mt-8 lg:mt-0 p-2 box-border">
             <div className="flex justify-center">
               <div className="absolute bg-white text-teal-500 font-bold px-6 py-2 -mt-5 shadow-md rounded">
                 Head Office
               </div>
             </div>
-            <div className="h-auto lg:w-[28rem]  max-w-[28rem] text-white bg-teal-500 rounded-lg flex flex-col p-2">
+            <div className="h-auto lg:w-[29rem] text-white bg-teal-500 rounded-lg flex flex-col p-2">
               <div className="mt-6">
                 <h3 className="text-xl font-bold">
                   KSA TOURS & TRAVELS Pvt. Ltd.
@@ -132,7 +131,7 @@ function ContactOffice() {
                   <h4 className="font-bold underline underline-offset-2">
                     Social Medias
                   </h4>
-                <div className="flex mt-2">
+                <div className="flex flex-wrap mt-2">
                   <a href="https://www.instagram.com/ksatours/">
                     <FaInstagram className=" text-3xl mx-2" />
                   </a>
@@ -171,7 +170,6 @@ function ContactOffice() {
                 </div>
               </div>
             </div>
-          </div>
         </div>
 
       </div>
