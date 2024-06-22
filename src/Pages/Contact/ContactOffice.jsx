@@ -52,7 +52,7 @@ function ContactOffice() {
                 Head Office
               </div>
             </div>
-            <div className="h-auto lg:w-[29rem]  max-w-[30rem] text-white bg-teal-500 rounded-lg flex flex-col p-3">
+            <div className="h-auto lg:w-[28rem]  max-w-[28rem] text-white bg-teal-500 rounded-lg flex flex-col p-2">
               <div className="mt-6">
                 <h3 className="text-xl font-bold">
                   KSA TOURS & TRAVELS Pvt. Ltd.
