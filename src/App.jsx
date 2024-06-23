@@ -21,6 +21,17 @@ import { ToastContainer, toast } from 'react-toastify';
 
 function App() {
   const [isLoading, setLoading] = useState(true);
+  const [isMaintenance, setMaintenance] = useState(true)
+
+  if (isMaintenance) {
+    return(
+      <div class="flex flex-col justify-center items-center h-screen">
+        <h1 class="text-4xl font-bold text-white mb-4">We'll be back soon!</h1>
+        <p class="text-lg text-slate-100">Our site is currently undergoing scheduled maintenance. Thank you for your patience.</p>
+      </div>
+    )
+  }
+
   const HomeRoute = () => {
       return isLoading ? ( <Loader />) 
       : (
