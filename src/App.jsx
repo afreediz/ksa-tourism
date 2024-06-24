@@ -21,7 +21,7 @@ import { ToastContainer, toast } from 'react-toastify';
 
 function App() {
   const [isLoading, setLoading] = useState(true);
-  const [isMaintenance, setMaintenance] = useState(true)
+  const [isMaintenance, setMaintenance] = useState(false)
 
   if (isMaintenance) {
     return(
