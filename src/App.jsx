@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import {BrowserRouter,Routes,Route} from "react-router-dom"
-import AnimatedCursor from "react-animated-cursor"
 
 import Loader from "./Components/Loader";
 // pages
@@ -13,7 +12,6 @@ import Contact from "./Pages/Contact/Contact";
 import About from "./Pages/About/About";
 import Packages from "./Pages/Packages/Packages";
 import Service from "./Pages/Service/Service";
-import Navbar from "./Components/Navbar";
 import KeralaTourism from "./Pages/KeralaTourism/KeralaTourism";
 
 import 'react-toastify/dist/ReactToastify.css';
