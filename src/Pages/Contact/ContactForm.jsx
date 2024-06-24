@@ -9,6 +9,7 @@ function ContactForm() {
     "subject": "",
     "message": ""
   })
+  const [numSubmission, setNumSubmission] = useState(0)
 
   const handleChange = (e) => {
     setData({
@@ -17,10 +18,10 @@ function ContactForm() {
     })
   }
   const handleSubmit = (e) => {
-    if (!data.email || !data.contact) {
-      alert("Please fill the email and contact field");
+    if(numSubmission >= 5) {
+      toast.error("You have reached the maximum number of submissions. Please try again later.");
       return;
-    } 
+    }
     e.preventDefault();
 
         // EmailJS parameters

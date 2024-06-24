@@ -16,11 +16,18 @@ function HeroForm() {
     "adults": "",
     "children": ""
   })
+  const [numSubmission, setNumSubmission] = useState(0)
+
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
-        // EmailJS parameters
+    if(numSubmission >= 5) {
+      toast.error("You have reached the maximum number of submissions. Please try again later.");
+      return;
+    }
+
+    // EmailJS parameters
     const serviceID = import.meta.env.VITE_SERVICEID;
     const templateID = import.meta.env.VITE_TEMPLATEID;
     const userID = import.meta.env.VITE_USERID;
@@ -47,6 +54,7 @@ function HeroForm() {
           "adults": "",
           "children": ""
         });
+        setNumSubmission(numSubmission + 1)
       })
       .catch((err) => {
         toast.error("Failed to send message, please try again later.");
