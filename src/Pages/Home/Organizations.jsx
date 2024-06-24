@@ -18,6 +18,7 @@ const images = [
   "/Images/org/org-14.png",
   "/Images/org/org-15.png",
   "/Images/org/org-16.png",
+  "/Images/org/org-17.png",
   "/Images/org/org-19.png",
   "/Images/org/org-20.png",
   "/Images/org/org-21.png",
